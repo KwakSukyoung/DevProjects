@@ -13,6 +13,7 @@ C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoL
 C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoList.AssemblyInfoInputs.cache
 C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoList.AssemblyInfo.cs
 C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoList.sourcelink.json
 C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoList.dll
 C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\refint\ToDoList.dll
 C:\Users\fated\OneDrive\Desktop\Rebecah\ToDoList\obj\Debug\net10.0-windows\ToDoList.pdb

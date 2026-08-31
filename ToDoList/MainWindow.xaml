@@ -6,7 +6,78 @@
         xmlns:local="clr-namespace:ToDoList"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="Auto"/>
+            <RowDefinition Height ="Auto"/>
+            <RowDefinition Height ="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBlock Text ="My Task"/>
+
+            <TextBox
+                x:Name ="TitleInputBox"
+                Width="250"
+                Margin="0,5,0,10"/>
+
+            <TextBlock Text ="Priority"/>
+            <ComboBox
+                x:Name="PriorityBox"
+                Width="250"
+                Margin="0,5,0,10">
+                <ComboBoxItem Content ="Low"/>
+                <ComboBoxItem Content ="Medium"/>
+                <ComboBoxItem Content ="High"/>
+            </ComboBox>
+
+            <TextBlock Text ="Due Date"/>
+            <DatePicker
+                x:Name="DueDatePicker"
+                Width="250"
+                Margin="0,5,0,10"/>
+
+            <Button
+                Content="Add Task"
+                Width="100"
+                Click="AddTask_Click"/>
+
+            <Button
+                Content="Complete Task"
+                Width="100"
+                Margin="0,5,0,0"
+                Click="CompleteTask_Click"/>
+            <Button
+                Content="Edit Task"
+                Width="100"
+                Margin="0,5,0,0"
+                Click="EditTask_Click"/>
+            <Button
+                Content="Delete Task"
+                Width="100"
+                Margin="0,5,0,0"
+                Click="DeleteTask_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <TextBox
+                x:Name="ActiveTaskCounter"
+                Margin="0,5,0,0"
+                FontSize="5"/>
+            <ListBox
+                x:Name="ActiveTaskListBox"
+                Margin="0,10,0,0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2">
+            <TextBox
+                x:Name="CompleteTaskCounter"
+                Margin="0,5,0,0"
+                FontSize="5"/>
+            <ListBox
+                x:Name="CompleteTaskListBox"
+                Margin="0,10,0,0"/>
+        </StackPanel>
 
     </Grid>
 </Window>
