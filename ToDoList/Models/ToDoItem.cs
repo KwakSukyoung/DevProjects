@@ -16,7 +16,7 @@ namespace ToDoList.Models
             string status;
             if (IsComplete)
             {
-                status = "Completed";
+                status = "Complete";
             }
             else
             {
@@ -24,6 +24,5 @@ namespace ToDoList.Models
             }
             return $"{Title} | {DueDate} | {Priority} | {status}";
         }
-
     }
 }

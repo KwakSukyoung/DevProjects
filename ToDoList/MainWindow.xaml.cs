@@ -10,6 +10,8 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Collections.ObjectModel;
 using ToDoList.Models;
+using System.Text.Json;
+using System.IO;
 
 namespace ToDoList
 {
@@ -20,7 +22,6 @@ namespace ToDoList
     {
         private ObservableCollection<ToDoItem> ActiveTasks = new ObservableCollection<ToDoItem>();
         private ObservableCollection<ToDoItem> CompleteTasks = new ObservableCollection<ToDoItem>();
-
         public MainWindow()
         {
             InitializeComponent();
@@ -32,136 +33,160 @@ namespace ToDoList
         {
             if (string.IsNullOrWhiteSpace(TitleInputBox.Text))
             {
-                MessageBox.Show("Please enter a task");
+                MessageBox.Show("Please enter a title");
                 return;
             }
 
             string title = TitleInputBox.Text;
-            bool isCompleted = false;
+            bool isComplete = false;
             DateTime? dueDate = DueDatePicker.SelectedDate;
             string priority = ((ComboBoxItem)PriorityBox.SelectedItem)?.Content.ToString();
 
             ToDoItem newTask = new ToDoItem
             {
                 Title = title,
-                IsComplete = isCompleted,
+                IsComplete = isComplete,
                 DueDate = dueDate,
                 Priority = priority
+
             };
 
             ActiveTasks.Add(newTask);
             TitleInputBox.Clear();
             DueDatePicker.SelectedDate = null;
             PriorityBox.SelectedIndex = -1;
-            TaskCoutner();
+            TaskCounter();
             ActiveTaskListBox.Items.Refresh();
-        }
-
-        private void CompleteTask_Click(object sender, RoutedEventArgs e)
-        {
-            ToDoItem selectedTask = ActiveTaskListBox.SelectedItem as ToDoItem;
-            if (selectedTask == null)
-            {
-                MessageBox.Show("Please select a task");
-                return;
-            }
-
-            selectedTask.IsComplete = true;
-            CompleteTasks.Add(selectedTask);
-            ActiveTasks.Remove(selectedTask);
-            ActiveTaskListBox.Items.Refresh();
-            TaskCoutner();
-            CompleteTaskListBox.Items.Refresh();
-
+            SaveTasks();
         }
 
         private void EditTask_Click(object sender, RoutedEventArgs e)
         {
-            ToDoItem ActiveselectedTask = ActiveTaskListBox.SelectedItem as ToDoItem;
-            ToDoItem CompleteselectedTask = CompleteTaskListBox.SelectedItem as ToDoItem;
+            ToDoItem selectedActiveTask = ActiveTaskListBox.SelectedItem as ToDoItem;
+            ToDoItem selectedCompleteTask = CompleteTaskListBox.SelectedItem as ToDoItem;
 
-            if (ActiveselectedTask == null && CompleteselectedTask == null)
+            if (selectedActiveTask == null && selectedCompleteTask == null)
             {
                 MessageBox.Show("Please select a task");
                 return;
             }
 
-
             if (string.IsNullOrWhiteSpace(TitleInputBox.Text))
             {
-                MessageBox.Show("Please enter a task");
+                MessageBox.Show("Please enter a title");
                 return;
             }
 
-            if (ActiveselectedTask != null)
+            if (selectedActiveTask != null)
             {
-                ActiveselectedTask.Title = TitleInputBox.Text;
+                selectedActiveTask.Title = TitleInputBox.Text;
                 if (DueDatePicker.SelectedDate != null)
                 {
-                    ActiveselectedTask.DueDate = DueDatePicker.SelectedDate;
+                    selectedActiveTask.DueDate = DueDatePicker.SelectedDate;
 
                 }
                 if (PriorityBox.SelectedItem != null)
                 {
-                    ActiveselectedTask.Priority = PriorityBox.SelectedItem.ToString();
+                    selectedActiveTask.Priority = ((ComboBoxItem)PriorityBox.SelectedItem).Content.ToString();
                 }
             }
 
-
-            if (CompleteselectedTask != null)
+            if (selectedCompleteTask != null)
             {
-                CompleteselectedTask.Title = TitleInputBox.Text;
+                selectedCompleteTask.Title = TitleInputBox.Text;
                 if (DueDatePicker.SelectedDate != null)
                 {
-                    CompleteselectedTask.DueDate = DueDatePicker.SelectedDate;
+                    selectedCompleteTask.DueDate = DueDatePicker.SelectedDate;
 
                 }
                 if (PriorityBox.SelectedItem != null)
                 {
-                    CompleteselectedTask.Priority = PriorityBox.SelectedItem.ToString();
+                    selectedCompleteTask.Priority = ((ComboBoxItem)PriorityBox.SelectedItem).Content.ToString();
                 }
             }
 
-            TaskCoutner();
+            TitleInputBox.Clear();
+            DueDatePicker.SelectedDate = null;
+            PriorityBox.SelectedIndex = -1;
             ActiveTaskListBox.Items.Refresh();
             CompleteTaskListBox.Items.Refresh();
+            SaveTasks();
+
 
         }
 
         private void DeleteTask_Click(object sender, RoutedEventArgs e)
         {
-            ToDoItem ActiveselectedTask = ActiveTaskListBox.SelectedItem as ToDoItem;
-            ToDoItem CompleteselectedTask = CompleteTaskListBox.SelectedItem as ToDoItem;
+            ToDoItem selectedActiveTask = ActiveTaskListBox.SelectedItem as ToDoItem;
+            ToDoItem selectedCompleteTask = CompleteTaskListBox.SelectedItem as ToDoItem;
 
-            if (ActiveselectedTask == null && CompleteselectedTask == null)
+            if (selectedActiveTask == null && selectedCompleteTask == null)
             {
                 MessageBox.Show("Please select a task");
                 return;
             }
 
-            if (ActiveselectedTask != null)
+            if (selectedActiveTask != null)
             {
-                ActiveTasks.Remove(ActiveselectedTask);
-            }
-
-
-            if (CompleteselectedTask != null)
-            {
-                CompleteTasks.Remove(CompleteselectedTask);
+                ActiveTasks.Remove(selectedActiveTask);
 
             }
+            if (selectedCompleteTask != null)
+            {
+                CompleteTasks.Remove(selectedCompleteTask);
 
-            TaskCoutner();
+            }
+            TaskCounter();
             ActiveTaskListBox.Items.Refresh();
             CompleteTaskListBox.Items.Refresh();
+            SaveTasks();
 
         }
 
-        private void TaskCoutner()
+        private void CompleteTask_Click(object sender, RoutedEventArgs e)
         {
+            ToDoItem selectedActiveTask = ActiveTaskListBox.SelectedItem as ToDoItem;
 
-            ActiveTaskCounter.Text = $"Acitve: {ActiveTasks.Count()}";
-            CompleteTaskCounter.Text = $"Complete: {CompleteTasks.Count()}";
+            if (selectedActiveTask == null)
+            {
+                MessageBox.Show("Please select a task");
+                return;
+
+            }
+            selectedActiveTask.IsComplete = true;
+            CompleteTasks.Add(selectedActiveTask);
+            ActiveTasks.Remove(selectedActiveTask);
+            TaskCounter();
+            ActiveTaskListBox.Items.Refresh();
+            CompleteTaskListBox.Items.Refresh();
+            SaveTasks();
+
+
+        }
+
+        private void TaskCounter()
+        {
+            int activeNum = ActiveTasks.Count();
+            int completeNum = CompleteTasks.Count();
+
+            ActiveTaskCounter.Text = $"Active Task Number: {activeNum}";
+            CompleteTaskCounter.Text = $"Complete Task Number: {completeNum}";
+
+
+        }
+
+        private void SaveTasks()
+        {
+            string filePath = "ToDoList.Json";
+            var payload = new
+            {
+                ActiveTasks = ActiveTasks,
+                CompleteTasks = CompleteTasks,
+            };
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            string json = JsonSerializer.Serialize(payload, options);
+            File.WriteAllText(filePath, json);
+
         }
     }
 }
