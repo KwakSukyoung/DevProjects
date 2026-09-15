@@ -1,1201 +1,1201 @@
 guest_id,age,family_size,first_visit,visit_frequency,visit_motivation,venue,education_program,spending,satisfaction,learning_score,likelihood_return,likelihood_recommend,participated_booth
-10001,56,3,no,First visit,Entertainment,Garden,No,14.617588071222006,5.0,1.0,5.0,5.0,5
+10001,56,3,no,First visit,Entertainment,Garden,No,14.617588071222006,3.0,4.0,3.0,3.0,1
 10002,69,5,no,Quarterly,Entertainment,Curiosity Museum,Yes,11.74261789294715,5.0,3.0,5.0,5.0,5
-10003,46,4,yes,Quarterly,Exhibits,Farm,No,15.875554362268435,5.0,3.0,5.0,5.0,3
-10004,32,5,no,Quarterly,Education,Farm,Yes,5.94211603144568,4.0,2.0,3.0,4.0,3
-10005,60,5,no,First visit,Family Time,Garden,No,9.851911097354435,4.0,2.0,4.0,4.0,4
-10006,25,1,no,Quarterly,Special Event,Events,Yes,0.0,4.0,2.0,4.0,4.0,1
-10007,38,4,no,Rarely,Special Event,Garden,No,29.605893462785517,3.0,3.0,3.0,3.0,3
-10008,56,6,no,Quarterly,Nature,Events,No,19.48196670482643,4.0,4.0,4.0,3.0,5
-10009,36,3,no,First visit,Entertainment,Curiosity Museum,Yes,3.3981623394985476,4.0,5.0,4.0,4.0,5
-10010,40,4,no,Monthly,Entertainment,Events,No,43.481024720328584,3.0,4.0,4.0,2.0,2
-10011,28,4,no,First visit,Entertainment,Garden,No,16.3052472058858,3.0,2.0,4.0,3.0,2
-10012,28,4,no,Quarterly,Special Event,Curiosity Museum,Yes,0.0,5.0,2.0,5.0,5.0,2
-10013,41,4,no,Monthly,Nature,Dinosaurs,No,27.851061322056875,3.0,2.0,4.0,3.0,1
-10014,70,4,yes,Quarterly,Education,Farm,Yes,20.970723247638936,5.0,3.0,5.0,4.0,4
-10015,53,3,no,Rarely,Exhibits,Garden,No,20.91869978226329,4.0,2.0,4.0,4.0,1
-10016,57,5,no,Rarely,Family Time,Garden,No,8.613665930226142,4.0,3.0,3.0,4.0,4
-10017,41,1,no,Weekly,Education,Garden,Yes,21.757435856670522,4.0,3.0,4.0,3.0,5
-10018,20,2,no,First visit,Special Event,Curiosity Museum,No,11.073625646683581,5.0,3.0,5.0,5.0,3
-10019,39,1,no,Rarely,Exhibits,Dinosaurs,No,23.339121774687634,5.0,3.0,5.0,4.0,3
-10020,70,2,no,Quarterly,Exhibits,Events,No,0.0,4.0,3.0,3.0,5.0,3
-10021,19,4,no,Quarterly,Exhibits,Dinosaurs,No,8.491898055312163,5.0,4.0,5.0,5.0,5
+10003,46,4,yes,Quarterly,Exhibits,Farm,No,15.875554362268435,4.0,3.0,4.0,4.0,2
+10004,32,5,no,Quarterly,Education,Farm,Yes,5.94211603144568,5.0,4.0,5.0,5.0,4
+10005,60,5,no,First visit,Family Time,Garden,No,9.851911097354435,5.0,2.0,5.0,5.0,4
+10006,25,1,no,Quarterly,Special Event,Events,Yes,0.0,5.0,5.0,5.0,5.0,5
+10007,38,4,no,Rarely,Special Event,Garden,No,29.605893462785517,4.0,4.0,4.0,4.0,3
+10008,56,6,no,Quarterly,Nature,Events,No,19.48196670482643,5.0,3.0,5.0,5.0,3
+10009,36,3,no,First visit,Entertainment,Curiosity Museum,Yes,3.3981623394985476,4.0,4.0,4.0,4.0,2
+10010,40,4,no,Monthly,Entertainment,Events,No,43.481024720328584,4.0,4.0,5.0,3.0,5
+10011,28,4,no,First visit,Entertainment,Garden,No,16.3052472058858,5.0,3.0,4.0,5.0,2
+10012,28,4,no,Quarterly,Special Event,Curiosity Museum,Yes,0.0,3.0,4.0,4.0,3.0,4
+10013,41,4,no,Monthly,Nature,Dinosaurs,No,27.851061322056875,4.0,3.0,4.0,4.0,5
+10014,70,4,yes,Quarterly,Education,Farm,Yes,20.970723247638936,4.0,3.0,4.0,4.0,2
+10015,53,3,no,Rarely,Exhibits,Garden,No,20.91869978226329,5.0,4.0,5.0,5.0,5
+10016,57,5,no,Rarely,Family Time,Garden,No,8.613665930226142,5.0,2.0,5.0,5.0,5
+10017,41,1,no,Weekly,Education,Garden,Yes,21.757435856670522,5.0,5.0,5.0,5.0,3
+10018,20,2,no,First visit,Special Event,Curiosity Museum,No,11.073625646683581,4.0,3.0,4.0,4.0,4
+10019,39,1,no,Rarely,Exhibits,Dinosaurs,No,23.339121774687634,5.0,3.0,5.0,5.0,4
+10020,70,2,no,Quarterly,Exhibits,Events,No,0.0,4.0,4.0,3.0,4.0,2
+10021,19,4,no,Quarterly,Exhibits,Dinosaurs,No,8.491898055312163,5.0,4.0,5.0,5.0,3
 10022,41,5,yes,First visit,Entertainment,Curiosity Museum,No,40.83232646712292,4.0,2.0,4.0,4.0,3
-10023,61,5,no,Quarterly,Family Time,Garden,No,3.493988168995497,5.0,4.0,5.0,4.0,4
-10024,47,2,no,Quarterly,Special Event,Farm,Yes,5.942425537602204,4.0,4.0,3.0,4.0,5
-10025,55,6,no,First visit,Special Event,Garden,No,8.280579923250373,3.0,3.0,2.0,3.0,5
-10026,19,5,yes,Monthly,Exhibits,Events,No,0.0,4.0,4.0,4.0,4.0,5
-10027,38,4,yes,First visit,Special Event,Farm,No,0.0,4.0,4.0,4.0,4.0,1
-10028,50,6,no,Rarely,Family Time,Garden,No,11.541204022145807,4.0,2.0,5.0,4.0,5
+10023,61,5,no,Quarterly,Family Time,Garden,No,3.493988168995497,4.0,2.0,5.0,5.0,3
+10024,47,2,no,Quarterly,Special Event,Farm,Yes,5.942425537602204,5.0,3.0,5.0,5.0,5
+10025,55,6,no,First visit,Special Event,Garden,No,8.280579923250373,4.0,4.0,4.0,4.0,1
+10026,19,5,yes,Monthly,Exhibits,Events,No,0.0,4.0,3.0,5.0,5.0,2
+10027,38,4,yes,First visit,Special Event,Farm,No,0.0,5.0,3.0,5.0,5.0,3
+10028,50,6,no,Rarely,Family Time,Garden,No,11.541204022145807,4.0,2.0,4.0,4.0,1
 10029,29,8,yes,First visit,Family Time,Farm,No,17.037891361224855,5.0,3.0,5.0,5.0,5
-10030,39,3,yes,First visit,Nature,Dinosaurs,No,14.212423971920217,4.0,3.0,4.0,4.0,5
-10031,61,4,yes,Monthly,Nature,Curiosity Museum,No,12.826821570781698,3.0,3.0,4.0,4.0,2
-10032,42,6,yes,Rarely,Education,Garden,Yes,15.645613062755814,5.0,4.0,5.0,5.0,3
-10033,66,5,yes,Rarely,Family Time,Events,No,30.342622073261463,4.0,3.0,4.0,4.0,2
-10034,44,1,no,First visit,Family Time,Dinosaurs,No,12.143307211061748,4.0,5.0,4.0,4.0,3
-10035,59,5,no,Quarterly,Family Time,Garden,Yes,6.388761343690955,5.0,3.0,5.0,4.0,5
-10036,45,6,no,Quarterly,Nature,Dinosaurs,No,10.783117726678705,5.0,3.0,5.0,4.0,3
-10037,33,5,no,Rarely,Exhibits,Events,No,23.690201396351636,5.0,2.0,5.0,5.0,4
-10038,32,5,no,First visit,Exhibits,Garden,Yes,36.180403178148744,4.0,4.0,4.0,3.0,4
-10039,64,6,yes,Monthly,Special Event,Events,Yes,5.577843912462325,4.0,3.0,4.0,3.0,5
-10040,68,3,yes,Rarely,Exhibits,Farm,Yes,16.484006805433257,3.0,4.0,3.0,4.0,1
-10041,61,3,no,Rarely,Entertainment,Events,No,20.075361629039396,4.0,3.0,4.0,3.0,4
-10042,72,5,yes,First visit,Nature,Farm,Yes,0.11132989906765645,5.0,3.0,5.0,5.0,4
-10043,69,6,no,Quarterly,Family Time,Garden,Yes,15.306257508193772,5.0,3.0,5.0,5.0,5
-10044,74,3,no,Rarely,Exhibits,Farm,No,0.0,4.0,3.0,4.0,3.0,1
-10045,20,4,no,Rarely,Nature,Garden,Yes,0.0,2.0,5.0,2.0,2.0,1
-10046,54,5,yes,First visit,Exhibits,Garden,Yes,20.501196118383856,5.0,4.0,5.0,5.0,2
-10047,68,4,yes,Weekly,Education,Curiosity Museum,Yes,9.241878880038257,2.0,4.0,2.0,2.0,1
-10048,24,5,no,First visit,Family Time,Garden,No,18.034206114318287,5.0,5.0,5.0,5.0,4
-10049,38,6,yes,Quarterly,Education,Farm,No,14.731575344874749,4.0,3.0,4.0,4.0,2
-10050,26,5,no,Rarely,Family Time,Curiosity Museum,Yes,0.35399927004303944,4.0,3.0,4.0,4.0,1
-10051,56,4,no,First visit,Nature,Curiosity Museum,No,14.321185470534953,3.0,4.0,3.0,3.0,3
-10052,35,4,no,Quarterly,Special Event,Garden,No,0.0,5.0,3.0,5.0,4.0,2
-10053,21,4,yes,First visit,Exhibits,Events,Yes,35.86458537002101,3.0,3.0,2.0,2.0,2
-10054,42,4,no,Monthly,Exhibits,Events,Yes,0.0,4.0,3.0,4.0,3.0,4
-10055,31,4,no,Monthly,Entertainment,Curiosity Museum,Yes,12.063220935471282,4.0,5.0,3.0,5.0,5
-10056,67,4,no,Monthly,Education,Garden,No,0.0,3.0,3.0,4.0,2.0,1
-10057,26,1,yes,First visit,Exhibits,Events,No,23.556317600411933,4.0,3.0,4.0,4.0,1
-10058,43,3,no,Quarterly,Nature,Garden,Yes,10.028529430777457,5.0,3.0,5.0,5.0,4
-10059,70,4,yes,Rarely,Special Event,Garden,No,7.219999205681848,5.0,4.0,5.0,5.0,5
-10060,19,4,no,Monthly,Nature,Curiosity Museum,Yes,27.798023175773316,5.0,3.0,5.0,5.0,4
-10061,37,3,yes,Quarterly,Education,Curiosity Museum,No,15.441458875163283,5.0,3.0,5.0,5.0,2
-10062,45,5,no,Quarterly,Entertainment,Dinosaurs,No,22.749666689039508,4.0,4.0,5.0,4.0,3
-10063,64,5,no,Rarely,Exhibits,Events,Yes,0.28011095223802795,5.0,4.0,5.0,5.0,5
-10064,24,3,no,Rarely,Nature,Events,No,0.0,4.0,3.0,4.0,4.0,2
-10065,61,6,yes,First visit,Family Time,Events,Yes,16.608119430602006,5.0,2.0,5.0,5.0,5
-10066,25,4,yes,Quarterly,Special Event,Farm,No,10.217304667579032,5.0,5.0,4.0,4.0,5
-10067,64,5,no,Rarely,Nature,Garden,Yes,24.396520086809165,4.0,5.0,4.0,5.0,4
-10068,52,4,no,Rarely,Special Event,Curiosity Museum,No,13.801373210061755,4.0,4.0,5.0,4.0,4
-10069,31,8,yes,Quarterly,Exhibits,Events,Yes,18.07613008851945,4.0,3.0,4.0,4.0,2
-10070,34,5,no,Quarterly,Family Time,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,3
-10071,53,5,no,First visit,Entertainment,Events,Yes,43.32655409421385,4.0,3.0,3.0,3.0,4
-10072,67,5,no,Quarterly,Entertainment,Garden,No,12.536370224519521,4.0,4.0,4.0,4.0,3
-10073,57,2,no,Rarely,Family Time,Garden,Yes,25.463804555087986,5.0,4.0,5.0,4.0,2
-10074,21,3,no,Rarely,Special Event,Curiosity Museum,No,2.4586249467056027,5.0,3.0,5.0,5.0,1
-10075,19,5,yes,First visit,Exhibits,Farm,Yes,19.620148533260114,5.0,3.0,5.0,4.0,4
-10076,23,4,no,First visit,Nature,Curiosity Museum,Yes,0.0,4.0,5.0,3.0,4.0,3
-10077,71,5,no,First visit,Family Time,Events,No,21.781017573895063,5.0,4.0,4.0,5.0,4
-10078,59,2,yes,Quarterly,Education,Dinosaurs,Yes,9.660388734212509,5.0,5.0,5.0,5.0,4
-10079,21,4,no,First visit,Special Event,Curiosity Museum,Yes,15.437857559033512,5.0,4.0,5.0,5.0,4
-10080,71,4,no,Rarely,Entertainment,Farm,No,25.469610451951464,3.0,3.0,3.0,3.0,4
-10081,46,4,no,Monthly,Family Time,Curiosity Museum,No,0.0,4.0,1.0,4.0,3.0,4
-10082,35,5,no,First visit,Entertainment,Garden,Yes,4.732624040808045,5.0,4.0,4.0,5.0,5
-10083,43,4,no,Rarely,Special Event,Events,No,21.85986421630148,4.0,3.0,3.0,4.0,1
-10084,61,4,no,Quarterly,Entertainment,Events,No,46.4733221182012,4.0,3.0,3.0,3.0,5
-10085,51,4,yes,Monthly,Family Time,Events,Yes,12.928764980077773,3.0,4.0,3.0,3.0,2
-10086,27,4,no,Quarterly,Special Event,Events,No,23.86704176885899,4.0,2.0,4.0,3.0,2
-10087,53,5,yes,Quarterly,Education,Events,No,13.3954279521228,4.0,4.0,4.0,4.0,5
-10088,31,1,no,Quarterly,Family Time,Events,No,44.13368392134449,5.0,4.0,5.0,5.0,4
-10089,48,4,no,Rarely,Nature,Dinosaurs,Yes,0.0,5.0,4.0,5.0,5.0,5
-10090,65,4,no,Quarterly,Exhibits,Farm,No,16.41931567004037,5.0,4.0,5.0,5.0,5
-10091,32,5,no,First visit,Family Time,Events,Yes,0.0,5.0,4.0,5.0,5.0,3
-10092,25,4,no,Monthly,Special Event,Farm,Yes,0.0,4.0,3.0,5.0,4.0,0
-10093,31,6,no,Rarely,Exhibits,Events,Yes,19.461930796767252,5.0,4.0,5.0,5.0,5
-10094,40,7,no,Quarterly,Family Time,Curiosity Museum,No,17.092466942211885,5.0,3.0,5.0,5.0,5
-10095,74,3,yes,First visit,Education,Events,No,10.72744593386698,4.0,3.0,4.0,4.0,5
-10096,57,3,no,Quarterly,Education,Garden,No,13.407088649403702,5.0,4.0,5.0,5.0,5
-10097,38,4,no,First visit,Nature,Dinosaurs,No,61.47449151106886,5.0,4.0,5.0,5.0,5
-10098,33,3,no,Monthly,Entertainment,Curiosity Museum,Yes,11.127372929528484,4.0,5.0,4.0,4.0,3
-10099,62,5,yes,Quarterly,Exhibits,Curiosity Museum,Yes,22.65186541875112,4.0,5.0,4.0,4.0,2
-10100,35,6,yes,First visit,Special Event,Garden,Yes,5.259527705791786,5.0,4.0,5.0,5.0,5
-10101,64,2,yes,Quarterly,Special Event,Events,Yes,19.428488625609045,5.0,1.0,5.0,5.0,4
-10102,70,2,yes,Quarterly,Entertainment,Dinosaurs,No,11.426494874165737,3.0,4.0,3.0,3.0,4
-10103,41,3,no,Quarterly,Education,Curiosity Museum,No,8.84222275905405,5.0,3.0,4.0,5.0,3
-10104,43,5,no,Rarely,Education,Dinosaurs,Yes,42.28347798300487,4.0,3.0,4.0,3.0,2
-10105,42,4,no,First visit,Family Time,Curiosity Museum,Yes,32.657774447765085,5.0,3.0,5.0,5.0,3
-10106,62,2,yes,First visit,Nature,Events,Yes,17.05119971098846,5.0,3.0,5.0,4.0,5
-10107,58,6,yes,First visit,Exhibits,Curiosity Museum,No,0.0,5.0,4.0,4.0,5.0,5
-10108,46,5,yes,Monthly,Nature,Curiosity Museum,No,9.584861651211455,5.0,2.0,5.0,5.0,2
-10109,32,1,yes,First visit,Nature,Farm,No,55.545413466076255,5.0,2.0,5.0,5.0,2
-10110,62,5,yes,Quarterly,Family Time,Events,No,11.540075000404379,5.0,3.0,5.0,5.0,2
-10111,18,5,yes,First visit,Nature,Garden,No,31.54826358080487,5.0,4.0,5.0,5.0,4
-10112,42,4,no,Rarely,Entertainment,Garden,Yes,36.629136029289015,4.0,4.0,4.0,5.0,3
-10113,24,1,no,Quarterly,Family Time,Events,Yes,18.284458737839625,5.0,3.0,5.0,5.0,4
-10114,26,1,no,Monthly,Entertainment,Garden,No,2.372675521977716,5.0,2.0,5.0,5.0,5
-10115,41,2,no,First visit,Family Time,Events,No,0.0,5.0,3.0,4.0,5.0,5
-10116,18,6,no,Rarely,Nature,Garden,Yes,25.262448129134317,5.0,4.0,5.0,5.0,5
-10117,61,6,yes,Rarely,Entertainment,Farm,No,2.7786599576467785,5.0,4.0,5.0,5.0,5
-10118,25,2,yes,First visit,Entertainment,Garden,No,17.64225677831538,4.0,2.0,4.0,4.0,5
-10119,41,3,no,First visit,Entertainment,Curiosity Museum,No,0.0,5.0,3.0,5.0,5.0,4
-10120,28,3,yes,Rarely,Family Time,Events,No,11.021436892946967,4.0,2.0,4.0,3.0,3
-10121,68,3,no,Rarely,Special Event,Dinosaurs,No,15.505785823515799,5.0,2.0,5.0,5.0,4
-10122,34,6,no,Quarterly,Nature,Dinosaurs,No,19.02890371566447,4.0,4.0,4.0,4.0,5
-10123,25,3,yes,Rarely,Entertainment,Events,Yes,0.0,4.0,4.0,4.0,4.0,3
-10124,52,3,yes,Rarely,Exhibits,Farm,Yes,32.953664231420284,5.0,4.0,5.0,5.0,5
-10125,52,3,no,Rarely,Special Event,Garden,Yes,6.046578229020431,5.0,5.0,5.0,5.0,4
-10126,50,5,yes,Quarterly,Exhibits,Farm,Yes,0.0,5.0,3.0,5.0,5.0,4
-10127,22,4,yes,Monthly,Nature,Dinosaurs,No,13.364648700548043,4.0,3.0,4.0,5.0,2
-10128,59,5,no,Rarely,Nature,Events,No,15.515629635396902,4.0,5.0,4.0,4.0,4
-10129,56,3,no,Quarterly,Entertainment,Events,Yes,17.408841497576397,4.0,4.0,3.0,4.0,5
-10130,58,5,yes,First visit,Entertainment,Farm,No,35.431986055276184,4.0,4.0,5.0,5.0,3
-10131,45,5,no,Rarely,Family Time,Farm,Yes,11.453267448962109,4.0,4.0,4.0,5.0,4
-10132,24,2,no,First visit,Special Event,Garden,Yes,13.20570563446843,4.0,2.0,4.0,4.0,5
-10133,26,4,no,Rarely,Special Event,Curiosity Museum,Yes,0.0,5.0,2.0,5.0,5.0,4
-10134,25,6,no,Quarterly,Entertainment,Curiosity Museum,Yes,27.308302543318455,4.0,3.0,4.0,3.0,4
-10135,29,6,no,Monthly,Nature,Garden,Yes,17.764635961171553,5.0,5.0,5.0,5.0,4
-10136,51,4,no,First visit,Entertainment,Curiosity Museum,No,8.699584090587557,5.0,4.0,4.0,4.0,5
-10137,50,4,no,Quarterly,Nature,Dinosaurs,No,0.0,4.0,4.0,4.0,4.0,5
-10138,65,6,yes,Quarterly,Nature,Curiosity Museum,No,36.66618292582631,3.0,2.0,3.0,2.0,2
-10139,72,4,no,First visit,Entertainment,Garden,Yes,0.0,2.0,5.0,2.0,2.0,1
-10140,40,1,yes,First visit,Education,Curiosity Museum,Yes,6.1308298594544155,4.0,3.0,4.0,4.0,5
-10141,41,6,yes,First visit,Special Event,Events,Yes,20.375167666140047,5.0,4.0,4.0,5.0,3
-10142,54,3,yes,First visit,Exhibits,Farm,No,0.0,4.0,3.0,4.0,4.0,3
-10143,52,4,no,First visit,Nature,Dinosaurs,Yes,0.0,5.0,4.0,5.0,5.0,5
-10144,61,3,no,First visit,Nature,Events,No,0.0,3.0,4.0,3.0,3.0,3
-10145,57,1,yes,First visit,Education,Events,No,25.81495429358453,5.0,3.0,5.0,5.0,2
-10146,39,3,yes,Quarterly,Exhibits,Garden,No,6.822206329105175,4.0,2.0,3.0,4.0,3
-10147,44,5,no,Quarterly,Family Time,Farm,No,58.90905138709995,4.0,3.0,4.0,5.0,2
-10148,52,3,no,Weekly,Education,Farm,Yes,0.08467401553689913,5.0,3.0,5.0,5.0,5
-10149,18,3,yes,Rarely,Exhibits,Dinosaurs,Yes,1.178234648566181,3.0,5.0,3.0,3.0,3
-10150,52,3,no,Quarterly,Education,Garden,Yes,6.519105445718978,4.0,4.0,4.0,3.0,5
-10151,54,4,no,Monthly,Nature,Dinosaurs,No,18.647019827077337,5.0,3.0,5.0,5.0,5
-10152,64,7,no,Quarterly,Special Event,Curiosity Museum,Yes,7.94694991822033,5.0,3.0,5.0,5.0,4
-10153,31,4,yes,Rarely,Education,Events,Yes,24.18498321003768,5.0,2.0,5.0,5.0,3
-10154,20,4,no,Quarterly,Family Time,Dinosaurs,No,0.32117415017018425,4.0,2.0,4.0,3.0,2
-10155,18,6,no,First visit,Entertainment,Events,Yes,0.0,4.0,4.0,4.0,4.0,3
-10156,22,4,no,First visit,Exhibits,Garden,No,0.0,3.0,4.0,3.0,4.0,3
-10157,43,3,no,Rarely,Education,Curiosity Museum,No,0.0,5.0,4.0,5.0,5.0,5
-10158,72,3,no,Quarterly,Education,Garden,Yes,7.228964707874148,5.0,4.0,5.0,5.0,5
+10030,39,3,yes,First visit,Nature,Dinosaurs,No,14.212423971920217,2.0,3.0,2.0,2.0,4
+10031,61,4,yes,Monthly,Nature,Curiosity Museum,No,12.826821570781698,5.0,5.0,5.0,5.0,3
+10032,42,6,yes,Rarely,Education,Garden,Yes,15.645613062755814,5.0,4.0,5.0,4.0,5
+10033,66,5,yes,Rarely,Family Time,Events,No,30.342622073261463,5.0,5.0,5.0,5.0,5
+10034,44,1,no,First visit,Family Time,Dinosaurs,No,12.143307211061748,5.0,2.0,5.0,4.0,5
+10035,59,5,no,Quarterly,Family Time,Garden,Yes,6.388761343690955,5.0,3.0,5.0,5.0,5
+10036,45,6,no,Quarterly,Nature,Dinosaurs,No,10.783117726678705,5.0,2.0,5.0,5.0,3
+10037,33,5,no,Rarely,Exhibits,Events,No,23.690201396351636,5.0,4.0,5.0,5.0,4
+10038,32,5,no,First visit,Exhibits,Garden,Yes,36.180403178148744,5.0,5.0,5.0,5.0,5
+10039,64,6,yes,Monthly,Special Event,Events,Yes,5.577843912462325,5.0,3.0,5.0,5.0,5
+10040,68,3,yes,Rarely,Exhibits,Farm,Yes,16.484006805433257,5.0,3.0,5.0,5.0,1
+10041,61,3,no,Rarely,Entertainment,Events,No,20.075361629039396,3.0,2.0,3.0,3.0,5
+10042,72,5,yes,First visit,Nature,Farm,Yes,0.11132989906765645,4.0,2.0,4.0,4.0,3
+10043,69,6,no,Quarterly,Family Time,Garden,Yes,15.306257508193772,5.0,4.0,5.0,5.0,5
+10044,74,3,no,Rarely,Exhibits,Farm,No,0.0,5.0,3.0,5.0,5.0,3
+10045,20,4,no,Rarely,Nature,Garden,Yes,0.0,5.0,4.0,5.0,4.0,5
+10046,54,5,yes,First visit,Exhibits,Garden,Yes,20.501196118383856,4.0,3.0,3.0,3.0,4
+10047,68,4,yes,Weekly,Education,Curiosity Museum,Yes,9.241878880038257,4.0,5.0,5.0,4.0,5
+10048,24,5,no,First visit,Family Time,Garden,No,18.034206114318287,4.0,3.0,4.0,5.0,4
+10049,38,6,yes,Quarterly,Education,Farm,No,14.731575344874749,5.0,4.0,5.0,5.0,5
+10050,26,5,no,Rarely,Family Time,Curiosity Museum,Yes,0.35399927004303944,4.0,3.0,4.0,4.0,5
+10051,56,4,no,First visit,Nature,Curiosity Museum,No,14.321185470534953,4.0,3.0,4.0,4.0,2
+10052,35,4,no,Quarterly,Special Event,Garden,No,0.0,3.0,3.0,3.0,4.0,1
+10053,21,4,yes,First visit,Exhibits,Events,Yes,35.86458537002101,4.0,4.0,4.0,4.0,1
+10054,42,4,no,Monthly,Exhibits,Events,Yes,0.0,4.0,4.0,4.0,5.0,3
+10055,31,4,no,Monthly,Entertainment,Curiosity Museum,Yes,12.063220935471282,5.0,4.0,5.0,5.0,5
+10056,67,4,no,Monthly,Education,Garden,No,0.0,3.0,2.0,3.0,3.0,3
+10057,26,1,yes,First visit,Exhibits,Events,No,23.556317600411933,4.0,3.0,4.0,4.0,5
+10058,43,3,no,Quarterly,Nature,Garden,Yes,10.028529430777457,5.0,4.0,5.0,5.0,4
+10059,70,4,yes,Rarely,Special Event,Garden,No,7.219999205681848,3.0,3.0,3.0,3.0,3
+10060,19,4,no,Monthly,Nature,Curiosity Museum,Yes,27.798023175773316,5.0,4.0,5.0,5.0,5
+10061,37,3,yes,Quarterly,Education,Curiosity Museum,No,15.441458875163283,3.0,2.0,4.0,3.0,5
+10062,45,5,no,Quarterly,Entertainment,Dinosaurs,No,22.749666689039508,4.0,2.0,4.0,3.0,5
+10063,64,5,no,Rarely,Exhibits,Events,Yes,0.28011095223802795,4.0,2.0,4.0,3.0,2
+10064,24,3,no,Rarely,Nature,Events,No,0.0,4.0,4.0,4.0,3.0,5
+10065,61,6,yes,First visit,Family Time,Events,Yes,16.608119430602006,4.0,4.0,4.0,4.0,5
+10066,25,4,yes,Quarterly,Special Event,Farm,No,10.217304667579032,4.0,4.0,4.0,4.0,3
+10067,64,5,no,Rarely,Nature,Garden,Yes,24.396520086809165,4.0,4.0,4.0,4.0,5
+10068,52,4,no,Rarely,Special Event,Curiosity Museum,No,13.801373210061755,5.0,1.0,5.0,5.0,5
+10069,31,8,yes,Quarterly,Exhibits,Events,Yes,18.07613008851945,5.0,3.0,5.0,5.0,5
+10070,34,5,no,Quarterly,Family Time,Dinosaurs,No,0.0,4.0,3.0,4.0,4.0,3
+10071,53,5,no,First visit,Entertainment,Events,Yes,43.32655409421385,5.0,4.0,5.0,4.0,5
+10072,67,5,no,Quarterly,Entertainment,Garden,No,12.536370224519521,5.0,3.0,5.0,4.0,5
+10073,57,2,no,Rarely,Family Time,Garden,Yes,25.463804555087986,5.0,4.0,5.0,5.0,5
+10074,21,3,no,Rarely,Special Event,Curiosity Museum,No,2.4586249467056027,3.0,3.0,2.0,4.0,5
+10075,19,5,yes,First visit,Exhibits,Farm,Yes,19.620148533260114,5.0,4.0,5.0,5.0,5
+10076,23,4,no,First visit,Nature,Curiosity Museum,Yes,0.0,5.0,3.0,5.0,5.0,5
+10077,71,5,no,First visit,Family Time,Events,No,21.781017573895063,4.0,4.0,4.0,4.0,2
+10078,59,2,yes,Quarterly,Education,Dinosaurs,Yes,9.660388734212509,5.0,3.0,5.0,5.0,5
+10079,21,4,no,First visit,Special Event,Curiosity Museum,Yes,15.437857559033512,5.0,3.0,4.0,5.0,2
+10080,71,4,no,Rarely,Entertainment,Farm,No,25.469610451951464,4.0,3.0,4.0,4.0,2
+10081,46,4,no,Monthly,Family Time,Curiosity Museum,No,0.0,4.0,3.0,4.0,3.0,2
+10082,35,5,no,First visit,Entertainment,Garden,Yes,4.732624040808045,4.0,5.0,4.0,4.0,3
+10083,43,4,no,Rarely,Special Event,Events,No,21.85986421630148,4.0,3.0,4.0,4.0,3
+10084,61,4,no,Quarterly,Entertainment,Events,No,46.4733221182012,3.0,3.0,3.0,3.0,3
+10085,51,4,yes,Monthly,Family Time,Events,Yes,12.928764980077773,5.0,3.0,5.0,4.0,3
+10086,27,4,no,Quarterly,Special Event,Events,No,23.86704176885899,4.0,4.0,4.0,4.0,5
+10087,53,5,yes,Quarterly,Education,Events,No,13.3954279521228,5.0,3.0,4.0,4.0,5
+10088,31,1,no,Quarterly,Family Time,Events,No,44.13368392134449,5.0,3.0,5.0,5.0,5
+10089,48,4,no,Rarely,Nature,Dinosaurs,Yes,0.0,3.0,5.0,4.0,3.0,1
+10090,65,4,no,Quarterly,Exhibits,Farm,No,16.41931567004037,5.0,4.0,5.0,5.0,4
+10091,32,5,no,First visit,Family Time,Events,Yes,0.0,5.0,2.0,5.0,5.0,3
+10092,25,4,no,Monthly,Special Event,Farm,Yes,0.0,5.0,2.0,5.0,5.0,5
+10093,31,6,no,Rarely,Exhibits,Events,Yes,19.461930796767252,4.0,4.0,5.0,4.0,4
+10094,40,7,no,Quarterly,Family Time,Curiosity Museum,No,17.092466942211885,5.0,2.0,5.0,5.0,3
+10095,74,3,yes,First visit,Education,Events,No,10.72744593386698,5.0,4.0,5.0,3.0,5
+10096,57,3,no,Quarterly,Education,Garden,No,13.407088649403702,4.0,3.0,3.0,4.0,1
+10097,38,4,no,First visit,Nature,Dinosaurs,No,61.47449151106886,5.0,3.0,5.0,5.0,4
+10098,33,3,no,Monthly,Entertainment,Curiosity Museum,Yes,11.127372929528484,4.0,3.0,4.0,4.0,3
+10099,62,5,yes,Quarterly,Exhibits,Curiosity Museum,Yes,22.65186541875112,5.0,5.0,5.0,5.0,5
+10100,35,6,yes,First visit,Special Event,Garden,Yes,5.259527705791786,4.0,5.0,4.0,3.0,2
+10101,64,2,yes,Quarterly,Special Event,Events,Yes,19.428488625609045,5.0,4.0,4.0,5.0,4
+10102,70,2,yes,Quarterly,Entertainment,Dinosaurs,No,11.426494874165737,3.0,3.0,3.0,2.0,4
+10103,41,3,no,Quarterly,Education,Curiosity Museum,No,8.84222275905405,5.0,3.0,5.0,5.0,4
+10104,43,5,no,Rarely,Education,Dinosaurs,Yes,42.28347798300487,4.0,4.0,5.0,4.0,5
+10105,42,4,no,First visit,Family Time,Curiosity Museum,Yes,32.657774447765085,4.0,3.0,4.0,4.0,5
+10106,62,2,yes,First visit,Nature,Events,Yes,17.05119971098846,5.0,3.0,5.0,5.0,5
+10107,58,6,yes,First visit,Exhibits,Curiosity Museum,No,0.0,4.0,2.0,3.0,4.0,3
+10108,46,5,yes,Monthly,Nature,Curiosity Museum,No,9.584861651211455,4.0,4.0,4.0,4.0,4
+10109,32,1,yes,First visit,Nature,Farm,No,55.545413466076255,4.0,3.0,4.0,5.0,4
+10110,62,5,yes,Quarterly,Family Time,Events,No,11.540075000404379,4.0,1.0,4.0,4.0,4
+10111,18,5,yes,First visit,Nature,Garden,No,31.54826358080487,5.0,4.0,5.0,5.0,5
+10112,42,4,no,Rarely,Entertainment,Garden,Yes,36.629136029289015,4.0,4.0,4.0,4.0,5
+10113,24,1,no,Quarterly,Family Time,Events,Yes,18.284458737839625,5.0,5.0,5.0,5.0,5
+10114,26,1,no,Monthly,Entertainment,Garden,No,2.372675521977716,5.0,3.0,5.0,4.0,5
+10115,41,2,no,First visit,Family Time,Events,No,0.0,4.0,2.0,4.0,4.0,2
+10116,18,6,no,Rarely,Nature,Garden,Yes,25.262448129134317,5.0,2.0,4.0,5.0,5
+10117,61,6,yes,Rarely,Entertainment,Farm,No,2.7786599576467785,4.0,3.0,4.0,4.0,3
+10118,25,2,yes,First visit,Entertainment,Garden,No,17.64225677831538,5.0,3.0,5.0,5.0,5
+10119,41,3,no,First visit,Entertainment,Curiosity Museum,No,0.0,5.0,4.0,5.0,5.0,2
+10120,28,3,yes,Rarely,Family Time,Events,No,11.021436892946967,4.0,3.0,3.0,3.0,4
+10121,68,3,no,Rarely,Special Event,Dinosaurs,No,15.505785823515799,4.0,4.0,4.0,3.0,5
+10122,34,6,no,Quarterly,Nature,Dinosaurs,No,19.02890371566447,5.0,2.0,5.0,4.0,5
+10123,25,3,yes,Rarely,Entertainment,Events,Yes,0.0,3.0,5.0,3.0,2.0,0
+10124,52,3,yes,Rarely,Exhibits,Farm,Yes,32.953664231420284,5.0,4.0,5.0,5.0,0
+10125,52,3,no,Rarely,Special Event,Garden,Yes,6.046578229020431,3.0,2.0,2.0,3.0,2
+10126,50,5,yes,Quarterly,Exhibits,Farm,Yes,0.0,5.0,5.0,5.0,5.0,4
+10127,22,4,yes,Monthly,Nature,Dinosaurs,No,13.364648700548043,4.0,3.0,4.0,5.0,3
+10128,59,5,no,Rarely,Nature,Events,No,15.515629635396902,4.0,4.0,4.0,4.0,4
+10129,56,3,no,Quarterly,Entertainment,Events,Yes,17.408841497576397,4.0,3.0,4.0,4.0,3
+10130,58,5,yes,First visit,Entertainment,Farm,No,35.431986055276184,5.0,4.0,5.0,5.0,5
+10131,45,5,no,Rarely,Family Time,Farm,Yes,11.453267448962109,5.0,3.0,4.0,5.0,5
+10132,24,2,no,First visit,Special Event,Garden,Yes,13.20570563446843,5.0,4.0,4.0,5.0,3
+10133,26,4,no,Rarely,Special Event,Curiosity Museum,Yes,0.0,4.0,4.0,3.0,4.0,0
+10134,25,6,no,Quarterly,Entertainment,Curiosity Museum,Yes,27.308302543318455,2.0,3.0,3.0,2.0,2
+10135,29,6,no,Monthly,Nature,Garden,Yes,17.764635961171553,4.0,5.0,5.0,3.0,3
+10136,51,4,no,First visit,Entertainment,Curiosity Museum,No,8.699584090587557,4.0,3.0,4.0,3.0,5
+10137,50,4,no,Quarterly,Nature,Dinosaurs,No,0.0,5.0,4.0,5.0,5.0,3
+10138,65,6,yes,Quarterly,Nature,Curiosity Museum,No,36.66618292582631,5.0,2.0,5.0,5.0,4
+10139,72,4,no,First visit,Entertainment,Garden,Yes,0.0,4.0,5.0,5.0,4.0,5
+10140,40,1,yes,First visit,Education,Curiosity Museum,Yes,6.1308298594544155,5.0,3.0,5.0,5.0,5
+10141,41,6,yes,First visit,Special Event,Events,Yes,20.375167666140047,4.0,5.0,4.0,4.0,3
+10142,54,3,yes,First visit,Exhibits,Farm,No,0.0,5.0,2.0,5.0,5.0,2
+10143,52,4,no,First visit,Nature,Dinosaurs,Yes,0.0,4.0,3.0,5.0,4.0,2
+10144,61,3,no,First visit,Nature,Events,No,0.0,5.0,4.0,5.0,5.0,2
+10145,57,1,yes,First visit,Education,Events,No,25.81495429358453,5.0,4.0,5.0,5.0,4
+10146,39,3,yes,Quarterly,Exhibits,Garden,No,6.822206329105175,5.0,2.0,5.0,5.0,5
+10147,44,5,no,Quarterly,Family Time,Farm,No,58.90905138709995,4.0,4.0,5.0,3.0,3
+10148,52,3,no,Weekly,Education,Farm,Yes,0.08467401553689913,5.0,5.0,5.0,5.0,3
+10149,18,3,yes,Rarely,Exhibits,Dinosaurs,Yes,1.178234648566181,4.0,3.0,4.0,4.0,5
+10150,52,3,no,Quarterly,Education,Garden,Yes,6.519105445718978,5.0,5.0,5.0,5.0,5
+10151,54,4,no,Monthly,Nature,Dinosaurs,No,18.647019827077337,5.0,2.0,5.0,4.0,5
+10152,64,7,no,Quarterly,Special Event,Curiosity Museum,Yes,7.94694991822033,5.0,3.0,5.0,5.0,5
+10153,31,4,yes,Rarely,Education,Events,Yes,24.18498321003768,4.0,4.0,4.0,5.0,3
+10154,20,4,no,Quarterly,Family Time,Dinosaurs,No,0.32117415017018425,3.0,3.0,3.0,3.0,2
+10155,18,6,no,First visit,Entertainment,Events,Yes,0.0,4.0,4.0,4.0,4.0,1
+10156,22,4,no,First visit,Exhibits,Garden,No,0.0,4.0,3.0,5.0,3.0,5
+10157,43,3,no,Rarely,Education,Curiosity Museum,No,0.0,3.0,3.0,2.0,2.0,4
+10158,72,3,no,Quarterly,Education,Garden,Yes,7.228964707874148,5.0,4.0,5.0,5.0,4
 10159,31,3,yes,First visit,Family Time,Curiosity Museum,Yes,10.485295314101672,5.0,4.0,5.0,5.0,5
-10160,56,4,no,Monthly,Special Event,Curiosity Museum,Yes,5.528444587752251,5.0,4.0,5.0,4.0,5
-10161,44,4,no,Quarterly,Education,Events,No,33.65108695780743,5.0,3.0,5.0,5.0,5
-10162,26,5,yes,Rarely,Education,Garden,No,33.42045314412203,5.0,5.0,5.0,5.0,4
-10163,32,3,no,Monthly,Special Event,Garden,No,9.977955188332471,4.0,3.0,4.0,4.0,5
-10164,32,4,yes,Rarely,Family Time,Dinosaurs,No,0.0,4.0,3.0,4.0,3.0,2
-10165,43,5,yes,Weekly,Exhibits,Garden,No,6.499423379174206,5.0,1.0,5.0,5.0,4
-10166,59,4,no,Rarely,Exhibits,Dinosaurs,Yes,6.002679091244076,4.0,4.0,3.0,4.0,4
-10167,30,6,no,First visit,Education,Farm,Yes,5.14297556582913,4.0,4.0,5.0,4.0,3
-10168,68,4,no,Quarterly,Special Event,Farm,No,4.534216441526327,4.0,2.0,3.0,4.0,2
-10169,49,3,yes,Quarterly,Education,Farm,Yes,5.198056564127892,5.0,3.0,5.0,5.0,3
-10170,56,5,no,Quarterly,Entertainment,Garden,Yes,9.201875761533604,3.0,4.0,3.0,3.0,5
-10171,66,4,yes,Weekly,Exhibits,Garden,No,5.46688351776665,5.0,2.0,5.0,5.0,1
-10172,69,4,no,Quarterly,Nature,Dinosaurs,No,18.124837629383883,3.0,4.0,4.0,3.0,0
-10173,49,4,no,Quarterly,Entertainment,Curiosity Museum,No,20.405530738572917,4.0,3.0,3.0,4.0,5
-10174,21,4,no,Monthly,Education,Dinosaurs,No,1.3403236922626527,5.0,3.0,5.0,5.0,4
-10175,47,5,no,Quarterly,Family Time,Farm,Yes,34.065979890105496,5.0,3.0,4.0,4.0,5
-10176,54,2,yes,Rarely,Exhibits,Dinosaurs,No,0.2990654723907926,5.0,4.0,5.0,5.0,2
-10177,40,3,no,Monthly,Nature,Curiosity Museum,Yes,0.0,5.0,5.0,5.0,5.0,3
-10178,56,1,no,First visit,Entertainment,Garden,Yes,20.711671070475777,5.0,4.0,5.0,5.0,4
-10179,62,5,no,Quarterly,Exhibits,Dinosaurs,No,2.738877983784903,4.0,3.0,4.0,4.0,1
-10180,32,3,no,Monthly,Special Event,Farm,Yes,19.81937206136082,4.0,5.0,5.0,4.0,1
-10181,60,6,yes,Quarterly,Family Time,Farm,No,0.0,5.0,3.0,5.0,5.0,4
-10182,46,4,yes,Quarterly,Entertainment,Garden,Yes,35.886839122246016,5.0,5.0,5.0,5.0,3
-10183,53,6,no,Quarterly,Special Event,Dinosaurs,No,25.08440112060603,4.0,4.0,3.0,4.0,5
-10184,30,7,yes,Rarely,Education,Curiosity Museum,Yes,0.0,4.0,1.0,4.0,4.0,4
-10185,49,6,yes,Monthly,Special Event,Garden,No,0.0,5.0,2.0,5.0,4.0,5
-10186,24,6,no,First visit,Entertainment,Dinosaurs,No,40.08398856146292,3.0,4.0,4.0,3.0,3
-10187,68,4,no,First visit,Entertainment,Events,Yes,3.9393014475306183,4.0,4.0,4.0,3.0,1
-10188,39,4,no,First visit,Education,Farm,Yes,2.4872272690106403,3.0,3.0,4.0,3.0,5
-10189,45,3,no,Rarely,Special Event,Curiosity Museum,Yes,0.0,4.0,3.0,4.0,5.0,1
-10190,19,3,no,Rarely,Special Event,Curiosity Museum,Yes,9.738326915976687,5.0,2.0,5.0,5.0,2
-10191,59,4,yes,Quarterly,Education,Curiosity Museum,No,11.584205777463707,3.0,3.0,3.0,3.0,1
-10192,62,4,yes,Rarely,Special Event,Farm,No,25.73239645154228,5.0,5.0,5.0,5.0,4
-10193,74,3,yes,Rarely,Exhibits,Dinosaurs,Yes,0.0,3.0,4.0,3.0,4.0,2
-10194,70,4,no,First visit,Education,Garden,Yes,0.0,5.0,5.0,5.0,5.0,5
-10195,23,6,no,Rarely,Family Time,Dinosaurs,Yes,21.76443952164715,5.0,5.0,5.0,5.0,3
-10196,45,4,no,Quarterly,Entertainment,Garden,No,30.100951068405973,3.0,4.0,2.0,2.0,4
-10197,45,5,no,First visit,Family Time,Curiosity Museum,Yes,0.0,5.0,5.0,5.0,5.0,5
-10198,61,6,no,First visit,Exhibits,Dinosaurs,No,31.22271129449612,4.0,4.0,4.0,5.0,3
-10199,61,7,yes,First visit,Exhibits,Curiosity Museum,No,15.563127622302321,3.0,3.0,3.0,3.0,2
-10200,37,5,no,First visit,Nature,Events,Yes,31.377080086119687,3.0,5.0,4.0,2.0,3
-10201,47,6,yes,Rarely,Nature,Curiosity Museum,No,13.946694577235752,4.0,4.0,4.0,4.0,4
-10202,28,7,yes,First visit,Nature,Curiosity Museum,No,0.0,4.0,3.0,5.0,4.0,3
-10203,72,6,yes,Quarterly,Education,Garden,No,12.720489265259417,5.0,3.0,5.0,5.0,4
-10204,45,2,no,Quarterly,Special Event,Events,Yes,30.902157280069048,4.0,4.0,3.0,5.0,4
-10205,42,4,no,Rarely,Exhibits,Curiosity Museum,Yes,1.5938097137442853,5.0,4.0,5.0,5.0,3
-10206,56,3,yes,Weekly,Family Time,Curiosity Museum,No,9.180525466388216,4.0,4.0,4.0,4.0,2
-10207,50,1,yes,Rarely,Family Time,Events,No,12.357997446735325,3.0,2.0,3.0,3.0,5
-10208,18,5,no,Rarely,Family Time,Events,No,0.0,5.0,5.0,5.0,5.0,5
-10209,74,5,yes,Weekly,Family Time,Dinosaurs,No,40.07021363156214,3.0,3.0,3.0,3.0,5
-10210,44,6,no,First visit,Nature,Garden,No,1.4793648015423826,5.0,3.0,5.0,5.0,4
-10211,74,2,no,Monthly,Family Time,Events,No,22.586031487091983,3.0,2.0,2.0,4.0,2
-10212,69,6,no,First visit,Special Event,Events,Yes,13.699482957776869,5.0,5.0,4.0,5.0,4
-10213,30,5,no,Rarely,Nature,Farm,No,33.8642858453904,5.0,3.0,5.0,4.0,5
-10214,58,5,yes,First visit,Family Time,Events,No,21.090841836421212,3.0,3.0,3.0,2.0,1
-10215,20,6,no,Quarterly,Education,Garden,No,11.47613592718538,5.0,4.0,5.0,5.0,5
-10216,56,5,no,Quarterly,Entertainment,Curiosity Museum,No,1.5972736122107971,3.0,4.0,2.0,2.0,1
-10217,23,3,no,Quarterly,Entertainment,Curiosity Museum,Yes,26.96776052073208,5.0,4.0,5.0,5.0,1
-10218,25,6,yes,Rarely,Entertainment,Curiosity Museum,No,0.0,4.0,4.0,5.0,4.0,3
-10219,44,4,no,Rarely,Nature,Curiosity Museum,No,24.688356304138388,4.0,3.0,4.0,5.0,4
-10220,26,1,no,First visit,Family Time,Farm,Yes,0.0,5.0,3.0,5.0,5.0,5
-10221,54,6,yes,First visit,Exhibits,Events,No,33.7842549293496,3.0,2.0,4.0,3.0,1
-10222,50,3,no,Monthly,Exhibits,Curiosity Museum,Yes,17.41949313994043,4.0,3.0,5.0,3.0,3
-10223,68,5,no,Rarely,Exhibits,Dinosaurs,Yes,24.66185651775163,4.0,5.0,4.0,4.0,3
-10224,59,4,no,Quarterly,Nature,Curiosity Museum,Yes,16.22983220737079,5.0,5.0,5.0,5.0,5
-10225,61,6,yes,Quarterly,Special Event,Events,No,0.0,5.0,3.0,5.0,5.0,5
-10226,41,3,no,Rarely,Education,Curiosity Museum,No,2.089062549069923,2.0,5.0,2.0,2.0,1
-10227,32,7,no,Quarterly,Education,Farm,No,25.085840064170736,5.0,3.0,4.0,5.0,4
-10228,71,5,no,First visit,Entertainment,Garden,No,17.49983726039766,4.0,3.0,4.0,3.0,1
-10229,49,2,yes,First visit,Entertainment,Garden,No,32.71484857958508,4.0,3.0,4.0,3.0,2
-10230,49,4,no,First visit,Exhibits,Events,Yes,21.049118445557575,5.0,4.0,5.0,4.0,1
-10231,41,7,yes,Quarterly,Exhibits,Garden,Yes,0.4994716394601034,4.0,4.0,4.0,3.0,3
-10232,58,4,no,Rarely,Entertainment,Garden,No,3.05903793419049,4.0,4.0,5.0,4.0,3
-10233,69,3,no,Rarely,Family Time,Dinosaurs,Yes,16.543760857848557,5.0,4.0,4.0,5.0,5
-10234,66,4,yes,Rarely,Special Event,Events,No,0.0,4.0,4.0,4.0,4.0,2
-10235,66,4,no,Rarely,Special Event,Events,No,40.10162828434478,4.0,4.0,4.0,4.0,4
-10236,69,5,yes,Quarterly,Special Event,Garden,No,21.626201045663358,5.0,4.0,5.0,3.0,5
-10237,29,5,no,Quarterly,Special Event,Garden,No,33.405518955733086,4.0,2.0,4.0,5.0,5
-10238,56,4,no,First visit,Entertainment,Garden,Yes,0.0,4.0,3.0,5.0,3.0,5
-10239,19,3,no,First visit,Education,Farm,Yes,33.66847740532884,4.0,4.0,3.0,4.0,5
-10240,20,5,yes,Quarterly,Entertainment,Curiosity Museum,No,48.47248366541623,5.0,3.0,5.0,4.0,5
-10241,66,4,no,Rarely,Special Event,Farm,Yes,0.0,2.0,4.0,2.0,2.0,4
-10242,54,2,yes,Quarterly,Entertainment,Events,No,26.5710269235565,4.0,3.0,4.0,4.0,0
-10243,66,6,yes,First visit,Special Event,Dinosaurs,Yes,15.016649170309398,4.0,5.0,4.0,4.0,1
-10244,73,5,no,Rarely,Nature,Curiosity Museum,No,0.0,3.0,2.0,3.0,3.0,3
-10245,34,5,yes,First visit,Exhibits,Dinosaurs,No,22.393259577778046,4.0,2.0,5.0,5.0,2
-10246,66,6,no,First visit,Education,Events,No,27.504048072560227,5.0,3.0,5.0,5.0,4
-10247,19,4,no,Quarterly,Nature,Events,Yes,5.983101709967297,5.0,3.0,5.0,5.0,5
-10248,19,6,yes,Rarely,Family Time,Dinosaurs,Yes,32.488747803828346,3.0,4.0,3.0,3.0,5
-10249,45,4,yes,Quarterly,Entertainment,Dinosaurs,No,0.0,5.0,4.0,5.0,4.0,5
-10250,71,1,no,Monthly,Family Time,Dinosaurs,Yes,0.0,3.0,5.0,2.0,3.0,2
-10251,40,4,yes,Rarely,Entertainment,Events,No,17.048960933831285,5.0,2.0,5.0,5.0,5
-10252,54,4,no,Quarterly,Exhibits,Garden,No,15.380779169584075,5.0,3.0,5.0,5.0,5
-10253,49,5,no,First visit,Nature,Dinosaurs,No,4.251397673638422,3.0,4.0,3.0,2.0,1
-10254,50,2,no,Rarely,Exhibits,Curiosity Museum,No,27.14391653957829,4.0,4.0,4.0,3.0,1
-10255,18,2,no,Quarterly,Special Event,Events,Yes,22.96341471323924,3.0,5.0,3.0,3.0,1
-10256,36,3,yes,Rarely,Exhibits,Farm,No,27.87208606401024,3.0,4.0,4.0,3.0,2
-10257,19,3,yes,Quarterly,Exhibits,Farm,No,13.152953469715985,5.0,3.0,4.0,5.0,1
-10258,70,5,no,First visit,Special Event,Curiosity Museum,No,24.038704019675112,4.0,2.0,4.0,4.0,5
-10259,61,3,no,Quarterly,Entertainment,Garden,No,8.31524545455008,3.0,3.0,3.0,3.0,2
-10260,43,5,no,Monthly,Special Event,Dinosaurs,No,45.80728035129895,4.0,3.0,4.0,4.0,5
-10261,49,4,yes,Monthly,Nature,Events,Yes,2.8118134481702164,5.0,4.0,5.0,5.0,5
-10262,23,4,yes,Quarterly,Exhibits,Dinosaurs,Yes,46.57946144187468,4.0,4.0,4.0,4.0,4
-10263,49,6,yes,Quarterly,Special Event,Events,No,15.523319206341128,4.0,2.0,4.0,4.0,1
-10264,72,4,no,Quarterly,Exhibits,Farm,Yes,0.0,4.0,3.0,5.0,5.0,4
-10265,21,5,no,Quarterly,Nature,Dinosaurs,No,35.52119025732902,3.0,4.0,3.0,4.0,2
-10266,72,4,no,First visit,Family Time,Curiosity Museum,No,16.888520825924385,5.0,3.0,5.0,5.0,5
-10267,28,4,no,Rarely,Nature,Garden,Yes,27.766861475703568,5.0,4.0,5.0,3.0,5
-10268,73,7,yes,Rarely,Education,Curiosity Museum,Yes,33.3578387781389,5.0,4.0,5.0,5.0,5
-10269,34,3,no,Weekly,Education,Garden,No,20.069333312175377,5.0,5.0,5.0,5.0,5
-10270,55,1,no,Rarely,Education,Dinosaurs,Yes,6.116387327807781,5.0,4.0,5.0,5.0,5
-10271,41,5,no,Rarely,Exhibits,Dinosaurs,No,29.63570066503875,4.0,3.0,4.0,5.0,5
-10272,22,1,no,Rarely,Entertainment,Garden,No,15.011332611818933,4.0,2.0,4.0,5.0,3
-10273,69,6,no,Quarterly,Entertainment,Farm,No,25.287867279126285,4.0,3.0,4.0,4.0,3
-10274,51,4,no,Quarterly,Entertainment,Events,No,0.0,5.0,1.0,4.0,5.0,5
-10275,23,6,yes,First visit,Exhibits,Curiosity Museum,Yes,21.704725755147777,5.0,4.0,5.0,5.0,3
-10276,39,5,yes,Rarely,Nature,Curiosity Museum,No,5.421212622824548,5.0,3.0,5.0,5.0,5
-10277,28,5,no,Quarterly,Entertainment,Curiosity Museum,Yes,39.79964455767796,5.0,3.0,4.0,4.0,4
-10278,65,6,yes,Rarely,Family Time,Dinosaurs,Yes,24.346310218336427,4.0,3.0,4.0,4.0,5
-10279,33,4,yes,First visit,Education,Curiosity Museum,No,18.59786618773945,4.0,4.0,3.0,4.0,5
-10280,50,7,yes,Quarterly,Nature,Events,No,22.294649900253322,4.0,3.0,4.0,4.0,5
-10281,26,2,no,Quarterly,Education,Events,Yes,0.02338720684922635,5.0,4.0,5.0,4.0,5
-10282,23,4,yes,First visit,Entertainment,Garden,No,39.34885035792081,4.0,3.0,3.0,3.0,4
-10283,33,3,no,Quarterly,Nature,Dinosaurs,No,44.870556276253566,5.0,3.0,4.0,5.0,5
-10284,46,4,no,Quarterly,Special Event,Events,Yes,20.893702658223244,4.0,5.0,4.0,4.0,3
-10285,20,3,yes,Rarely,Family Time,Farm,Yes,38.856053528604576,4.0,4.0,5.0,5.0,2
-10286,37,6,yes,Weekly,Entertainment,Dinosaurs,No,6.462777019911992,5.0,2.0,4.0,5.0,4
-10287,53,6,yes,Quarterly,Entertainment,Dinosaurs,No,3.0432965066252886,3.0,5.0,3.0,4.0,5
-10288,36,7,no,Quarterly,Family Time,Events,No,15.613871230933842,5.0,3.0,5.0,5.0,5
-10289,43,3,yes,Quarterly,Family Time,Farm,No,21.52411557551848,4.0,3.0,3.0,3.0,2
-10290,20,5,no,First visit,Special Event,Garden,Yes,9.090199781353194,2.0,3.0,2.0,2.0,1
-10291,36,4,yes,First visit,Entertainment,Events,No,23.066522855527257,4.0,4.0,4.0,4.0,3
-10292,37,3,no,Rarely,Exhibits,Farm,No,19.595842231101212,5.0,3.0,5.0,5.0,5
-10293,49,4,no,First visit,Entertainment,Dinosaurs,No,0.025398370634175937,5.0,4.0,5.0,5.0,5
-10294,24,4,no,Rarely,Education,Farm,Yes,22.78189526177582,5.0,4.0,5.0,5.0,3
-10295,69,5,no,Monthly,Nature,Dinosaurs,Yes,27.952923637822817,5.0,3.0,5.0,5.0,4
-10296,58,4,yes,Quarterly,Nature,Events,Yes,17.572039763855866,4.0,5.0,4.0,4.0,3
-10297,50,4,no,Quarterly,Education,Events,No,32.289721548925385,4.0,4.0,4.0,3.0,0
-10298,57,1,yes,Monthly,Nature,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,4
-10299,56,1,no,Quarterly,Family Time,Curiosity Museum,No,22.019256331977775,5.0,4.0,5.0,5.0,5
-10300,35,1,no,Rarely,Nature,Curiosity Museum,Yes,0.0,4.0,4.0,4.0,5.0,5
-10301,57,7,no,First visit,Nature,Events,Yes,0.0,4.0,4.0,3.0,4.0,3
-10302,18,1,yes,Rarely,Education,Garden,No,5.53603749393315,4.0,4.0,5.0,4.0,2
-10303,28,2,yes,Quarterly,Special Event,Events,No,0.8690972463863261,5.0,4.0,5.0,5.0,4
-10304,45,3,no,Rarely,Nature,Farm,No,6.780062718882933,4.0,3.0,4.0,4.0,5
-10305,74,6,no,Quarterly,Exhibits,Events,Yes,11.787745339332169,2.0,5.0,2.0,2.0,0
-10306,42,7,yes,First visit,Nature,Events,No,27.557317294970765,5.0,1.0,5.0,5.0,5
-10307,67,5,no,Quarterly,Special Event,Dinosaurs,Yes,10.182614419414463,4.0,5.0,3.0,4.0,3
-10308,40,5,yes,Quarterly,Education,Dinosaurs,Yes,0.0,5.0,2.0,5.0,5.0,5
-10309,48,4,no,Quarterly,Special Event,Dinosaurs,No,32.10101769742741,3.0,3.0,2.0,3.0,2
-10310,47,1,no,Weekly,Education,Events,Yes,2.4436479957744064,5.0,4.0,5.0,5.0,1
-10311,59,7,no,Quarterly,Family Time,Garden,Yes,14.11919359343057,5.0,4.0,5.0,5.0,4
-10312,52,5,yes,Monthly,Education,Farm,No,21.698047604110673,4.0,4.0,5.0,4.0,5
-10313,24,5,no,Monthly,Family Time,Farm,No,17.994156276041743,3.0,2.0,3.0,3.0,0
-10314,33,5,yes,Quarterly,Family Time,Garden,No,31.412693212822134,4.0,3.0,3.0,4.0,4
-10315,43,5,no,Quarterly,Education,Garden,No,22.185047150891382,5.0,3.0,5.0,5.0,4
-10316,65,5,yes,First visit,Exhibits,Farm,Yes,2.0803563045433804,4.0,4.0,4.0,4.0,2
-10317,74,7,no,Rarely,Entertainment,Curiosity Museum,Yes,47.678432609874925,4.0,4.0,5.0,4.0,4
-10318,69,6,no,Quarterly,Education,Dinosaurs,No,17.9150019500735,5.0,3.0,4.0,5.0,3
-10319,66,5,no,First visit,Nature,Dinosaurs,No,12.789896600677407,3.0,3.0,4.0,3.0,2
-10320,19,5,no,First visit,Exhibits,Farm,No,29.458881345833564,3.0,3.0,3.0,4.0,3
-10321,18,1,no,Weekly,Exhibits,Garden,Yes,18.741764188951084,5.0,4.0,5.0,5.0,4
-10322,65,5,no,Monthly,Nature,Curiosity Museum,No,20.988422894089908,3.0,4.0,3.0,3.0,5
-10323,29,1,no,Quarterly,Entertainment,Farm,Yes,52.3827599790103,5.0,3.0,5.0,4.0,5
-10324,22,4,no,Rarely,Exhibits,Dinosaurs,No,10.8731785761743,5.0,3.0,5.0,5.0,5
-10325,54,8,no,First visit,Family Time,Events,No,10.233586589739062,4.0,4.0,3.0,3.0,4
-10326,49,4,no,First visit,Entertainment,Garden,No,16.748677680186958,4.0,3.0,4.0,4.0,4
-10327,72,4,no,First visit,Nature,Events,No,31.072739033715578,5.0,4.0,5.0,5.0,5
-10328,26,3,no,First visit,Entertainment,Farm,No,0.0,4.0,2.0,5.0,4.0,4
-10329,58,2,yes,First visit,Education,Dinosaurs,No,0.0,5.0,2.0,5.0,5.0,5
-10330,52,5,yes,Monthly,Entertainment,Curiosity Museum,No,6.193270940697786,4.0,3.0,5.0,4.0,2
-10331,36,3,yes,Quarterly,Family Time,Events,Yes,0.0,4.0,3.0,5.0,5.0,5
-10332,65,2,yes,First visit,Education,Curiosity Museum,No,8.627529787115423,5.0,3.0,5.0,5.0,3
-10333,33,4,yes,First visit,Special Event,Dinosaurs,Yes,22.537495441939353,4.0,3.0,4.0,4.0,2
-10334,20,5,no,Rarely,Nature,Events,No,1.6387670467160498,5.0,4.0,5.0,5.0,3
-10335,37,5,yes,First visit,Nature,Curiosity Museum,No,0.0,4.0,3.0,4.0,5.0,4
-10336,41,1,no,Monthly,Entertainment,Curiosity Museum,No,16.040057425730218,5.0,3.0,5.0,5.0,1
-10337,71,4,yes,Rarely,Exhibits,Events,Yes,27.938152269227555,5.0,4.0,5.0,5.0,5
-10338,73,4,yes,Rarely,Education,Dinosaurs,Yes,0.0,5.0,4.0,5.0,5.0,5
-10339,50,5,no,Rarely,Special Event,Curiosity Museum,No,27.303485974589762,3.0,3.0,3.0,3.0,1
-10340,41,5,no,First visit,Education,Farm,No,27.25959305607489,3.0,4.0,3.0,3.0,2
-10341,69,4,yes,Quarterly,Nature,Events,No,29.31127653234942,4.0,3.0,3.0,3.0,2
-10342,28,4,no,Quarterly,Education,Garden,Yes,33.2772032230753,4.0,5.0,4.0,3.0,5
-10343,66,4,no,Quarterly,Special Event,Garden,No,48.03020886989424,4.0,3.0,4.0,4.0,4
-10344,25,6,yes,First visit,Exhibits,Dinosaurs,No,9.658619270714173,4.0,2.0,4.0,4.0,4
-10345,53,4,yes,Quarterly,Entertainment,Farm,Yes,16.64357370116787,5.0,4.0,5.0,5.0,5
-10346,55,4,no,Quarterly,Family Time,Curiosity Museum,Yes,8.753423501279617,4.0,3.0,4.0,4.0,5
-10347,57,4,no,Monthly,Education,Garden,No,15.029652671337162,5.0,4.0,5.0,5.0,5
-10348,37,4,no,Rarely,Family Time,Dinosaurs,No,37.99310033454468,5.0,5.0,5.0,5.0,4
-10349,52,6,no,Rarely,Nature,Farm,No,0.0,3.0,3.0,3.0,3.0,2
-10350,65,4,yes,Quarterly,Entertainment,Farm,No,2.084254917516368,4.0,3.0,4.0,4.0,5
-10351,42,5,no,Quarterly,Entertainment,Dinosaurs,No,35.65771404756842,4.0,2.0,5.0,4.0,2
-10352,52,5,yes,Rarely,Education,Dinosaurs,No,30.300547603531346,4.0,4.0,4.0,4.0,4
-10353,42,4,no,Rarely,Exhibits,Curiosity Museum,Yes,9.55302529774383,5.0,3.0,5.0,5.0,4
-10354,46,4,no,Rarely,Entertainment,Dinosaurs,Yes,27.8160300168108,5.0,3.0,5.0,5.0,5
-10355,35,6,no,Monthly,Education,Curiosity Museum,No,20.1182376373805,5.0,2.0,5.0,5.0,3
-10356,63,4,yes,Rarely,Education,Curiosity Museum,No,37.50411913501482,5.0,4.0,5.0,5.0,4
-10357,35,4,yes,Monthly,Family Time,Events,No,16.11764390740159,5.0,4.0,5.0,5.0,5
-10358,19,8,no,Rarely,Entertainment,Farm,No,30.384481708088735,4.0,3.0,3.0,3.0,1
+10160,56,4,no,Monthly,Special Event,Curiosity Museum,Yes,5.528444587752251,4.0,4.0,5.0,4.0,1
+10161,44,4,no,Quarterly,Education,Events,No,33.65108695780743,5.0,4.0,4.0,4.0,4
+10162,26,5,yes,Rarely,Education,Garden,No,33.42045314412203,4.0,4.0,4.0,4.0,3
+10163,32,3,no,Monthly,Special Event,Garden,No,9.977955188332471,3.0,4.0,4.0,4.0,4
+10164,32,4,yes,Rarely,Family Time,Dinosaurs,No,0.0,4.0,2.0,3.0,5.0,4
+10165,43,5,yes,Weekly,Exhibits,Garden,No,6.499423379174206,4.0,4.0,3.0,4.0,4
+10166,59,4,no,Rarely,Exhibits,Dinosaurs,Yes,6.002679091244076,3.0,3.0,3.0,2.0,2
+10167,30,6,no,First visit,Education,Farm,Yes,5.14297556582913,4.0,3.0,4.0,4.0,2
+10168,68,4,no,Quarterly,Special Event,Farm,No,4.534216441526327,4.0,3.0,5.0,4.0,5
+10169,49,3,yes,Quarterly,Education,Farm,Yes,5.198056564127892,3.0,3.0,3.0,2.0,5
+10170,56,5,no,Quarterly,Entertainment,Garden,Yes,9.201875761533604,4.0,4.0,4.0,3.0,2
+10171,66,4,yes,Weekly,Exhibits,Garden,No,5.46688351776665,4.0,4.0,4.0,4.0,5
+10172,69,4,no,Quarterly,Nature,Dinosaurs,No,18.124837629383883,4.0,2.0,4.0,4.0,3
+10173,49,4,no,Quarterly,Entertainment,Curiosity Museum,No,20.405530738572917,4.0,3.0,4.0,3.0,4
+10174,21,4,no,Monthly,Education,Dinosaurs,No,1.3403236922626527,5.0,2.0,5.0,5.0,1
+10175,47,5,no,Quarterly,Family Time,Farm,Yes,34.065979890105496,5.0,3.0,4.0,5.0,3
+10176,54,2,yes,Rarely,Exhibits,Dinosaurs,No,0.2990654723907926,5.0,4.0,5.0,5.0,5
+10177,40,3,no,Monthly,Nature,Curiosity Museum,Yes,0.0,3.0,4.0,4.0,3.0,2
+10178,56,1,no,First visit,Entertainment,Garden,Yes,20.711671070475777,5.0,3.0,5.0,5.0,4
+10179,62,5,no,Quarterly,Exhibits,Dinosaurs,No,2.738877983784903,5.0,4.0,5.0,5.0,5
+10180,32,3,no,Monthly,Special Event,Farm,Yes,19.81937206136082,4.0,2.0,5.0,4.0,2
+10181,60,6,yes,Quarterly,Family Time,Farm,No,0.0,5.0,4.0,4.0,5.0,5
+10182,46,4,yes,Quarterly,Entertainment,Garden,Yes,35.886839122246016,4.0,3.0,4.0,4.0,4
+10183,53,6,no,Quarterly,Special Event,Dinosaurs,No,25.08440112060603,3.0,3.0,3.0,4.0,3
+10184,30,7,yes,Rarely,Education,Curiosity Museum,Yes,0.0,4.0,3.0,4.0,4.0,4
+10185,49,6,yes,Monthly,Special Event,Garden,No,0.0,5.0,4.0,5.0,5.0,5
+10186,24,6,no,First visit,Entertainment,Dinosaurs,No,40.08398856146292,4.0,2.0,4.0,4.0,5
+10187,68,4,no,First visit,Entertainment,Events,Yes,3.9393014475306183,5.0,4.0,4.0,5.0,5
+10188,39,4,no,First visit,Education,Farm,Yes,2.4872272690106403,4.0,4.0,4.0,4.0,0
+10189,45,3,no,Rarely,Special Event,Curiosity Museum,Yes,0.0,4.0,3.0,3.0,3.0,3
+10190,19,3,no,Rarely,Special Event,Curiosity Museum,Yes,9.738326915976687,4.0,3.0,4.0,5.0,4
+10191,59,4,yes,Quarterly,Education,Curiosity Museum,No,11.584205777463707,4.0,3.0,5.0,4.0,2
+10192,62,4,yes,Rarely,Special Event,Farm,No,25.73239645154228,4.0,2.0,4.0,4.0,5
+10193,74,3,yes,Rarely,Exhibits,Dinosaurs,Yes,0.0,3.0,3.0,2.0,3.0,3
+10194,70,4,no,First visit,Education,Garden,Yes,0.0,5.0,4.0,5.0,5.0,5
+10195,23,6,no,Rarely,Family Time,Dinosaurs,Yes,21.76443952164715,5.0,4.0,5.0,5.0,1
+10196,45,4,no,Quarterly,Entertainment,Garden,No,30.100951068405973,5.0,3.0,5.0,5.0,2
+10197,45,5,no,First visit,Family Time,Curiosity Museum,Yes,0.0,4.0,5.0,4.0,4.0,3
+10198,61,6,no,First visit,Exhibits,Dinosaurs,No,31.22271129449612,3.0,2.0,4.0,3.0,3
+10199,61,7,yes,First visit,Exhibits,Curiosity Museum,No,15.563127622302321,4.0,2.0,5.0,4.0,3
+10200,37,5,no,First visit,Nature,Events,Yes,31.377080086119687,5.0,5.0,5.0,5.0,3
+10201,47,6,yes,Rarely,Nature,Curiosity Museum,No,13.946694577235752,5.0,3.0,5.0,5.0,4
+10202,28,7,yes,First visit,Nature,Curiosity Museum,No,0.0,5.0,2.0,5.0,5.0,5
+10203,72,6,yes,Quarterly,Education,Garden,No,12.720489265259417,5.0,2.0,5.0,5.0,4
+10204,45,2,no,Quarterly,Special Event,Events,Yes,30.902157280069048,5.0,5.0,5.0,5.0,5
+10205,42,4,no,Rarely,Exhibits,Curiosity Museum,Yes,1.5938097137442853,5.0,4.0,5.0,5.0,5
+10206,56,3,yes,Weekly,Family Time,Curiosity Museum,No,9.180525466388216,4.0,3.0,5.0,4.0,1
+10207,50,1,yes,Rarely,Family Time,Events,No,12.357997446735325,4.0,3.0,4.0,4.0,2
+10208,18,5,no,Rarely,Family Time,Events,No,0.0,4.0,4.0,4.0,4.0,5
+10209,74,5,yes,Weekly,Family Time,Dinosaurs,No,40.07021363156214,5.0,3.0,5.0,5.0,3
+10210,44,6,no,First visit,Nature,Garden,No,1.4793648015423826,5.0,5.0,5.0,5.0,5
+10211,74,2,no,Monthly,Family Time,Events,No,22.586031487091983,4.0,3.0,4.0,4.0,5
+10212,69,6,no,First visit,Special Event,Events,Yes,13.699482957776869,5.0,5.0,5.0,5.0,5
+10213,30,5,no,Rarely,Nature,Farm,No,33.8642858453904,5.0,4.0,5.0,5.0,5
+10214,58,5,yes,First visit,Family Time,Events,No,21.090841836421212,4.0,3.0,4.0,4.0,2
+10215,20,6,no,Quarterly,Education,Garden,No,11.47613592718538,4.0,3.0,4.0,4.0,5
+10216,56,5,no,Quarterly,Entertainment,Curiosity Museum,No,1.5972736122107971,5.0,3.0,5.0,5.0,5
+10217,23,3,no,Quarterly,Entertainment,Curiosity Museum,Yes,26.96776052073208,4.0,4.0,4.0,4.0,4
+10218,25,6,yes,Rarely,Entertainment,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,5
+10219,44,4,no,Rarely,Nature,Curiosity Museum,No,24.688356304138388,4.0,3.0,3.0,4.0,1
+10220,26,1,no,First visit,Family Time,Farm,Yes,0.0,3.0,5.0,3.0,3.0,3
+10221,54,6,yes,First visit,Exhibits,Events,No,33.7842549293496,3.0,5.0,3.0,2.0,3
+10222,50,3,no,Monthly,Exhibits,Curiosity Museum,Yes,17.41949313994043,4.0,4.0,5.0,4.0,2
+10223,68,5,no,Rarely,Exhibits,Dinosaurs,Yes,24.66185651775163,5.0,5.0,5.0,5.0,5
+10224,59,4,no,Quarterly,Nature,Curiosity Museum,Yes,16.22983220737079,5.0,3.0,5.0,5.0,5
+10225,61,6,yes,Quarterly,Special Event,Events,No,0.0,5.0,4.0,5.0,5.0,2
+10226,41,3,no,Rarely,Education,Curiosity Museum,No,2.089062549069923,5.0,4.0,5.0,5.0,5
+10227,32,7,no,Quarterly,Education,Farm,No,25.085840064170736,4.0,2.0,4.0,4.0,1
+10228,71,5,no,First visit,Entertainment,Garden,No,17.49983726039766,4.0,3.0,4.0,4.0,4
+10229,49,2,yes,First visit,Entertainment,Garden,No,32.71484857958508,4.0,5.0,3.0,5.0,1
+10230,49,4,no,First visit,Exhibits,Events,Yes,21.049118445557575,3.0,3.0,3.0,3.0,1
+10231,41,7,yes,Quarterly,Exhibits,Garden,Yes,0.4994716394601034,4.0,3.0,4.0,4.0,3
+10232,58,4,no,Rarely,Entertainment,Garden,No,3.05903793419049,4.0,4.0,4.0,4.0,3
+10233,69,3,no,Rarely,Family Time,Dinosaurs,Yes,16.543760857848557,4.0,5.0,5.0,4.0,1
+10234,66,4,yes,Rarely,Special Event,Events,No,0.0,4.0,4.0,4.0,3.0,5
+10235,66,4,no,Rarely,Special Event,Events,No,40.10162828434478,3.0,3.0,3.0,3.0,5
+10236,69,5,yes,Quarterly,Special Event,Garden,No,21.626201045663358,3.0,3.0,3.0,4.0,0
+10237,29,5,no,Quarterly,Special Event,Garden,No,33.405518955733086,4.0,3.0,5.0,5.0,2
+10238,56,4,no,First visit,Entertainment,Garden,Yes,0.0,5.0,5.0,5.0,5.0,5
+10239,19,3,no,First visit,Education,Farm,Yes,33.66847740532884,5.0,4.0,4.0,5.0,3
+10240,20,5,yes,Quarterly,Entertainment,Curiosity Museum,No,48.47248366541623,5.0,5.0,5.0,5.0,5
+10241,66,4,no,Rarely,Special Event,Farm,Yes,0.0,4.0,3.0,5.0,4.0,2
+10242,54,2,yes,Quarterly,Entertainment,Events,No,26.5710269235565,3.0,3.0,3.0,4.0,5
+10243,66,6,yes,First visit,Special Event,Dinosaurs,Yes,15.016649170309398,4.0,4.0,4.0,4.0,4
+10244,73,5,no,Rarely,Nature,Curiosity Museum,No,0.0,5.0,2.0,5.0,5.0,2
+10245,34,5,yes,First visit,Exhibits,Dinosaurs,No,22.393259577778046,4.0,3.0,5.0,4.0,4
+10246,66,6,no,First visit,Education,Events,No,27.504048072560227,5.0,4.0,5.0,5.0,5
+10247,19,4,no,Quarterly,Nature,Events,Yes,5.983101709967297,5.0,4.0,5.0,4.0,5
+10248,19,6,yes,Rarely,Family Time,Dinosaurs,Yes,32.488747803828346,4.0,5.0,4.0,4.0,5
+10249,45,4,yes,Quarterly,Entertainment,Dinosaurs,No,0.0,5.0,4.0,5.0,5.0,5
+10250,71,1,no,Monthly,Family Time,Dinosaurs,Yes,0.0,5.0,5.0,5.0,5.0,4
+10251,40,4,yes,Rarely,Entertainment,Events,No,17.048960933831285,5.0,3.0,5.0,5.0,5
+10252,54,4,no,Quarterly,Exhibits,Garden,No,15.380779169584075,3.0,5.0,3.0,4.0,0
+10253,49,5,no,First visit,Nature,Dinosaurs,No,4.251397673638422,4.0,5.0,4.0,4.0,2
+10254,50,2,no,Rarely,Exhibits,Curiosity Museum,No,27.14391653957829,2.0,4.0,2.0,2.0,1
+10255,18,2,no,Quarterly,Special Event,Events,Yes,22.96341471323924,4.0,3.0,4.0,4.0,1
+10256,36,3,yes,Rarely,Exhibits,Farm,No,27.87208606401024,5.0,3.0,5.0,5.0,5
+10257,19,3,yes,Quarterly,Exhibits,Farm,No,13.152953469715985,5.0,3.0,5.0,5.0,5
+10258,70,5,no,First visit,Special Event,Curiosity Museum,No,24.038704019675112,4.0,4.0,4.0,3.0,3
+10259,61,3,no,Quarterly,Entertainment,Garden,No,8.31524545455008,5.0,4.0,4.0,5.0,3
+10260,43,5,no,Monthly,Special Event,Dinosaurs,No,45.80728035129895,4.0,4.0,3.0,5.0,5
+10261,49,4,yes,Monthly,Nature,Events,Yes,2.8118134481702164,4.0,4.0,5.0,4.0,4
+10262,23,4,yes,Quarterly,Exhibits,Dinosaurs,Yes,46.57946144187468,3.0,3.0,3.0,3.0,3
+10263,49,6,yes,Quarterly,Special Event,Events,No,15.523319206341128,5.0,4.0,5.0,5.0,5
+10264,72,4,no,Quarterly,Exhibits,Farm,Yes,0.0,4.0,5.0,3.0,4.0,2
+10265,21,5,no,Quarterly,Nature,Dinosaurs,No,35.52119025732902,5.0,4.0,5.0,5.0,5
+10266,72,4,no,First visit,Family Time,Curiosity Museum,No,16.888520825924385,4.0,4.0,4.0,3.0,5
+10267,28,4,no,Rarely,Nature,Garden,Yes,27.766861475703568,5.0,5.0,4.0,5.0,4
+10268,73,7,yes,Rarely,Education,Curiosity Museum,Yes,33.3578387781389,4.0,4.0,5.0,4.0,3
+10269,34,3,no,Weekly,Education,Garden,No,20.069333312175377,5.0,3.0,5.0,4.0,5
+10270,55,1,no,Rarely,Education,Dinosaurs,Yes,6.116387327807781,4.0,3.0,4.0,4.0,3
+10271,41,5,no,Rarely,Exhibits,Dinosaurs,No,29.63570066503875,4.0,3.0,4.0,4.0,2
+10272,22,1,no,Rarely,Entertainment,Garden,No,15.011332611818933,4.0,3.0,3.0,4.0,1
+10273,69,6,no,Quarterly,Entertainment,Farm,No,25.287867279126285,4.0,4.0,4.0,3.0,2
+10274,51,4,no,Quarterly,Entertainment,Events,No,0.0,4.0,3.0,4.0,5.0,1
+10275,23,6,yes,First visit,Exhibits,Curiosity Museum,Yes,21.704725755147777,4.0,3.0,4.0,4.0,3
+10276,39,5,yes,Rarely,Nature,Curiosity Museum,No,5.421212622824548,4.0,5.0,5.0,4.0,5
+10277,28,5,no,Quarterly,Entertainment,Curiosity Museum,Yes,39.79964455767796,3.0,3.0,2.0,2.0,1
+10278,65,6,yes,Rarely,Family Time,Dinosaurs,Yes,24.346310218336427,5.0,4.0,5.0,5.0,4
+10279,33,4,yes,First visit,Education,Curiosity Museum,No,18.59786618773945,4.0,4.0,4.0,4.0,5
+10280,50,7,yes,Quarterly,Nature,Events,No,22.294649900253322,4.0,2.0,4.0,3.0,3
+10281,26,2,no,Quarterly,Education,Events,Yes,0.02338720684922635,4.0,5.0,4.0,3.0,3
+10282,23,4,yes,First visit,Entertainment,Garden,No,39.34885035792081,5.0,4.0,5.0,5.0,5
+10283,33,3,no,Quarterly,Nature,Dinosaurs,No,44.870556276253566,4.0,4.0,4.0,5.0,4
+10284,46,4,no,Quarterly,Special Event,Events,Yes,20.893702658223244,4.0,3.0,4.0,4.0,2
+10285,20,3,yes,Rarely,Family Time,Farm,Yes,38.856053528604576,3.0,4.0,4.0,4.0,1
+10286,37,6,yes,Weekly,Entertainment,Dinosaurs,No,6.462777019911992,5.0,3.0,5.0,5.0,5
+10287,53,6,yes,Quarterly,Entertainment,Dinosaurs,No,3.0432965066252886,5.0,3.0,5.0,5.0,5
+10288,36,7,no,Quarterly,Family Time,Events,No,15.613871230933842,3.0,2.0,3.0,4.0,2
+10289,43,3,yes,Quarterly,Family Time,Farm,No,21.52411557551848,3.0,3.0,4.0,4.0,5
+10290,20,5,no,First visit,Special Event,Garden,Yes,9.090199781353194,4.0,3.0,3.0,5.0,3
+10291,36,4,yes,First visit,Entertainment,Events,No,23.066522855527257,4.0,3.0,4.0,3.0,3
+10292,37,3,no,Rarely,Exhibits,Farm,No,19.595842231101212,5.0,1.0,5.0,5.0,1
+10293,49,4,no,First visit,Entertainment,Dinosaurs,No,0.025398370634175937,5.0,2.0,4.0,5.0,5
+10294,24,4,no,Rarely,Education,Farm,Yes,22.78189526177582,3.0,4.0,3.0,3.0,3
+10295,69,5,no,Monthly,Nature,Dinosaurs,Yes,27.952923637822817,4.0,3.0,4.0,4.0,4
+10296,58,4,yes,Quarterly,Nature,Events,Yes,17.572039763855866,4.0,3.0,4.0,4.0,4
+10297,50,4,no,Quarterly,Education,Events,No,32.289721548925385,5.0,4.0,5.0,5.0,5
+10298,57,1,yes,Monthly,Nature,Curiosity Museum,No,0.0,4.0,3.0,4.0,5.0,4
+10299,56,1,no,Quarterly,Family Time,Curiosity Museum,No,22.019256331977775,4.0,4.0,4.0,4.0,3
+10300,35,1,no,Rarely,Nature,Curiosity Museum,Yes,0.0,3.0,4.0,3.0,2.0,2
+10301,57,7,no,First visit,Nature,Events,Yes,0.0,3.0,5.0,3.0,3.0,2
+10302,18,1,yes,Rarely,Education,Garden,No,5.53603749393315,4.0,3.0,4.0,5.0,2
+10303,28,2,yes,Quarterly,Special Event,Events,No,0.8690972463863261,5.0,5.0,5.0,5.0,4
+10304,45,3,no,Rarely,Nature,Farm,No,6.780062718882933,5.0,3.0,5.0,5.0,4
+10305,74,6,no,Quarterly,Exhibits,Events,Yes,11.787745339332169,5.0,2.0,5.0,5.0,4
+10306,42,7,yes,First visit,Nature,Events,No,27.557317294970765,4.0,4.0,5.0,4.0,4
+10307,67,5,no,Quarterly,Special Event,Dinosaurs,Yes,10.182614419414463,5.0,4.0,4.0,5.0,5
+10308,40,5,yes,Quarterly,Education,Dinosaurs,Yes,0.0,4.0,3.0,4.0,4.0,3
+10309,48,4,no,Quarterly,Special Event,Dinosaurs,No,32.10101769742741,4.0,2.0,5.0,3.0,3
+10310,47,1,no,Weekly,Education,Events,Yes,2.4436479957744064,3.0,4.0,3.0,2.0,1
+10311,59,7,no,Quarterly,Family Time,Garden,Yes,14.11919359343057,4.0,4.0,3.0,4.0,5
+10312,52,5,yes,Monthly,Education,Farm,No,21.698047604110673,5.0,1.0,5.0,5.0,5
+10313,24,5,no,Monthly,Family Time,Farm,No,17.994156276041743,5.0,4.0,5.0,5.0,5
+10314,33,5,yes,Quarterly,Family Time,Garden,No,31.412693212822134,5.0,3.0,4.0,5.0,4
+10315,43,5,no,Quarterly,Education,Garden,No,22.185047150891382,4.0,2.0,5.0,4.0,3
+10316,65,5,yes,First visit,Exhibits,Farm,Yes,2.0803563045433804,3.0,5.0,3.0,3.0,2
+10317,74,7,no,Rarely,Entertainment,Curiosity Museum,Yes,47.678432609874925,4.0,4.0,4.0,5.0,3
+10318,69,6,no,Quarterly,Education,Dinosaurs,No,17.9150019500735,5.0,4.0,5.0,5.0,4
+10319,66,5,no,First visit,Nature,Dinosaurs,No,12.789896600677407,4.0,4.0,3.0,4.0,4
+10320,19,5,no,First visit,Exhibits,Farm,No,29.458881345833564,5.0,3.0,4.0,4.0,4
+10321,18,1,no,Weekly,Exhibits,Garden,Yes,18.741764188951084,4.0,4.0,4.0,4.0,5
+10322,65,5,no,Monthly,Nature,Curiosity Museum,No,20.988422894089908,4.0,4.0,5.0,5.0,3
+10323,29,1,no,Quarterly,Entertainment,Farm,Yes,52.3827599790103,5.0,3.0,5.0,5.0,4
+10324,22,4,no,Rarely,Exhibits,Dinosaurs,No,10.8731785761743,4.0,3.0,4.0,3.0,3
+10325,54,8,no,First visit,Family Time,Events,No,10.233586589739062,4.0,4.0,4.0,4.0,5
+10326,49,4,no,First visit,Entertainment,Garden,No,16.748677680186958,5.0,3.0,5.0,5.0,5
+10327,72,4,no,First visit,Nature,Events,No,31.072739033715578,5.0,3.0,5.0,5.0,5
+10328,26,3,no,First visit,Entertainment,Farm,No,0.0,5.0,4.0,5.0,4.0,5
+10329,58,2,yes,First visit,Education,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,3
+10330,52,5,yes,Monthly,Entertainment,Curiosity Museum,No,6.193270940697786,5.0,3.0,5.0,5.0,3
+10331,36,3,yes,Quarterly,Family Time,Events,Yes,0.0,5.0,3.0,4.0,5.0,3
+10332,65,2,yes,First visit,Education,Curiosity Museum,No,8.627529787115423,4.0,4.0,4.0,4.0,3
+10333,33,4,yes,First visit,Special Event,Dinosaurs,Yes,22.537495441939353,5.0,4.0,5.0,5.0,5
+10334,20,5,no,Rarely,Nature,Events,No,1.6387670467160498,3.0,4.0,2.0,3.0,4
+10335,37,5,yes,First visit,Nature,Curiosity Museum,No,0.0,4.0,3.0,5.0,4.0,5
+10336,41,1,no,Monthly,Entertainment,Curiosity Museum,No,16.040057425730218,3.0,3.0,3.0,3.0,2
+10337,71,4,yes,Rarely,Exhibits,Events,Yes,27.938152269227555,5.0,4.0,5.0,4.0,5
+10338,73,4,yes,Rarely,Education,Dinosaurs,Yes,0.0,3.0,4.0,3.0,3.0,5
+10339,50,5,no,Rarely,Special Event,Curiosity Museum,No,27.303485974589762,4.0,2.0,4.0,3.0,5
+10340,41,5,no,First visit,Education,Farm,No,27.25959305607489,2.0,4.0,2.0,2.0,2
+10341,69,4,yes,Quarterly,Nature,Events,No,29.31127653234942,4.0,2.0,4.0,4.0,5
+10342,28,4,no,Quarterly,Education,Garden,Yes,33.2772032230753,4.0,4.0,5.0,3.0,5
+10343,66,4,no,Quarterly,Special Event,Garden,No,48.03020886989424,5.0,2.0,5.0,5.0,3
+10344,25,6,yes,First visit,Exhibits,Dinosaurs,No,9.658619270714173,5.0,5.0,5.0,5.0,5
+10345,53,4,yes,Quarterly,Entertainment,Farm,Yes,16.64357370116787,3.0,3.0,3.0,1.0,2
+10346,55,4,no,Quarterly,Family Time,Curiosity Museum,Yes,8.753423501279617,5.0,5.0,5.0,5.0,4
+10347,57,4,no,Monthly,Education,Garden,No,15.029652671337162,4.0,3.0,5.0,3.0,3
+10348,37,4,no,Rarely,Family Time,Dinosaurs,No,37.99310033454468,4.0,3.0,4.0,4.0,3
+10349,52,6,no,Rarely,Nature,Farm,No,0.0,3.0,3.0,3.0,3.0,1
+10350,65,4,yes,Quarterly,Entertainment,Farm,No,2.084254917516368,4.0,4.0,3.0,3.0,5
+10351,42,5,no,Quarterly,Entertainment,Dinosaurs,No,35.65771404756842,4.0,2.0,3.0,5.0,3
+10352,52,5,yes,Rarely,Education,Dinosaurs,No,30.300547603531346,5.0,3.0,5.0,5.0,5
+10353,42,4,no,Rarely,Exhibits,Curiosity Museum,Yes,9.55302529774383,5.0,4.0,5.0,5.0,5
+10354,46,4,no,Rarely,Entertainment,Dinosaurs,Yes,27.8160300168108,5.0,2.0,5.0,5.0,3
+10355,35,6,no,Monthly,Education,Curiosity Museum,No,20.1182376373805,5.0,3.0,5.0,4.0,3
+10356,63,4,yes,Rarely,Education,Curiosity Museum,No,37.50411913501482,2.0,5.0,1.0,1.0,2
+10357,35,4,yes,Monthly,Family Time,Events,No,16.11764390740159,5.0,2.0,5.0,4.0,4
+10358,19,8,no,Rarely,Entertainment,Farm,No,30.384481708088735,4.0,4.0,4.0,5.0,5
 10359,71,1,no,Monthly,Education,Farm,Yes,54.6301786573893,4.0,3.0,5.0,4.0,5
-10360,52,3,no,Quarterly,Family Time,Farm,No,23.971487325711994,5.0,4.0,5.0,5.0,5
-10361,33,4,yes,Rarely,Special Event,Events,Yes,15.739922486922655,5.0,3.0,5.0,5.0,5
-10362,58,6,no,Monthly,Family Time,Curiosity Museum,No,25.836704778314694,5.0,1.0,5.0,4.0,4
-10363,53,1,yes,First visit,Family Time,Curiosity Museum,No,9.520787126941727,5.0,4.0,5.0,5.0,3
-10364,50,1,no,Monthly,Education,Dinosaurs,No,50.819515582870984,5.0,2.0,5.0,5.0,4
-10365,21,1,yes,Quarterly,Nature,Events,No,17.701065565439723,5.0,4.0,5.0,5.0,5
-10366,50,1,no,First visit,Nature,Dinosaurs,Yes,10.906000196617306,4.0,3.0,5.0,5.0,3
-10367,31,1,yes,Quarterly,Exhibits,Events,No,2.464664924699454,5.0,4.0,5.0,5.0,3
-10368,38,4,no,Weekly,Nature,Dinosaurs,Yes,31.458302874096578,5.0,5.0,5.0,5.0,5
-10369,65,4,no,First visit,Family Time,Garden,No,28.00781119241608,5.0,2.0,5.0,5.0,4
-10370,37,3,yes,Quarterly,Exhibits,Farm,No,7.539684428788601,3.0,3.0,3.0,3.0,1
-10371,73,4,yes,Quarterly,Education,Farm,No,23.64677017683634,4.0,3.0,4.0,5.0,5
-10372,25,1,yes,Quarterly,Entertainment,Curiosity Museum,No,0.0,4.0,4.0,4.0,4.0,1
-10373,24,3,yes,Rarely,Family Time,Garden,Yes,17.774558626097345,5.0,3.0,4.0,5.0,4
-10374,20,4,no,First visit,Family Time,Farm,No,21.791345281150416,5.0,3.0,4.0,5.0,5
-10375,34,5,no,First visit,Exhibits,Curiosity Museum,Yes,40.60994714338834,5.0,4.0,5.0,5.0,5
-10376,50,1,no,Quarterly,Education,Garden,No,3.437717959069659,3.0,3.0,4.0,2.0,1
-10377,65,4,no,Rarely,Special Event,Farm,Yes,0.0,4.0,4.0,3.0,4.0,4
-10378,29,3,no,Monthly,Family Time,Dinosaurs,Yes,1.568580586124374,4.0,3.0,5.0,4.0,4
-10379,68,6,yes,First visit,Special Event,Events,No,0.0,5.0,5.0,5.0,4.0,5
-10380,39,5,yes,Quarterly,Special Event,Garden,No,35.04986036638475,5.0,2.0,5.0,5.0,3
-10381,72,4,no,First visit,Nature,Curiosity Museum,Yes,38.22958942536055,3.0,4.0,3.0,3.0,2
-10382,39,3,no,First visit,Education,Garden,Yes,19.803248669232435,5.0,4.0,4.0,5.0,5
-10383,63,6,yes,Rarely,Special Event,Curiosity Museum,No,33.31942418527722,5.0,5.0,5.0,5.0,5
-10384,47,1,yes,Rarely,Education,Garden,Yes,17.00937570870353,4.0,3.0,4.0,4.0,3
-10385,55,2,no,Quarterly,Nature,Curiosity Museum,Yes,13.57332528448851,5.0,5.0,5.0,5.0,5
-10386,55,4,no,Monthly,Education,Farm,No,10.004435714193574,4.0,4.0,5.0,5.0,3
-10387,62,2,yes,Quarterly,Family Time,Dinosaurs,Yes,10.344135129336518,5.0,4.0,4.0,5.0,1
-10388,68,7,no,Weekly,Special Event,Farm,No,0.0,5.0,2.0,4.0,5.0,5
-10389,71,5,no,Monthly,Education,Dinosaurs,No,18.96382145411008,5.0,4.0,5.0,5.0,4
-10390,25,3,yes,Quarterly,Entertainment,Farm,No,14.394991346789345,5.0,3.0,5.0,5.0,5
-10391,44,4,yes,Quarterly,Education,Farm,No,26.180410861168138,2.0,4.0,2.0,2.0,3
-10392,44,7,no,Quarterly,Special Event,Garden,No,16.402852446579146,4.0,2.0,4.0,4.0,4
-10393,51,6,no,First visit,Nature,Events,Yes,12.559444476463623,4.0,4.0,5.0,4.0,5
-10394,38,5,yes,Quarterly,Nature,Curiosity Museum,Yes,1.9321045498855445,4.0,3.0,4.0,4.0,5
-10395,47,6,no,First visit,Special Event,Curiosity Museum,No,16.08229855232642,4.0,2.0,4.0,4.0,2
-10396,50,7,no,Quarterly,Family Time,Curiosity Museum,Yes,26.07355846224243,4.0,4.0,4.0,4.0,5
-10397,45,5,no,Quarterly,Family Time,Dinosaurs,No,0.0,4.0,4.0,4.0,3.0,4
-10398,64,1,no,First visit,Nature,Curiosity Museum,No,16.31210630521109,3.0,4.0,3.0,3.0,1
-10399,50,4,no,First visit,Nature,Curiosity Museum,Yes,18.495644272942258,4.0,2.0,5.0,4.0,5
-10400,22,6,no,Monthly,Special Event,Garden,No,4.2290282457260355,5.0,4.0,5.0,5.0,5
-10401,65,3,no,Quarterly,Family Time,Farm,No,6.182155426379997,4.0,5.0,4.0,4.0,2
-10402,36,6,no,First visit,Nature,Curiosity Museum,No,18.459162731493215,4.0,3.0,4.0,4.0,3
-10403,21,2,no,Quarterly,Family Time,Events,No,0.0,4.0,5.0,4.0,3.0,2
-10404,52,1,no,Quarterly,Nature,Curiosity Museum,No,20.24885572874089,4.0,3.0,4.0,4.0,2
-10405,66,4,yes,Rarely,Education,Dinosaurs,No,1.5696843951119999,4.0,2.0,4.0,4.0,2
-10406,34,1,no,Weekly,Entertainment,Dinosaurs,No,30.942805395498247,3.0,3.0,3.0,2.0,5
-10407,61,7,no,Quarterly,Exhibits,Dinosaurs,No,50.067416180824495,5.0,4.0,5.0,5.0,5
-10408,45,6,yes,Rarely,Education,Curiosity Museum,Yes,2.088647974472705,5.0,3.0,5.0,5.0,5
-10409,47,6,no,Quarterly,Exhibits,Garden,Yes,23.01311793562012,4.0,3.0,3.0,4.0,5
-10410,46,5,no,Monthly,Nature,Events,No,4.098871426769711,4.0,4.0,4.0,4.0,4
-10411,63,3,yes,First visit,Entertainment,Curiosity Museum,Yes,30.614312606966845,4.0,4.0,3.0,4.0,5
-10412,70,4,no,First visit,Entertainment,Garden,Yes,0.0,4.0,4.0,4.0,4.0,3
-10413,23,4,yes,First visit,Nature,Garden,No,22.20880137641569,5.0,3.0,4.0,4.0,4
-10414,52,4,yes,Quarterly,Nature,Curiosity Museum,Yes,1.9051654966597098,3.0,4.0,3.0,3.0,4
-10415,58,3,no,Quarterly,Family Time,Curiosity Museum,No,11.89523116352447,4.0,3.0,4.0,4.0,5
-10416,54,4,yes,Quarterly,Nature,Garden,No,0.0,5.0,3.0,5.0,5.0,2
-10417,41,4,no,Monthly,Special Event,Garden,No,27.335257063436305,4.0,2.0,4.0,4.0,4
-10418,46,8,no,Quarterly,Nature,Garden,No,2.4452946834061957,5.0,4.0,4.0,5.0,4
-10419,66,6,no,First visit,Special Event,Curiosity Museum,Yes,23.279463889977414,5.0,3.0,5.0,4.0,4
-10420,63,4,no,First visit,Nature,Garden,No,9.838529576065007,3.0,4.0,3.0,3.0,5
-10421,70,5,yes,Rarely,Family Time,Dinosaurs,No,13.282914423017056,4.0,3.0,4.0,5.0,2
-10422,48,5,no,Rarely,Special Event,Curiosity Museum,No,17.216338611001927,5.0,3.0,5.0,4.0,5
-10423,52,1,yes,Quarterly,Education,Dinosaurs,No,3.5726299251172695,4.0,3.0,4.0,5.0,3
-10424,50,6,no,Monthly,Special Event,Farm,Yes,18.155506703113304,4.0,3.0,4.0,4.0,3
-10425,69,6,no,First visit,Family Time,Curiosity Museum,No,37.955018465316165,4.0,2.0,4.0,4.0,1
-10426,38,4,yes,Quarterly,Exhibits,Farm,Yes,3.3285782125092855,5.0,3.0,5.0,4.0,3
-10427,49,4,no,Quarterly,Special Event,Garden,No,32.577152149107675,5.0,3.0,5.0,5.0,3
-10428,40,3,no,Rarely,Nature,Garden,No,37.47146450231676,5.0,3.0,4.0,5.0,3
-10429,50,4,no,First visit,Nature,Events,Yes,2.7576751645793425,4.0,5.0,4.0,3.0,5
-10430,20,1,no,Rarely,Exhibits,Garden,Yes,0.0,4.0,3.0,4.0,4.0,5
-10431,35,6,yes,First visit,Family Time,Farm,Yes,19.52941350257647,5.0,3.0,4.0,5.0,5
-10432,42,1,no,Monthly,Entertainment,Garden,No,6.788887158496905,5.0,2.0,5.0,5.0,5
-10433,59,3,yes,First visit,Nature,Curiosity Museum,No,43.029048287445036,5.0,4.0,5.0,4.0,3
-10434,48,6,no,Rarely,Education,Garden,Yes,15.522113107497484,5.0,5.0,4.0,5.0,5
-10435,71,5,no,Rarely,Family Time,Events,No,2.967008879472312,5.0,4.0,5.0,5.0,4
-10436,20,3,no,Weekly,Special Event,Garden,Yes,0.0,4.0,4.0,4.0,3.0,3
-10437,57,3,no,First visit,Special Event,Farm,No,31.34857438636245,4.0,4.0,4.0,4.0,4
-10438,63,1,yes,First visit,Education,Farm,Yes,6.4322403887372035,4.0,5.0,4.0,4.0,5
-10439,41,5,no,First visit,Nature,Garden,No,15.657431991906424,4.0,3.0,4.0,3.0,3
-10440,67,1,no,First visit,Family Time,Farm,No,29.33704117668721,5.0,4.0,5.0,5.0,4
-10441,49,4,yes,First visit,Education,Farm,No,7.736124721037546,4.0,3.0,4.0,3.0,3
-10442,64,7,no,Quarterly,Nature,Events,No,14.31106756889759,5.0,2.0,4.0,4.0,5
-10443,39,2,yes,First visit,Family Time,Curiosity Museum,No,14.7514738526622,5.0,3.0,4.0,5.0,4
-10444,40,6,no,First visit,Special Event,Events,No,25.249867672741377,4.0,3.0,4.0,4.0,5
-10445,19,8,no,Quarterly,Family Time,Dinosaurs,No,23.86116503265489,4.0,3.0,4.0,4.0,4
-10446,44,1,no,Rarely,Exhibits,Events,No,11.698294031177571,4.0,5.0,4.0,5.0,3
-10447,59,6,yes,Rarely,Entertainment,Garden,No,15.954735922447766,3.0,3.0,3.0,3.0,1
-10448,19,4,no,First visit,Family Time,Curiosity Museum,Yes,9.423314827147669,4.0,5.0,3.0,4.0,4
-10449,43,6,no,Weekly,Entertainment,Garden,No,0.0,3.0,3.0,3.0,3.0,1
-10450,34,4,no,First visit,Family Time,Dinosaurs,Yes,18.86401286097194,5.0,4.0,5.0,5.0,3
-10451,57,5,no,Monthly,Entertainment,Curiosity Museum,No,43.38287641249602,4.0,2.0,4.0,4.0,5
-10452,50,4,yes,Quarterly,Exhibits,Farm,No,1.7442128896340576,4.0,3.0,4.0,5.0,3
-10453,26,6,no,First visit,Special Event,Events,No,3.404554355959455,4.0,4.0,3.0,4.0,5
-10454,60,5,no,Weekly,Nature,Garden,Yes,1.9390834253438793,5.0,4.0,5.0,5.0,5
-10455,71,4,no,First visit,Entertainment,Dinosaurs,Yes,25.86887668084684,5.0,5.0,5.0,5.0,5
-10456,65,6,no,First visit,Exhibits,Farm,No,21.7272818129466,5.0,3.0,5.0,5.0,3
-10457,56,3,no,Quarterly,Entertainment,Events,No,12.62193461375315,4.0,3.0,4.0,3.0,3
-10458,46,3,no,Quarterly,Special Event,Farm,Yes,1.2297140754155205,5.0,5.0,5.0,5.0,5
-10459,59,3,no,Quarterly,Entertainment,Events,No,16.385651874598864,3.0,3.0,3.0,3.0,3
-10460,72,3,yes,First visit,Exhibits,Curiosity Museum,No,0.0,5.0,4.0,5.0,5.0,5
-10461,43,3,yes,Rarely,Exhibits,Farm,No,17.1513985028624,4.0,3.0,3.0,3.0,5
-10462,52,6,yes,Quarterly,Education,Farm,Yes,28.07286579131901,5.0,4.0,5.0,4.0,5
-10463,67,2,yes,First visit,Special Event,Farm,No,0.0,5.0,4.0,5.0,5.0,5
-10464,42,5,no,First visit,Education,Curiosity Museum,Yes,0.0,4.0,4.0,4.0,4.0,5
-10465,41,3,no,First visit,Special Event,Dinosaurs,No,38.69156837542289,5.0,1.0,5.0,5.0,5
-10466,30,6,no,First visit,Entertainment,Events,Yes,5.823605407431226,5.0,4.0,5.0,5.0,2
-10467,24,7,no,Monthly,Exhibits,Farm,Yes,32.039217689157326,5.0,5.0,5.0,5.0,1
-10468,74,4,no,Rarely,Education,Curiosity Museum,Yes,12.690035022032525,4.0,4.0,4.0,3.0,5
-10469,53,6,no,Weekly,Entertainment,Dinosaurs,Yes,12.57067774588009,3.0,4.0,3.0,3.0,2
-10470,62,1,no,Rarely,Exhibits,Events,No,21.576190492449676,4.0,2.0,3.0,4.0,2
-10471,37,6,no,Quarterly,Special Event,Curiosity Museum,Yes,1.7400171488033904,4.0,3.0,2.0,4.0,3
-10472,18,3,no,First visit,Exhibits,Events,Yes,16.987457152434683,4.0,4.0,4.0,4.0,3
-10473,25,6,yes,Rarely,Entertainment,Farm,No,9.27765877763861,4.0,4.0,3.0,5.0,4
-10474,63,1,no,First visit,Education,Dinosaurs,Yes,0.0,3.0,5.0,3.0,3.0,2
-10475,33,4,no,First visit,Education,Curiosity Museum,Yes,20.062231120895987,5.0,4.0,5.0,5.0,5
-10476,31,5,no,Rarely,Exhibits,Dinosaurs,No,11.050382896831257,5.0,4.0,5.0,5.0,3
-10477,29,3,yes,Weekly,Entertainment,Farm,No,12.644627573329384,5.0,3.0,5.0,5.0,4
-10478,68,3,no,Quarterly,Family Time,Dinosaurs,No,0.0,5.0,2.0,5.0,5.0,5
-10479,40,1,no,First visit,Special Event,Dinosaurs,No,38.87100551644206,5.0,1.0,5.0,5.0,3
-10480,32,3,yes,First visit,Special Event,Garden,No,28.15071279579174,5.0,4.0,5.0,5.0,5
-10481,45,4,no,First visit,Entertainment,Dinosaurs,Yes,29.462338262579678,5.0,4.0,5.0,4.0,2
-10482,51,2,no,Quarterly,Family Time,Events,No,10.41832946337477,5.0,3.0,5.0,5.0,3
-10483,19,4,no,Quarterly,Education,Curiosity Museum,No,0.0,5.0,2.0,4.0,5.0,5
-10484,49,1,yes,Monthly,Nature,Garden,No,44.29376073734266,3.0,4.0,3.0,3.0,2
-10485,40,6,no,First visit,Nature,Curiosity Museum,No,14.083537379911977,5.0,3.0,4.0,5.0,5
-10486,39,2,no,Rarely,Entertainment,Curiosity Museum,Yes,3.768003059699194,5.0,4.0,5.0,5.0,4
-10487,68,3,no,Rarely,Family Time,Farm,No,21.25202361724671,4.0,5.0,4.0,5.0,4
-10488,42,1,yes,Quarterly,Family Time,Farm,No,32.506811820049464,4.0,1.0,5.0,4.0,3
-10489,39,4,no,Quarterly,Special Event,Garden,No,14.654241658718007,5.0,3.0,4.0,5.0,4
-10490,39,6,no,Quarterly,Education,Farm,Yes,34.17862751909062,5.0,4.0,5.0,5.0,5
-10491,66,4,no,Quarterly,Exhibits,Farm,Yes,31.24499907775303,5.0,5.0,5.0,5.0,5
-10492,69,3,no,First visit,Family Time,Farm,Yes,0.0,4.0,2.0,4.0,4.0,2
-10493,59,5,yes,Quarterly,Exhibits,Curiosity Museum,No,4.893148415107854,3.0,5.0,3.0,3.0,2
-10494,23,5,no,First visit,Nature,Garden,Yes,29.36305744919651,4.0,4.0,4.0,4.0,1
-10495,32,3,yes,Quarterly,Exhibits,Curiosity Museum,Yes,0.0,5.0,4.0,5.0,4.0,5
-10496,71,5,no,Rarely,Education,Events,No,12.758164602525168,3.0,3.0,4.0,3.0,5
-10497,60,6,yes,Rarely,Education,Curiosity Museum,Yes,0.0,5.0,3.0,5.0,5.0,1
-10498,54,3,no,Monthly,Exhibits,Events,No,7.85169297849713,5.0,4.0,5.0,5.0,5
-10499,50,5,no,Monthly,Entertainment,Dinosaurs,Yes,10.517698664561937,5.0,3.0,5.0,5.0,4
-10500,25,5,no,Quarterly,Family Time,Dinosaurs,No,9.62633433138738,5.0,3.0,4.0,5.0,1
-10501,70,4,yes,Rarely,Entertainment,Events,No,6.716081218310872,4.0,3.0,4.0,3.0,2
-10502,61,1,no,Quarterly,Exhibits,Events,No,0.0,5.0,3.0,5.0,5.0,5
-10503,61,1,yes,Rarely,Family Time,Curiosity Museum,No,49.37866900228029,5.0,5.0,5.0,5.0,5
-10504,22,6,no,Monthly,Special Event,Events,Yes,43.01193006242026,4.0,4.0,4.0,4.0,3
-10505,56,8,no,Rarely,Entertainment,Garden,Yes,0.0,4.0,4.0,4.0,5.0,5
-10506,21,5,yes,Weekly,Entertainment,Dinosaurs,Yes,38.73175126955351,5.0,5.0,4.0,5.0,5
-10507,23,4,no,Monthly,Exhibits,Dinosaurs,No,9.008017642907207,3.0,2.0,3.0,3.0,1
-10508,62,5,no,Quarterly,Nature,Events,No,16.937812099975655,5.0,5.0,5.0,5.0,5
-10509,49,4,yes,First visit,Exhibits,Farm,No,14.050890601546262,3.0,1.0,2.0,3.0,5
-10510,69,4,no,First visit,Entertainment,Farm,No,5.103770381190513,5.0,3.0,5.0,5.0,5
-10511,47,1,no,Monthly,Family Time,Events,Yes,29.7577851540922,5.0,3.0,5.0,5.0,5
-10512,64,6,no,First visit,Nature,Garden,No,16.88829795864987,5.0,4.0,5.0,5.0,5
-10513,52,4,yes,Monthly,Exhibits,Farm,No,7.85172865171138,4.0,3.0,4.0,4.0,3
-10514,72,6,no,Rarely,Exhibits,Events,Yes,0.0,4.0,4.0,5.0,4.0,1
-10515,57,3,no,Rarely,Entertainment,Garden,No,1.5960747942131936,5.0,3.0,5.0,5.0,5
-10516,69,1,no,Monthly,Entertainment,Garden,Yes,0.0,3.0,3.0,3.0,3.0,3
-10517,33,3,no,Quarterly,Special Event,Curiosity Museum,No,15.183353226227542,4.0,2.0,4.0,4.0,1
-10518,30,4,no,Quarterly,Exhibits,Garden,No,0.0,4.0,4.0,4.0,4.0,5
-10519,67,6,yes,Quarterly,Entertainment,Farm,Yes,11.016592312221881,4.0,4.0,3.0,3.0,2
-10520,59,2,yes,Rarely,Education,Farm,No,35.55152780415556,5.0,4.0,5.0,5.0,5
-10521,47,6,no,Quarterly,Nature,Events,Yes,32.98949359382378,4.0,3.0,4.0,4.0,2
-10522,36,4,yes,First visit,Education,Events,No,14.515846588460732,4.0,4.0,4.0,3.0,4
-10523,34,6,no,Monthly,Nature,Garden,No,13.693729107852752,3.0,3.0,3.0,3.0,2
-10524,73,3,no,Monthly,Exhibits,Dinosaurs,Yes,43.19811824131512,5.0,5.0,5.0,5.0,3
-10525,36,6,yes,First visit,Special Event,Curiosity Museum,No,22.811341805380668,3.0,4.0,3.0,3.0,2
-10526,45,5,yes,Quarterly,Entertainment,Dinosaurs,No,10.082903101852157,5.0,3.0,4.0,5.0,3
-10527,72,3,yes,Quarterly,Entertainment,Garden,Yes,0.0,4.0,4.0,3.0,4.0,1
-10528,43,2,no,First visit,Entertainment,Garden,Yes,20.90809827247115,4.0,5.0,4.0,3.0,5
-10529,54,6,no,Weekly,Exhibits,Dinosaurs,No,27.439856588742934,4.0,4.0,4.0,4.0,1
-10530,43,7,no,First visit,Nature,Curiosity Museum,No,5.525227132295341,4.0,3.0,4.0,4.0,5
-10531,70,1,yes,First visit,Entertainment,Dinosaurs,Yes,19.36804132707049,5.0,3.0,4.0,5.0,4
-10532,40,5,yes,Rarely,Education,Events,Yes,9.54640057627456,4.0,4.0,4.0,4.0,4
-10533,26,6,no,Rarely,Entertainment,Farm,Yes,12.23951401201496,4.0,5.0,4.0,3.0,2
-10534,29,6,yes,Quarterly,Exhibits,Events,No,0.0,4.0,4.0,4.0,4.0,5
-10535,70,7,no,Quarterly,Special Event,Farm,Yes,11.673278944257968,4.0,3.0,5.0,4.0,3
-10536,18,5,no,Quarterly,Education,Garden,Yes,29.540539536120814,5.0,3.0,5.0,5.0,5
-10537,18,4,no,Quarterly,Entertainment,Curiosity Museum,No,5.528961666501627,3.0,4.0,4.0,3.0,2
-10538,64,3,no,First visit,Entertainment,Dinosaurs,No,15.787895523229745,5.0,2.0,5.0,5.0,5
-10539,51,3,no,Rarely,Family Time,Curiosity Museum,Yes,3.6607393996211934,4.0,4.0,4.0,4.0,5
-10540,49,5,no,First visit,Nature,Dinosaurs,No,20.406625144391594,5.0,3.0,4.0,5.0,5
-10541,71,5,no,First visit,Education,Events,No,11.752152036957396,5.0,4.0,4.0,5.0,5
-10542,65,3,yes,Quarterly,Family Time,Events,Yes,0.9113768897698976,5.0,3.0,5.0,4.0,4
-10543,42,6,no,First visit,Special Event,Dinosaurs,Yes,34.988272014976914,5.0,5.0,5.0,5.0,4
-10544,57,5,yes,First visit,Nature,Curiosity Museum,No,28.933980202983225,5.0,3.0,4.0,5.0,5
-10545,62,4,yes,First visit,Education,Dinosaurs,Yes,5.926398541077378,4.0,4.0,4.0,4.0,5
-10546,70,4,no,Monthly,Entertainment,Garden,No,22.466824641266662,5.0,2.0,5.0,5.0,2
-10547,18,4,no,Monthly,Education,Events,No,23.06118004230571,4.0,1.0,4.0,5.0,1
-10548,33,3,no,Quarterly,Entertainment,Garden,Yes,24.63451852516764,4.0,4.0,4.0,4.0,3
-10549,56,3,no,Monthly,Nature,Events,Yes,0.0,5.0,4.0,5.0,5.0,5
-10550,22,1,no,Quarterly,Entertainment,Events,No,30.09909811548942,4.0,2.0,4.0,5.0,4
-10551,39,3,yes,Quarterly,Special Event,Farm,No,6.454515556114028,4.0,2.0,4.0,5.0,3
-10552,46,4,yes,First visit,Exhibits,Garden,No,9.632580998380996,5.0,4.0,5.0,4.0,4
-10553,72,4,no,Quarterly,Entertainment,Garden,No,54.568226283903,3.0,4.0,3.0,3.0,1
-10554,20,1,no,Quarterly,Special Event,Farm,Yes,19.528100710815178,5.0,4.0,5.0,5.0,2
-10555,29,5,no,Quarterly,Exhibits,Curiosity Museum,No,9.205162868292367,3.0,4.0,3.0,3.0,2
-10556,43,3,no,Quarterly,Nature,Garden,No,0.0,4.0,2.0,4.0,4.0,5
-10557,33,6,yes,Rarely,Nature,Dinosaurs,No,35.846462009195335,4.0,3.0,4.0,4.0,3
-10558,68,7,no,Quarterly,Education,Farm,Yes,0.0,5.0,5.0,5.0,5.0,5
-10559,54,3,no,Monthly,Special Event,Garden,Yes,0.0,4.0,4.0,5.0,4.0,4
-10560,39,4,yes,Rarely,Special Event,Curiosity Museum,No,10.029715513682262,4.0,3.0,5.0,4.0,4
-10561,74,1,no,Quarterly,Family Time,Garden,No,36.24617687550439,4.0,5.0,4.0,3.0,4
-10562,46,4,no,Rarely,Family Time,Events,Yes,26.59859979998639,4.0,3.0,4.0,4.0,4
-10563,31,5,yes,Quarterly,Exhibits,Dinosaurs,Yes,12.632437352396101,4.0,4.0,4.0,3.0,4
-10564,45,3,no,Quarterly,Exhibits,Farm,No,19.624380954582314,4.0,5.0,3.0,5.0,4
-10565,22,4,no,First visit,Family Time,Events,No,5.994214606933413,5.0,3.0,5.0,5.0,5
-10566,64,3,yes,Quarterly,Exhibits,Curiosity Museum,Yes,17.094805343480264,3.0,4.0,3.0,3.0,1
-10567,66,3,no,First visit,Entertainment,Events,Yes,16.10005117167205,5.0,3.0,5.0,5.0,5
-10568,47,5,yes,Quarterly,Family Time,Events,Yes,29.531548435220294,4.0,3.0,4.0,4.0,2
-10569,63,3,no,Rarely,Special Event,Curiosity Museum,No,29.507671836584244,4.0,4.0,4.0,5.0,5
-10570,69,4,no,Quarterly,Entertainment,Events,No,22.40966073308467,5.0,4.0,5.0,5.0,5
-10571,22,4,yes,First visit,Exhibits,Farm,No,9.564786636808465,5.0,4.0,5.0,5.0,2
-10572,29,7,yes,Quarterly,Nature,Garden,No,26.127334415851898,5.0,4.0,4.0,4.0,5
-10573,33,2,no,First visit,Education,Events,Yes,13.6204730069543,4.0,4.0,4.0,3.0,4
-10574,43,4,no,Monthly,Family Time,Farm,No,0.0,5.0,4.0,5.0,5.0,2
-10575,43,5,no,Monthly,Nature,Garden,No,8.95068312133592,5.0,3.0,5.0,5.0,5
-10576,65,4,yes,Weekly,Exhibits,Garden,Yes,16.267904756764867,5.0,5.0,5.0,5.0,4
-10577,38,7,no,Quarterly,Special Event,Events,Yes,28.65323675497118,3.0,4.0,4.0,3.0,4
-10578,56,5,no,Quarterly,Education,Farm,No,12.247077417642704,5.0,4.0,4.0,4.0,4
-10579,53,5,no,First visit,Nature,Events,No,0.0,5.0,4.0,4.0,4.0,4
-10580,50,5,yes,First visit,Education,Curiosity Museum,Yes,15.851125249452291,4.0,3.0,5.0,5.0,4
-10581,47,7,no,Rarely,Family Time,Garden,No,16.701840600848286,4.0,2.0,4.0,4.0,3
-10582,54,6,no,Quarterly,Exhibits,Events,No,17.787564433541295,4.0,3.0,4.0,5.0,3
-10583,40,5,no,Monthly,Special Event,Garden,Yes,28.798072739316453,4.0,2.0,4.0,4.0,4
-10584,27,5,no,First visit,Exhibits,Farm,Yes,30.283848601348478,4.0,4.0,4.0,4.0,3
-10585,71,2,yes,Monthly,Education,Dinosaurs,Yes,6.086836914275001,4.0,4.0,5.0,5.0,4
-10586,22,2,no,Quarterly,Nature,Events,No,5.757848129265849,4.0,3.0,3.0,4.0,2
-10587,53,4,no,Quarterly,Family Time,Events,Yes,0.0,5.0,3.0,5.0,5.0,5
-10588,51,1,yes,First visit,Family Time,Garden,Yes,25.482235054207145,5.0,5.0,5.0,5.0,3
-10589,69,4,no,First visit,Exhibits,Farm,No,36.73230162506573,4.0,5.0,4.0,3.0,3
-10590,48,3,no,Quarterly,Nature,Curiosity Museum,No,10.27377108136615,4.0,3.0,3.0,5.0,1
-10591,27,3,yes,Quarterly,Nature,Farm,Yes,11.378541529125103,4.0,4.0,5.0,4.0,2
-10592,36,5,no,First visit,Education,Events,No,37.00173835348465,4.0,3.0,4.0,4.0,4
-10593,49,6,no,Quarterly,Exhibits,Curiosity Museum,No,22.583367798225115,4.0,4.0,4.0,4.0,3
-10594,18,1,no,Monthly,Exhibits,Farm,No,21.543535572015827,5.0,3.0,5.0,5.0,5
-10595,73,4,yes,Quarterly,Entertainment,Dinosaurs,No,0.0,4.0,3.0,4.0,4.0,4
-10596,22,6,no,Monthly,Exhibits,Garden,Yes,25.180921039191286,4.0,5.0,4.0,4.0,3
-10597,62,1,no,Rarely,Family Time,Farm,No,1.0629548923536265,3.0,5.0,3.0,2.0,1
-10598,21,6,yes,First visit,Education,Farm,No,0.0,5.0,2.0,5.0,5.0,5
-10599,33,4,no,Quarterly,Nature,Dinosaurs,No,9.798426348499317,3.0,3.0,4.0,3.0,4
-10600,41,3,no,Rarely,Exhibits,Events,No,6.213109148269647,4.0,2.0,4.0,4.0,3
-10601,33,7,no,First visit,Education,Garden,No,11.67600458422441,5.0,4.0,5.0,5.0,3
-10602,72,3,no,First visit,Exhibits,Farm,Yes,0.0,4.0,3.0,4.0,4.0,3
-10603,19,5,no,Rarely,Nature,Curiosity Museum,No,29.382244597015088,5.0,2.0,4.0,5.0,4
-10604,66,6,no,First visit,Special Event,Farm,No,31.915294417746434,5.0,4.0,5.0,5.0,5
-10605,45,1,no,First visit,Nature,Garden,No,0.0,4.0,5.0,4.0,4.0,5
-10606,49,5,no,First visit,Nature,Farm,Yes,29.676867084998253,3.0,4.0,2.0,2.0,5
-10607,44,7,no,First visit,Nature,Dinosaurs,No,2.8420705526756054,4.0,3.0,4.0,4.0,3
-10608,37,2,no,Quarterly,Exhibits,Farm,No,27.85463305474179,3.0,4.0,4.0,3.0,2
-10609,41,6,no,Quarterly,Entertainment,Farm,Yes,13.973302610003765,3.0,5.0,4.0,3.0,1
-10610,29,4,no,Quarterly,Nature,Curiosity Museum,No,15.431633461214979,4.0,3.0,5.0,3.0,5
-10611,67,5,no,First visit,Family Time,Dinosaurs,No,12.22353525868172,5.0,3.0,5.0,5.0,5
-10612,52,5,no,First visit,Family Time,Dinosaurs,No,33.181938063502294,5.0,3.0,5.0,5.0,3
-10613,50,3,no,Quarterly,Education,Farm,No,0.0,5.0,2.0,5.0,5.0,5
-10614,50,6,no,Quarterly,Entertainment,Curiosity Museum,No,24.11760508102513,4.0,3.0,4.0,4.0,4
-10615,68,6,yes,Rarely,Education,Farm,Yes,31.519952473343256,3.0,5.0,3.0,3.0,3
-10616,60,5,yes,Rarely,Family Time,Farm,No,25.74510120810616,5.0,4.0,5.0,5.0,5
-10617,54,5,no,Monthly,Family Time,Garden,No,49.87048371485126,5.0,4.0,5.0,5.0,1
-10618,29,5,yes,First visit,Special Event,Garden,No,7.065798559129517,4.0,3.0,4.0,4.0,3
-10619,20,4,yes,Rarely,Nature,Curiosity Museum,No,29.359572338902968,3.0,4.0,3.0,4.0,3
-10620,18,5,yes,Quarterly,Family Time,Events,No,13.408640469878694,5.0,3.0,5.0,5.0,5
-10621,50,4,yes,Rarely,Exhibits,Garden,Yes,33.50109114529004,5.0,4.0,4.0,5.0,2
-10622,57,4,yes,First visit,Exhibits,Events,No,14.884665064179458,4.0,3.0,4.0,4.0,5
-10623,27,5,no,Rarely,Education,Dinosaurs,Yes,9.181863272062957,5.0,4.0,4.0,5.0,5
-10624,60,4,yes,Quarterly,Education,Garden,Yes,34.59108305807444,5.0,4.0,5.0,5.0,4
-10625,61,1,no,First visit,Nature,Garden,Yes,7.626570914716051,4.0,4.0,4.0,5.0,3
-10626,46,3,no,First visit,Nature,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,4
-10627,30,4,no,First visit,Special Event,Events,Yes,7.247296752392575,5.0,5.0,5.0,4.0,2
-10628,29,5,yes,Quarterly,Entertainment,Garden,Yes,24.285494198827983,4.0,5.0,4.0,3.0,5
-10629,48,4,no,First visit,Education,Garden,Yes,35.88058127380637,3.0,4.0,3.0,3.0,1
-10630,63,5,no,Weekly,Nature,Curiosity Museum,Yes,16.66694062944768,3.0,4.0,3.0,3.0,3
-10631,19,4,no,Rarely,Education,Curiosity Museum,No,34.77295600851038,5.0,3.0,5.0,4.0,3
-10632,68,5,no,Weekly,Nature,Events,No,0.0,5.0,3.0,5.0,5.0,4
-10633,67,3,no,Monthly,Family Time,Dinosaurs,Yes,8.351048027731457,5.0,4.0,5.0,5.0,5
+10360,52,3,no,Quarterly,Family Time,Farm,No,23.971487325711994,4.0,4.0,5.0,4.0,5
+10361,33,4,yes,Rarely,Special Event,Events,Yes,15.739922486922655,3.0,4.0,3.0,3.0,1
+10362,58,6,no,Monthly,Family Time,Curiosity Museum,No,25.836704778314694,4.0,4.0,5.0,4.0,5
+10363,53,1,yes,First visit,Family Time,Curiosity Museum,No,9.520787126941727,5.0,3.0,5.0,5.0,5
+10364,50,1,no,Monthly,Education,Dinosaurs,No,50.819515582870984,3.0,5.0,4.0,3.0,3
+10365,21,1,yes,Quarterly,Nature,Events,No,17.701065565439723,5.0,3.0,5.0,5.0,5
+10366,50,1,no,First visit,Nature,Dinosaurs,Yes,10.906000196617306,5.0,4.0,5.0,5.0,4
+10367,31,1,yes,Quarterly,Exhibits,Events,No,2.464664924699454,3.0,3.0,3.0,3.0,3
+10368,38,4,no,Weekly,Nature,Dinosaurs,Yes,31.458302874096578,5.0,3.0,5.0,5.0,5
+10369,65,4,no,First visit,Family Time,Garden,No,28.00781119241608,2.0,3.0,3.0,2.0,3
+10370,37,3,yes,Quarterly,Exhibits,Farm,No,7.539684428788601,4.0,3.0,4.0,3.0,4
+10371,73,4,yes,Quarterly,Education,Farm,No,23.64677017683634,5.0,3.0,5.0,4.0,5
+10372,25,1,yes,Quarterly,Entertainment,Curiosity Museum,No,0.0,5.0,5.0,5.0,5.0,4
+10373,24,3,yes,Rarely,Family Time,Garden,Yes,17.774558626097345,5.0,3.0,5.0,5.0,5
+10374,20,4,no,First visit,Family Time,Farm,No,21.791345281150416,5.0,4.0,5.0,5.0,5
+10375,34,5,no,First visit,Exhibits,Curiosity Museum,Yes,40.60994714338834,5.0,4.0,5.0,4.0,5
+10376,50,1,no,Quarterly,Education,Garden,No,3.437717959069659,5.0,3.0,5.0,4.0,3
+10377,65,4,no,Rarely,Special Event,Farm,Yes,0.0,4.0,3.0,3.0,4.0,4
+10378,29,3,no,Monthly,Family Time,Dinosaurs,Yes,1.568580586124374,3.0,3.0,4.0,3.0,2
+10379,68,6,yes,First visit,Special Event,Events,No,0.0,4.0,3.0,4.0,4.0,3
+10380,39,5,yes,Quarterly,Special Event,Garden,No,35.04986036638475,3.0,2.0,3.0,4.0,0
+10381,72,4,no,First visit,Nature,Curiosity Museum,Yes,38.22958942536055,5.0,3.0,5.0,5.0,5
+10382,39,3,no,First visit,Education,Garden,Yes,19.803248669232435,4.0,3.0,4.0,5.0,5
+10383,63,6,yes,Rarely,Special Event,Curiosity Museum,No,33.31942418527722,4.0,4.0,5.0,4.0,2
+10384,47,1,yes,Rarely,Education,Garden,Yes,17.00937570870353,5.0,4.0,4.0,4.0,3
+10385,55,2,no,Quarterly,Nature,Curiosity Museum,Yes,13.57332528448851,5.0,4.0,5.0,5.0,5
+10386,55,4,no,Monthly,Education,Farm,No,10.004435714193574,4.0,4.0,4.0,3.0,3
+10387,62,2,yes,Quarterly,Family Time,Dinosaurs,Yes,10.344135129336518,5.0,4.0,5.0,5.0,4
+10388,68,7,no,Weekly,Special Event,Farm,No,0.0,3.0,4.0,2.0,3.0,5
+10389,71,5,no,Monthly,Education,Dinosaurs,No,18.96382145411008,4.0,3.0,5.0,5.0,2
+10390,25,3,yes,Quarterly,Entertainment,Farm,No,14.394991346789345,4.0,3.0,4.0,5.0,4
+10391,44,4,yes,Quarterly,Education,Farm,No,26.180410861168138,5.0,4.0,5.0,5.0,4
+10392,44,7,no,Quarterly,Special Event,Garden,No,16.402852446579146,5.0,2.0,5.0,5.0,5
+10393,51,6,no,First visit,Nature,Events,Yes,12.559444476463623,5.0,5.0,5.0,5.0,3
+10394,38,5,yes,Quarterly,Nature,Curiosity Museum,Yes,1.9321045498855445,4.0,4.0,3.0,4.0,3
+10395,47,6,no,First visit,Special Event,Curiosity Museum,No,16.08229855232642,4.0,3.0,4.0,4.0,5
+10396,50,7,no,Quarterly,Family Time,Curiosity Museum,Yes,26.07355846224243,4.0,5.0,5.0,3.0,4
+10397,45,5,no,Quarterly,Family Time,Dinosaurs,No,0.0,4.0,4.0,4.0,4.0,5
+10398,64,1,no,First visit,Nature,Curiosity Museum,No,16.31210630521109,5.0,3.0,5.0,5.0,5
+10399,50,4,no,First visit,Nature,Curiosity Museum,Yes,18.495644272942258,4.0,4.0,4.0,5.0,5
+10400,22,6,no,Monthly,Special Event,Garden,No,4.2290282457260355,4.0,2.0,4.0,4.0,1
+10401,65,3,no,Quarterly,Family Time,Farm,No,6.182155426379997,5.0,3.0,5.0,5.0,5
+10402,36,6,no,First visit,Nature,Curiosity Museum,No,18.459162731493215,4.0,4.0,4.0,4.0,4
+10403,21,2,no,Quarterly,Family Time,Events,No,0.0,4.0,4.0,3.0,4.0,0
+10404,52,1,no,Quarterly,Nature,Curiosity Museum,No,20.24885572874089,4.0,4.0,5.0,4.0,5
+10405,66,4,yes,Rarely,Education,Dinosaurs,No,1.5696843951119999,5.0,3.0,5.0,5.0,3
+10406,34,1,no,Weekly,Entertainment,Dinosaurs,No,30.942805395498247,5.0,2.0,4.0,5.0,4
+10407,61,7,no,Quarterly,Exhibits,Dinosaurs,No,50.067416180824495,4.0,4.0,4.0,4.0,4
+10408,45,6,yes,Rarely,Education,Curiosity Museum,Yes,2.088647974472705,5.0,5.0,5.0,5.0,5
+10409,47,6,no,Quarterly,Exhibits,Garden,Yes,23.01311793562012,5.0,5.0,5.0,5.0,5
+10410,46,5,no,Monthly,Nature,Events,No,4.098871426769711,5.0,3.0,5.0,5.0,2
+10411,63,3,yes,First visit,Entertainment,Curiosity Museum,Yes,30.614312606966845,5.0,5.0,5.0,5.0,2
+10412,70,4,no,First visit,Entertainment,Garden,Yes,0.0,5.0,5.0,5.0,5.0,4
+10413,23,4,yes,First visit,Nature,Garden,No,22.20880137641569,4.0,3.0,4.0,4.0,5
+10414,52,4,yes,Quarterly,Nature,Curiosity Museum,Yes,1.9051654966597098,5.0,3.0,5.0,5.0,5
+10415,58,3,no,Quarterly,Family Time,Curiosity Museum,No,11.89523116352447,4.0,3.0,4.0,3.0,5
+10416,54,4,yes,Quarterly,Nature,Garden,No,0.0,5.0,4.0,5.0,5.0,5
+10417,41,4,no,Monthly,Special Event,Garden,No,27.335257063436305,5.0,2.0,4.0,5.0,4
+10418,46,8,no,Quarterly,Nature,Garden,No,2.4452946834061957,3.0,3.0,3.0,3.0,3
+10419,66,6,no,First visit,Special Event,Curiosity Museum,Yes,23.279463889977414,4.0,4.0,5.0,3.0,3
+10420,63,4,no,First visit,Nature,Garden,No,9.838529576065007,5.0,4.0,5.0,5.0,5
+10421,70,5,yes,Rarely,Family Time,Dinosaurs,No,13.282914423017056,5.0,4.0,5.0,5.0,4
+10422,48,5,no,Rarely,Special Event,Curiosity Museum,No,17.216338611001927,4.0,4.0,5.0,4.0,4
+10423,52,1,yes,Quarterly,Education,Dinosaurs,No,3.5726299251172695,4.0,1.0,4.0,5.0,3
+10424,50,6,no,Monthly,Special Event,Farm,Yes,18.155506703113304,3.0,5.0,3.0,3.0,3
+10425,69,6,no,First visit,Family Time,Curiosity Museum,No,37.955018465316165,5.0,4.0,5.0,5.0,1
+10426,38,4,yes,Quarterly,Exhibits,Farm,Yes,3.3285782125092855,3.0,4.0,2.0,2.0,2
+10427,49,4,no,Quarterly,Special Event,Garden,No,32.577152149107675,5.0,2.0,5.0,5.0,5
+10428,40,3,no,Rarely,Nature,Garden,No,37.47146450231676,4.0,3.0,4.0,4.0,2
+10429,50,4,no,First visit,Nature,Events,Yes,2.7576751645793425,4.0,3.0,5.0,4.0,4
+10430,20,1,no,Rarely,Exhibits,Garden,Yes,0.0,5.0,2.0,5.0,5.0,3
+10431,35,6,yes,First visit,Family Time,Farm,Yes,19.52941350257647,5.0,4.0,5.0,5.0,3
+10432,42,1,no,Monthly,Entertainment,Garden,No,6.788887158496905,5.0,3.0,5.0,5.0,5
+10433,59,3,yes,First visit,Nature,Curiosity Museum,No,43.029048287445036,5.0,5.0,5.0,5.0,3
+10434,48,6,no,Rarely,Education,Garden,Yes,15.522113107497484,4.0,4.0,4.0,4.0,2
+10435,71,5,no,Rarely,Family Time,Events,No,2.967008879472312,4.0,4.0,4.0,3.0,1
+10436,20,3,no,Weekly,Special Event,Garden,Yes,0.0,4.0,3.0,5.0,4.0,4
+10437,57,3,no,First visit,Special Event,Farm,No,31.34857438636245,5.0,3.0,5.0,5.0,2
+10438,63,1,yes,First visit,Education,Farm,Yes,6.4322403887372035,5.0,4.0,5.0,5.0,4
+10439,41,5,no,First visit,Nature,Garden,No,15.657431991906424,5.0,2.0,5.0,5.0,5
+10440,67,1,no,First visit,Family Time,Farm,No,29.33704117668721,4.0,3.0,4.0,4.0,4
+10441,49,4,yes,First visit,Education,Farm,No,7.736124721037546,5.0,3.0,5.0,5.0,5
+10442,64,7,no,Quarterly,Nature,Events,No,14.31106756889759,5.0,3.0,4.0,5.0,5
+10443,39,2,yes,First visit,Family Time,Curiosity Museum,No,14.7514738526622,4.0,5.0,4.0,3.0,4
+10444,40,6,no,First visit,Special Event,Events,No,25.249867672741377,5.0,4.0,5.0,5.0,3
+10445,19,8,no,Quarterly,Family Time,Dinosaurs,No,23.86116503265489,5.0,4.0,5.0,5.0,5
+10446,44,1,no,Rarely,Exhibits,Events,No,11.698294031177571,5.0,4.0,5.0,5.0,4
+10447,59,6,yes,Rarely,Entertainment,Garden,No,15.954735922447766,4.0,4.0,3.0,4.0,5
+10448,19,4,no,First visit,Family Time,Curiosity Museum,Yes,9.423314827147669,4.0,4.0,4.0,4.0,5
+10449,43,6,no,Weekly,Entertainment,Garden,No,0.0,4.0,3.0,4.0,4.0,4
+10450,34,4,no,First visit,Family Time,Dinosaurs,Yes,18.86401286097194,4.0,4.0,4.0,4.0,3
+10451,57,5,no,Monthly,Entertainment,Curiosity Museum,No,43.38287641249602,4.0,4.0,5.0,4.0,1
+10452,50,4,yes,Quarterly,Exhibits,Farm,No,1.7442128896340576,4.0,4.0,4.0,4.0,1
+10453,26,6,no,First visit,Special Event,Events,No,3.404554355959455,5.0,3.0,5.0,5.0,5
+10454,60,5,no,Weekly,Nature,Garden,Yes,1.9390834253438793,5.0,4.0,5.0,4.0,5
+10455,71,4,no,First visit,Entertainment,Dinosaurs,Yes,25.86887668084684,5.0,4.0,4.0,5.0,3
+10456,65,6,no,First visit,Exhibits,Farm,No,21.7272818129466,5.0,3.0,5.0,5.0,5
+10457,56,3,no,Quarterly,Entertainment,Events,No,12.62193461375315,5.0,3.0,5.0,5.0,4
+10458,46,3,no,Quarterly,Special Event,Farm,Yes,1.2297140754155205,5.0,4.0,5.0,5.0,3
+10459,59,3,no,Quarterly,Entertainment,Events,No,16.385651874598864,4.0,4.0,3.0,4.0,1
+10460,72,3,yes,First visit,Exhibits,Curiosity Museum,No,0.0,4.0,3.0,4.0,3.0,5
+10461,43,3,yes,Rarely,Exhibits,Farm,No,17.1513985028624,4.0,3.0,4.0,4.0,3
+10462,52,6,yes,Quarterly,Education,Farm,Yes,28.07286579131901,5.0,3.0,5.0,5.0,4
+10463,67,2,yes,First visit,Special Event,Farm,No,0.0,5.0,3.0,5.0,5.0,5
+10464,42,5,no,First visit,Education,Curiosity Museum,Yes,0.0,5.0,4.0,4.0,5.0,5
+10465,41,3,no,First visit,Special Event,Dinosaurs,No,38.69156837542289,5.0,3.0,5.0,5.0,5
+10466,30,6,no,First visit,Entertainment,Events,Yes,5.823605407431226,5.0,4.0,5.0,5.0,4
+10467,24,7,no,Monthly,Exhibits,Farm,Yes,32.039217689157326,5.0,3.0,5.0,5.0,1
+10468,74,4,no,Rarely,Education,Curiosity Museum,Yes,12.690035022032525,5.0,4.0,4.0,5.0,5
+10469,53,6,no,Weekly,Entertainment,Dinosaurs,Yes,12.57067774588009,3.0,4.0,2.0,3.0,2
+10470,62,1,no,Rarely,Exhibits,Events,No,21.576190492449676,5.0,2.0,5.0,5.0,5
+10471,37,6,no,Quarterly,Special Event,Curiosity Museum,Yes,1.7400171488033904,4.0,3.0,4.0,5.0,4
+10472,18,3,no,First visit,Exhibits,Events,Yes,16.987457152434683,5.0,4.0,5.0,5.0,5
+10473,25,6,yes,Rarely,Entertainment,Farm,No,9.27765877763861,5.0,4.0,5.0,5.0,5
+10474,63,1,no,First visit,Education,Dinosaurs,Yes,0.0,5.0,4.0,5.0,5.0,5
+10475,33,4,no,First visit,Education,Curiosity Museum,Yes,20.062231120895987,5.0,3.0,5.0,5.0,5
+10476,31,5,no,Rarely,Exhibits,Dinosaurs,No,11.050382896831257,3.0,4.0,2.0,3.0,2
+10477,29,3,yes,Weekly,Entertainment,Farm,No,12.644627573329384,5.0,5.0,5.0,5.0,5
+10478,68,3,no,Quarterly,Family Time,Dinosaurs,No,0.0,4.0,4.0,4.0,3.0,5
+10479,40,1,no,First visit,Special Event,Dinosaurs,No,38.87100551644206,5.0,4.0,5.0,5.0,5
+10480,32,3,yes,First visit,Special Event,Garden,No,28.15071279579174,4.0,4.0,4.0,4.0,3
+10481,45,4,no,First visit,Entertainment,Dinosaurs,Yes,29.462338262579678,4.0,5.0,4.0,4.0,2
+10482,51,2,no,Quarterly,Family Time,Events,No,10.41832946337477,5.0,4.0,4.0,5.0,5
+10483,19,4,no,Quarterly,Education,Curiosity Museum,No,0.0,5.0,4.0,5.0,5.0,5
+10484,49,1,yes,Monthly,Nature,Garden,No,44.29376073734266,4.0,4.0,5.0,4.0,4
+10485,40,6,no,First visit,Nature,Curiosity Museum,No,14.083537379911977,5.0,2.0,5.0,5.0,5
+10486,39,2,no,Rarely,Entertainment,Curiosity Museum,Yes,3.768003059699194,5.0,3.0,5.0,4.0,4
+10487,68,3,no,Rarely,Family Time,Farm,No,21.25202361724671,4.0,3.0,5.0,4.0,5
+10488,42,1,yes,Quarterly,Family Time,Farm,No,32.506811820049464,3.0,3.0,3.0,3.0,2
+10489,39,4,no,Quarterly,Special Event,Garden,No,14.654241658718007,5.0,3.0,5.0,5.0,5
+10490,39,6,no,Quarterly,Education,Farm,Yes,34.17862751909062,5.0,4.0,5.0,5.0,3
+10491,66,4,no,Quarterly,Exhibits,Farm,Yes,31.24499907775303,5.0,2.0,5.0,5.0,5
+10492,69,3,no,First visit,Family Time,Farm,Yes,0.0,4.0,3.0,4.0,5.0,4
+10493,59,5,yes,Quarterly,Exhibits,Curiosity Museum,No,4.893148415107854,4.0,3.0,4.0,3.0,4
+10494,23,5,no,First visit,Nature,Garden,Yes,29.36305744919651,5.0,2.0,5.0,5.0,5
+10495,32,3,yes,Quarterly,Exhibits,Curiosity Museum,Yes,0.0,4.0,5.0,4.0,3.0,1
+10496,71,5,no,Rarely,Education,Events,No,12.758164602525168,4.0,2.0,3.0,3.0,2
+10497,60,6,yes,Rarely,Education,Curiosity Museum,Yes,0.0,5.0,3.0,5.0,5.0,5
+10498,54,3,no,Monthly,Exhibits,Events,No,7.85169297849713,5.0,4.0,5.0,5.0,2
+10499,50,5,no,Monthly,Entertainment,Dinosaurs,Yes,10.517698664561937,4.0,4.0,4.0,4.0,5
+10500,25,5,no,Quarterly,Family Time,Dinosaurs,No,9.62633433138738,5.0,2.0,5.0,5.0,4
+10501,70,4,yes,Rarely,Entertainment,Events,No,6.716081218310872,3.0,4.0,3.0,3.0,0
+10502,61,1,no,Quarterly,Exhibits,Events,No,0.0,5.0,3.0,5.0,5.0,3
+10503,61,1,yes,Rarely,Family Time,Curiosity Museum,No,49.37866900228029,4.0,5.0,4.0,4.0,3
+10504,22,6,no,Monthly,Special Event,Events,Yes,43.01193006242026,4.0,4.0,4.0,4.0,1
+10505,56,8,no,Rarely,Entertainment,Garden,Yes,0.0,4.0,4.0,5.0,4.0,3
+10506,21,5,yes,Weekly,Entertainment,Dinosaurs,Yes,38.73175126955351,4.0,3.0,4.0,4.0,5
+10507,23,4,no,Monthly,Exhibits,Dinosaurs,No,9.008017642907207,5.0,3.0,5.0,5.0,5
+10508,62,5,no,Quarterly,Nature,Events,No,16.937812099975655,4.0,3.0,4.0,4.0,2
+10509,49,4,yes,First visit,Exhibits,Farm,No,14.050890601546262,4.0,4.0,4.0,3.0,3
+10510,69,4,no,First visit,Entertainment,Farm,No,5.103770381190513,4.0,3.0,5.0,4.0,4
+10511,47,1,no,Monthly,Family Time,Events,Yes,29.7577851540922,5.0,4.0,5.0,5.0,4
+10512,64,6,no,First visit,Nature,Garden,No,16.88829795864987,4.0,4.0,5.0,4.0,4
+10513,52,4,yes,Monthly,Exhibits,Farm,No,7.85172865171138,5.0,1.0,5.0,5.0,5
+10514,72,6,no,Rarely,Exhibits,Events,Yes,0.0,4.0,5.0,4.0,3.0,0
+10515,57,3,no,Rarely,Entertainment,Garden,No,1.5960747942131936,5.0,3.0,5.0,5.0,3
+10516,69,1,no,Monthly,Entertainment,Garden,Yes,0.0,4.0,4.0,4.0,4.0,5
+10517,33,3,no,Quarterly,Special Event,Curiosity Museum,No,15.183353226227542,5.0,3.0,5.0,4.0,5
+10518,30,4,no,Quarterly,Exhibits,Garden,No,0.0,5.0,3.0,5.0,4.0,5
+10519,67,6,yes,Quarterly,Entertainment,Farm,Yes,11.016592312221881,4.0,4.0,4.0,4.0,3
+10520,59,2,yes,Rarely,Education,Farm,No,35.55152780415556,5.0,5.0,5.0,5.0,4
+10521,47,6,no,Quarterly,Nature,Events,Yes,32.98949359382378,4.0,5.0,4.0,5.0,3
+10522,36,4,yes,First visit,Education,Events,No,14.515846588460732,5.0,4.0,4.0,5.0,4
+10523,34,6,no,Monthly,Nature,Garden,No,13.693729107852752,4.0,3.0,4.0,4.0,4
+10524,73,3,no,Monthly,Exhibits,Dinosaurs,Yes,43.19811824131512,5.0,3.0,5.0,5.0,5
+10525,36,6,yes,First visit,Special Event,Curiosity Museum,No,22.811341805380668,4.0,3.0,3.0,4.0,3
+10526,45,5,yes,Quarterly,Entertainment,Dinosaurs,No,10.082903101852157,5.0,3.0,4.0,4.0,2
+10527,72,3,yes,Quarterly,Entertainment,Garden,Yes,0.0,4.0,2.0,4.0,3.0,5
+10528,43,2,no,First visit,Entertainment,Garden,Yes,20.90809827247115,4.0,3.0,5.0,4.0,5
+10529,54,6,no,Weekly,Exhibits,Dinosaurs,No,27.439856588742934,4.0,3.0,4.0,4.0,1
+10530,43,7,no,First visit,Nature,Curiosity Museum,No,5.525227132295341,5.0,3.0,5.0,5.0,5
+10531,70,1,yes,First visit,Entertainment,Dinosaurs,Yes,19.36804132707049,5.0,4.0,5.0,5.0,5
+10532,40,5,yes,Rarely,Education,Events,Yes,9.54640057627456,5.0,4.0,4.0,5.0,5
+10533,26,6,no,Rarely,Entertainment,Farm,Yes,12.23951401201496,5.0,4.0,5.0,5.0,3
+10534,29,6,yes,Quarterly,Exhibits,Events,No,0.0,5.0,3.0,5.0,5.0,3
+10535,70,7,no,Quarterly,Special Event,Farm,Yes,11.673278944257968,4.0,2.0,4.0,4.0,4
+10536,18,5,no,Quarterly,Education,Garden,Yes,29.540539536120814,3.0,3.0,3.0,3.0,3
+10537,18,4,no,Quarterly,Entertainment,Curiosity Museum,No,5.528961666501627,3.0,2.0,3.0,4.0,3
+10538,64,3,no,First visit,Entertainment,Dinosaurs,No,15.787895523229745,4.0,4.0,4.0,4.0,1
+10539,51,3,no,Rarely,Family Time,Curiosity Museum,Yes,3.6607393996211934,5.0,5.0,5.0,5.0,5
+10540,49,5,no,First visit,Nature,Dinosaurs,No,20.406625144391594,4.0,4.0,4.0,4.0,5
+10541,71,5,no,First visit,Education,Events,No,11.752152036957396,5.0,4.0,5.0,5.0,5
+10542,65,3,yes,Quarterly,Family Time,Events,Yes,0.9113768897698976,4.0,4.0,3.0,4.0,4
+10543,42,6,no,First visit,Special Event,Dinosaurs,Yes,34.988272014976914,5.0,3.0,4.0,5.0,5
+10544,57,5,yes,First visit,Nature,Curiosity Museum,No,28.933980202983225,5.0,3.0,5.0,5.0,5
+10545,62,4,yes,First visit,Education,Dinosaurs,Yes,5.926398541077378,4.0,3.0,4.0,4.0,3
+10546,70,4,no,Monthly,Entertainment,Garden,No,22.466824641266662,5.0,4.0,5.0,5.0,4
+10547,18,4,no,Monthly,Education,Events,No,23.06118004230571,4.0,3.0,5.0,4.0,2
+10548,33,3,no,Quarterly,Entertainment,Garden,Yes,24.63451852516764,4.0,3.0,3.0,4.0,1
+10549,56,3,no,Monthly,Nature,Events,Yes,0.0,5.0,3.0,5.0,5.0,5
+10550,22,1,no,Quarterly,Entertainment,Events,No,30.09909811548942,4.0,3.0,4.0,4.0,3
+10551,39,3,yes,Quarterly,Special Event,Farm,No,6.454515556114028,5.0,3.0,4.0,5.0,5
+10552,46,4,yes,First visit,Exhibits,Garden,No,9.632580998380996,5.0,4.0,5.0,5.0,5
+10553,72,4,no,Quarterly,Entertainment,Garden,No,54.568226283903,4.0,3.0,4.0,4.0,5
+10554,20,1,no,Quarterly,Special Event,Farm,Yes,19.528100710815178,5.0,2.0,5.0,5.0,5
+10555,29,5,no,Quarterly,Exhibits,Curiosity Museum,No,9.205162868292367,3.0,3.0,3.0,3.0,0
+10556,43,3,no,Quarterly,Nature,Garden,No,0.0,4.0,3.0,3.0,4.0,3
+10557,33,6,yes,Rarely,Nature,Dinosaurs,No,35.846462009195335,5.0,3.0,5.0,4.0,2
+10558,68,7,no,Quarterly,Education,Farm,Yes,0.0,5.0,3.0,4.0,5.0,5
+10559,54,3,no,Monthly,Special Event,Garden,Yes,0.0,3.0,4.0,3.0,3.0,5
+10560,39,4,yes,Rarely,Special Event,Curiosity Museum,No,10.029715513682262,4.0,3.0,3.0,4.0,5
+10561,74,1,no,Quarterly,Family Time,Garden,No,36.24617687550439,3.0,3.0,3.0,4.0,2
+10562,46,4,no,Rarely,Family Time,Events,Yes,26.59859979998639,5.0,4.0,5.0,4.0,5
+10563,31,5,yes,Quarterly,Exhibits,Dinosaurs,Yes,12.632437352396101,2.0,3.0,2.0,3.0,1
+10564,45,3,no,Quarterly,Exhibits,Farm,No,19.624380954582314,4.0,3.0,4.0,4.0,3
+10565,22,4,no,First visit,Family Time,Events,No,5.994214606933413,3.0,4.0,3.0,3.0,3
+10566,64,3,yes,Quarterly,Exhibits,Curiosity Museum,Yes,17.094805343480264,4.0,4.0,3.0,4.0,2
+10567,66,3,no,First visit,Entertainment,Events,Yes,16.10005117167205,4.0,4.0,4.0,4.0,2
+10568,47,5,yes,Quarterly,Family Time,Events,Yes,29.531548435220294,4.0,5.0,2.0,4.0,1
+10569,63,3,no,Rarely,Special Event,Curiosity Museum,No,29.507671836584244,4.0,4.0,4.0,4.0,3
+10570,69,4,no,Quarterly,Entertainment,Events,No,22.40966073308467,4.0,4.0,4.0,4.0,5
+10571,22,4,yes,First visit,Exhibits,Farm,No,9.564786636808465,5.0,2.0,5.0,5.0,5
+10572,29,7,yes,Quarterly,Nature,Garden,No,26.127334415851898,5.0,3.0,5.0,5.0,2
+10573,33,2,no,First visit,Education,Events,Yes,13.6204730069543,4.0,4.0,5.0,3.0,0
+10574,43,4,no,Monthly,Family Time,Farm,No,0.0,4.0,5.0,4.0,4.0,3
+10575,43,5,no,Monthly,Nature,Garden,No,8.95068312133592,4.0,4.0,4.0,3.0,5
+10576,65,4,yes,Weekly,Exhibits,Garden,Yes,16.267904756764867,4.0,3.0,4.0,3.0,5
+10577,38,7,no,Quarterly,Special Event,Events,Yes,28.65323675497118,4.0,4.0,3.0,5.0,2
+10578,56,5,no,Quarterly,Education,Farm,No,12.247077417642704,5.0,3.0,5.0,4.0,2
+10579,53,5,no,First visit,Nature,Events,No,0.0,5.0,4.0,5.0,4.0,4
+10580,50,5,yes,First visit,Education,Curiosity Museum,Yes,15.851125249452291,5.0,3.0,5.0,5.0,4
+10581,47,7,no,Rarely,Family Time,Garden,No,16.701840600848286,4.0,3.0,3.0,4.0,2
+10582,54,6,no,Quarterly,Exhibits,Events,No,17.787564433541295,5.0,3.0,4.0,5.0,5
+10583,40,5,no,Monthly,Special Event,Garden,Yes,28.798072739316453,4.0,4.0,4.0,4.0,4
+10584,27,5,no,First visit,Exhibits,Farm,Yes,30.283848601348478,4.0,3.0,4.0,4.0,2
+10585,71,2,yes,Monthly,Education,Dinosaurs,Yes,6.086836914275001,4.0,3.0,3.0,4.0,5
+10586,22,2,no,Quarterly,Nature,Events,No,5.757848129265849,4.0,4.0,4.0,5.0,3
+10587,53,4,no,Quarterly,Family Time,Events,Yes,0.0,4.0,3.0,5.0,3.0,3
+10588,51,1,yes,First visit,Family Time,Garden,Yes,25.482235054207145,5.0,3.0,5.0,5.0,3
+10589,69,4,no,First visit,Exhibits,Farm,No,36.73230162506573,4.0,3.0,4.0,4.0,5
+10590,48,3,no,Quarterly,Nature,Curiosity Museum,No,10.27377108136615,4.0,3.0,4.0,4.0,2
+10591,27,3,yes,Quarterly,Nature,Farm,Yes,11.378541529125103,5.0,3.0,4.0,4.0,5
+10592,36,5,no,First visit,Education,Events,No,37.00173835348465,5.0,3.0,5.0,5.0,3
+10593,49,6,no,Quarterly,Exhibits,Curiosity Museum,No,22.583367798225115,5.0,2.0,5.0,5.0,3
+10594,18,1,no,Monthly,Exhibits,Farm,No,21.543535572015827,4.0,2.0,4.0,4.0,1
+10595,73,4,yes,Quarterly,Entertainment,Dinosaurs,No,0.0,5.0,5.0,5.0,5.0,4
+10596,22,6,no,Monthly,Exhibits,Garden,Yes,25.180921039191286,4.0,4.0,5.0,4.0,5
+10597,62,1,no,Rarely,Family Time,Farm,No,1.0629548923536265,4.0,3.0,5.0,3.0,4
+10598,21,6,yes,First visit,Education,Farm,No,0.0,4.0,4.0,4.0,5.0,1
+10599,33,4,no,Quarterly,Nature,Dinosaurs,No,9.798426348499317,2.0,4.0,2.0,2.0,1
+10600,41,3,no,Rarely,Exhibits,Events,No,6.213109148269647,5.0,4.0,5.0,5.0,2
+10601,33,7,no,First visit,Education,Garden,No,11.67600458422441,5.0,3.0,4.0,5.0,4
+10602,72,3,no,First visit,Exhibits,Farm,Yes,0.0,4.0,5.0,5.0,4.0,5
+10603,19,5,no,Rarely,Nature,Curiosity Museum,No,29.382244597015088,4.0,2.0,4.0,5.0,3
+10604,66,6,no,First visit,Special Event,Farm,No,31.915294417746434,4.0,2.0,5.0,3.0,4
+10605,45,1,no,First visit,Nature,Garden,No,0.0,4.0,3.0,5.0,4.0,3
+10606,49,5,no,First visit,Nature,Farm,Yes,29.676867084998253,5.0,4.0,5.0,5.0,4
+10607,44,7,no,First visit,Nature,Dinosaurs,No,2.8420705526756054,4.0,2.0,5.0,4.0,2
+10608,37,2,no,Quarterly,Exhibits,Farm,No,27.85463305474179,4.0,3.0,5.0,4.0,4
+10609,41,6,no,Quarterly,Entertainment,Farm,Yes,13.973302610003765,5.0,3.0,5.0,5.0,3
+10610,29,4,no,Quarterly,Nature,Curiosity Museum,No,15.431633461214979,5.0,3.0,5.0,4.0,5
+10611,67,5,no,First visit,Family Time,Dinosaurs,No,12.22353525868172,4.0,4.0,3.0,5.0,3
+10612,52,5,no,First visit,Family Time,Dinosaurs,No,33.181938063502294,5.0,4.0,5.0,4.0,5
+10613,50,3,no,Quarterly,Education,Farm,No,0.0,3.0,2.0,3.0,2.0,3
+10614,50,6,no,Quarterly,Entertainment,Curiosity Museum,No,24.11760508102513,3.0,2.0,4.0,3.0,0
+10615,68,6,yes,Rarely,Education,Farm,Yes,31.519952473343256,5.0,3.0,5.0,5.0,5
+10616,60,5,yes,Rarely,Family Time,Farm,No,25.74510120810616,4.0,3.0,5.0,4.0,5
+10617,54,5,no,Monthly,Family Time,Garden,No,49.87048371485126,5.0,3.0,5.0,5.0,5
+10618,29,5,yes,First visit,Special Event,Garden,No,7.065798559129517,5.0,4.0,4.0,5.0,4
+10619,20,4,yes,Rarely,Nature,Curiosity Museum,No,29.359572338902968,3.0,3.0,3.0,3.0,1
+10620,18,5,yes,Quarterly,Family Time,Events,No,13.408640469878694,5.0,4.0,5.0,4.0,5
+10621,50,4,yes,Rarely,Exhibits,Garden,Yes,33.50109114529004,4.0,3.0,4.0,4.0,4
+10622,57,4,yes,First visit,Exhibits,Events,No,14.884665064179458,3.0,4.0,3.0,4.0,0
+10623,27,5,no,Rarely,Education,Dinosaurs,Yes,9.181863272062957,5.0,2.0,5.0,5.0,3
+10624,60,4,yes,Quarterly,Education,Garden,Yes,34.59108305807444,4.0,4.0,4.0,5.0,3
+10625,61,1,no,First visit,Nature,Garden,Yes,7.626570914716051,5.0,5.0,5.0,5.0,3
+10626,46,3,no,First visit,Nature,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,3
+10627,30,4,no,First visit,Special Event,Events,Yes,7.247296752392575,3.0,5.0,4.0,3.0,3
+10628,29,5,yes,Quarterly,Entertainment,Garden,Yes,24.285494198827983,5.0,4.0,5.0,5.0,5
+10629,48,4,no,First visit,Education,Garden,Yes,35.88058127380637,5.0,4.0,4.0,5.0,5
+10630,63,5,no,Weekly,Nature,Curiosity Museum,Yes,16.66694062944768,5.0,4.0,5.0,5.0,4
+10631,19,4,no,Rarely,Education,Curiosity Museum,No,34.77295600851038,5.0,5.0,5.0,5.0,1
+10632,68,5,no,Weekly,Nature,Events,No,0.0,5.0,4.0,5.0,5.0,1
+10633,67,3,no,Monthly,Family Time,Dinosaurs,Yes,8.351048027731457,4.0,4.0,5.0,4.0,3
 10634,52,4,yes,Rarely,Education,Dinosaurs,No,10.671373242688482,4.0,2.0,4.0,5.0,2
-10635,40,5,no,First visit,Family Time,Farm,No,13.281608587912196,4.0,2.0,4.0,4.0,5
-10636,34,6,no,First visit,Education,Garden,No,16.261415823752955,4.0,3.0,4.0,3.0,5
-10637,43,4,no,First visit,Entertainment,Events,Yes,25.363664360882893,4.0,4.0,4.0,4.0,5
-10638,25,1,no,Quarterly,Special Event,Garden,No,8.327897427442647,3.0,3.0,3.0,2.0,2
-10639,46,3,yes,First visit,Exhibits,Events,Yes,17.085430304296885,4.0,5.0,3.0,4.0,5
-10640,43,1,no,First visit,Exhibits,Events,Yes,14.323156645139225,5.0,3.0,4.0,5.0,5
-10641,27,5,yes,Rarely,Exhibits,Events,Yes,1.1116514416327516,5.0,3.0,5.0,4.0,4
-10642,43,3,yes,Monthly,Family Time,Garden,No,13.29499966377847,5.0,4.0,5.0,5.0,5
-10643,51,4,yes,First visit,Nature,Curiosity Museum,Yes,12.845107051543227,5.0,4.0,5.0,4.0,5
-10644,68,4,yes,First visit,Exhibits,Garden,Yes,12.523791524954309,5.0,5.0,5.0,5.0,5
-10645,58,1,no,First visit,Entertainment,Events,Yes,15.47639184872176,5.0,5.0,5.0,5.0,4
-10646,24,4,yes,Monthly,Exhibits,Farm,No,16.13510310920079,4.0,3.0,3.0,4.0,2
-10647,21,3,yes,Quarterly,Education,Dinosaurs,No,8.515572313390047,5.0,3.0,4.0,5.0,5
-10648,70,4,no,First visit,Family Time,Events,Yes,34.09072100956897,4.0,4.0,4.0,4.0,4
-10649,67,3,no,First visit,Education,Farm,No,0.0,5.0,2.0,5.0,4.0,3
-10650,62,6,no,First visit,Education,Curiosity Museum,No,4.185448372951556,5.0,3.0,5.0,5.0,2
-10651,28,3,no,First visit,Education,Events,No,56.69945436335334,4.0,4.0,4.0,4.0,2
-10652,46,7,no,Monthly,Special Event,Farm,Yes,0.0,5.0,4.0,5.0,5.0,1
-10653,73,4,yes,Quarterly,Special Event,Events,No,0.0,3.0,4.0,3.0,2.0,3
-10654,53,6,no,Rarely,Nature,Garden,Yes,26.017151175018267,3.0,3.0,3.0,2.0,2
-10655,42,5,no,Monthly,Family Time,Farm,No,0.0,5.0,3.0,5.0,4.0,2
-10656,38,5,yes,First visit,Entertainment,Garden,Yes,11.470891350413416,5.0,5.0,5.0,5.0,5
-10657,74,5,no,Quarterly,Entertainment,Garden,Yes,47.187373876147326,5.0,3.0,5.0,5.0,5
-10658,53,4,yes,Monthly,Entertainment,Farm,Yes,0.0,5.0,4.0,5.0,5.0,5
-10659,27,4,yes,Rarely,Education,Dinosaurs,No,0.0,4.0,3.0,4.0,4.0,5
-10660,54,4,no,Quarterly,Special Event,Farm,Yes,0.0,4.0,5.0,4.0,5.0,2
-10661,26,4,no,First visit,Family Time,Dinosaurs,No,28.475393525204783,4.0,4.0,3.0,5.0,5
-10662,41,1,no,First visit,Education,Events,Yes,31.871650799787187,3.0,3.0,3.0,3.0,3
-10663,52,4,no,First visit,Special Event,Events,No,7.311168045322367,4.0,2.0,4.0,3.0,0
-10664,66,5,yes,Rarely,Special Event,Farm,No,25.248186060016035,5.0,4.0,5.0,5.0,5
+10635,40,5,no,First visit,Family Time,Farm,No,13.281608587912196,5.0,3.0,5.0,5.0,3
+10636,34,6,no,First visit,Education,Garden,No,16.261415823752955,4.0,3.0,4.0,5.0,1
+10637,43,4,no,First visit,Entertainment,Events,Yes,25.363664360882893,5.0,4.0,5.0,5.0,5
+10638,25,1,no,Quarterly,Special Event,Garden,No,8.327897427442647,4.0,3.0,3.0,3.0,4
+10639,46,3,yes,First visit,Exhibits,Events,Yes,17.085430304296885,5.0,3.0,4.0,4.0,5
+10640,43,1,no,First visit,Exhibits,Events,Yes,14.323156645139225,5.0,4.0,4.0,4.0,4
+10641,27,5,yes,Rarely,Exhibits,Events,Yes,1.1116514416327516,3.0,3.0,1.0,3.0,3
+10642,43,3,yes,Monthly,Family Time,Garden,No,13.29499966377847,4.0,3.0,5.0,4.0,5
+10643,51,4,yes,First visit,Nature,Curiosity Museum,Yes,12.845107051543227,5.0,3.0,5.0,5.0,2
+10644,68,4,yes,First visit,Exhibits,Garden,Yes,12.523791524954309,5.0,4.0,5.0,5.0,3
+10645,58,1,no,First visit,Entertainment,Events,Yes,15.47639184872176,4.0,4.0,4.0,5.0,4
+10646,24,4,yes,Monthly,Exhibits,Farm,No,16.13510310920079,4.0,3.0,4.0,4.0,2
+10647,21,3,yes,Quarterly,Education,Dinosaurs,No,8.515572313390047,2.0,3.0,2.0,3.0,1
+10648,70,4,no,First visit,Family Time,Events,Yes,34.09072100956897,5.0,4.0,5.0,5.0,5
+10649,67,3,no,First visit,Education,Farm,No,0.0,5.0,4.0,5.0,5.0,5
+10650,62,6,no,First visit,Education,Curiosity Museum,No,4.185448372951556,4.0,2.0,4.0,3.0,5
+10651,28,3,no,First visit,Education,Events,No,56.69945436335334,3.0,3.0,3.0,3.0,2
+10652,46,7,no,Monthly,Special Event,Farm,Yes,0.0,5.0,5.0,5.0,5.0,5
+10653,73,4,yes,Quarterly,Special Event,Events,No,0.0,4.0,4.0,4.0,4.0,5
+10654,53,6,no,Rarely,Nature,Garden,Yes,26.017151175018267,5.0,4.0,5.0,5.0,5
+10655,42,5,no,Monthly,Family Time,Farm,No,0.0,4.0,4.0,4.0,4.0,5
+10656,38,5,yes,First visit,Entertainment,Garden,Yes,11.470891350413416,4.0,4.0,4.0,4.0,4
+10657,74,5,no,Quarterly,Entertainment,Garden,Yes,47.187373876147326,3.0,4.0,3.0,2.0,5
+10658,53,4,yes,Monthly,Entertainment,Farm,Yes,0.0,5.0,2.0,5.0,5.0,5
+10659,27,4,yes,Rarely,Education,Dinosaurs,No,0.0,4.0,2.0,4.0,4.0,3
+10660,54,4,no,Quarterly,Special Event,Farm,Yes,0.0,4.0,5.0,4.0,4.0,5
+10661,26,4,no,First visit,Family Time,Dinosaurs,No,28.475393525204783,4.0,2.0,4.0,4.0,3
+10662,41,1,no,First visit,Education,Events,Yes,31.871650799787187,4.0,4.0,5.0,3.0,1
+10663,52,4,no,First visit,Special Event,Events,No,7.311168045322367,5.0,3.0,5.0,5.0,5
+10664,66,5,yes,Rarely,Special Event,Farm,No,25.248186060016035,4.0,2.0,4.0,4.0,3
 10665,52,4,yes,Quarterly,Exhibits,Events,No,35.85382991267984,5.0,3.0,5.0,5.0,4
-10666,65,5,no,Monthly,Exhibits,Curiosity Museum,No,41.81019621644738,3.0,3.0,4.0,3.0,4
-10667,53,5,no,Quarterly,Family Time,Garden,No,11.304970782302277,4.0,4.0,4.0,3.0,4
-10668,35,8,yes,Monthly,Family Time,Garden,Yes,0.0,3.0,4.0,3.0,3.0,2
-10669,66,3,no,Quarterly,Family Time,Dinosaurs,No,2.686816163854699,5.0,3.0,5.0,5.0,2
-10670,56,4,yes,First visit,Education,Events,Yes,8.597937075971135,4.0,4.0,4.0,4.0,4
-10671,49,4,no,Rarely,Nature,Dinosaurs,No,11.115918051324142,4.0,3.0,4.0,4.0,5
-10672,41,4,yes,First visit,Family Time,Garden,No,12.182108984869208,5.0,4.0,5.0,5.0,5
-10673,40,6,no,Quarterly,Exhibits,Garden,Yes,31.78341896896004,3.0,3.0,3.0,2.0,1
-10674,49,3,no,Monthly,Nature,Events,Yes,34.11642640031372,5.0,4.0,5.0,5.0,4
-10675,54,5,yes,First visit,Education,Curiosity Museum,No,12.42489519112825,4.0,4.0,5.0,4.0,3
-10676,29,4,no,Quarterly,Nature,Curiosity Museum,No,31.477273140777278,4.0,2.0,4.0,4.0,5
-10677,66,5,no,Quarterly,Entertainment,Events,No,20.36492049946634,3.0,3.0,4.0,3.0,4
-10678,72,5,yes,Quarterly,Nature,Events,No,15.967589592938575,4.0,4.0,4.0,4.0,3
-10679,30,4,yes,Rarely,Family Time,Dinosaurs,No,28.598162356649457,4.0,4.0,3.0,4.0,3
-10680,40,4,yes,Rarely,Education,Events,No,16.083780723568736,3.0,3.0,2.0,3.0,3
-10681,42,4,yes,First visit,Family Time,Curiosity Museum,Yes,45.867167656466435,5.0,3.0,5.0,3.0,2
-10682,52,1,no,First visit,Exhibits,Events,Yes,0.0,4.0,5.0,4.0,4.0,1
-10683,58,4,no,First visit,Entertainment,Dinosaurs,No,7.272436513619734,4.0,4.0,4.0,4.0,4
-10684,47,1,no,Quarterly,Exhibits,Dinosaurs,No,13.102216545690746,5.0,2.0,5.0,5.0,4
-10685,34,4,yes,First visit,Family Time,Dinosaurs,No,21.591790356869858,5.0,2.0,4.0,5.0,5
-10686,66,4,yes,Monthly,Family Time,Dinosaurs,No,34.019407306546334,3.0,3.0,3.0,2.0,2
-10687,37,4,yes,Rarely,Family Time,Farm,Yes,14.63402149145765,4.0,4.0,4.0,5.0,5
-10688,65,5,no,Quarterly,Special Event,Events,No,0.0,4.0,3.0,3.0,4.0,1
-10689,42,1,no,Rarely,Entertainment,Garden,Yes,27.637708446825066,5.0,4.0,5.0,5.0,3
-10690,39,5,yes,Quarterly,Family Time,Events,Yes,26.324381492129465,4.0,3.0,4.0,3.0,3
-10691,30,3,no,Monthly,Family Time,Farm,No,0.0,4.0,2.0,5.0,4.0,5
-10692,36,4,no,First visit,Exhibits,Dinosaurs,Yes,14.94293799493801,5.0,3.0,5.0,5.0,3
-10693,66,6,no,First visit,Exhibits,Farm,No,0.0,4.0,3.0,4.0,4.0,4
-10694,53,1,no,Quarterly,Family Time,Curiosity Museum,No,5.030233537469062,5.0,3.0,4.0,5.0,5
-10695,29,4,no,First visit,Education,Curiosity Museum,No,1.457866095558003,5.0,2.0,5.0,5.0,5
-10696,58,4,no,First visit,Special Event,Events,Yes,27.138970473629787,4.0,2.0,5.0,4.0,5
-10697,36,4,no,Rarely,Exhibits,Events,Yes,16.752452612582758,3.0,3.0,2.0,2.0,4
-10698,29,3,no,First visit,Education,Garden,Yes,0.0,4.0,5.0,4.0,5.0,3
-10699,26,3,yes,Quarterly,Special Event,Garden,No,28.200989444360136,5.0,4.0,5.0,5.0,5
-10700,24,6,yes,First visit,Family Time,Curiosity Museum,No,0.0,5.0,4.0,5.0,5.0,5
-10701,45,4,yes,Monthly,Entertainment,Dinosaurs,No,19.951706857064156,5.0,3.0,5.0,5.0,5
-10702,31,3,no,Quarterly,Nature,Farm,Yes,2.789839960626657,4.0,3.0,4.0,3.0,5
-10703,48,4,yes,Quarterly,Nature,Garden,No,9.5148437620422,4.0,4.0,4.0,4.0,2
-10704,69,5,no,Quarterly,Family Time,Garden,Yes,22.56406122057576,3.0,4.0,3.0,3.0,0
-10705,36,2,no,Monthly,Exhibits,Dinosaurs,Yes,22.821740985892937,4.0,4.0,5.0,5.0,3
-10706,64,4,no,First visit,Education,Dinosaurs,No,35.0545361033394,4.0,2.0,4.0,4.0,3
-10707,33,4,yes,Monthly,Entertainment,Events,No,13.766194504928201,4.0,3.0,5.0,4.0,5
-10708,70,6,no,Quarterly,Special Event,Farm,Yes,19.596762944450116,4.0,4.0,4.0,4.0,2
-10709,22,3,no,Quarterly,Family Time,Dinosaurs,Yes,8.43394016393513,4.0,4.0,4.0,4.0,5
-10710,52,4,no,Quarterly,Entertainment,Garden,No,17.729848239341965,5.0,4.0,5.0,5.0,5
-10711,29,4,yes,First visit,Entertainment,Garden,Yes,21.592290720127675,4.0,4.0,4.0,4.0,3
-10712,42,5,no,Rarely,Exhibits,Curiosity Museum,Yes,13.52535228818436,1.0,4.0,1.0,1.0,1
-10713,69,4,yes,Quarterly,Special Event,Dinosaurs,No,0.0,4.0,3.0,3.0,4.0,4
-10714,38,4,yes,First visit,Entertainment,Events,No,19.97206344496343,4.0,4.0,4.0,4.0,3
-10715,53,5,no,Quarterly,Exhibits,Farm,No,20.468422160331855,5.0,3.0,5.0,5.0,5
-10716,70,5,no,First visit,Education,Events,No,4.797397854780737,3.0,3.0,3.0,4.0,3
-10717,40,4,no,First visit,Exhibits,Garden,No,0.0,5.0,3.0,4.0,5.0,4
-10718,33,6,no,First visit,Education,Events,Yes,37.13818725755947,5.0,4.0,5.0,5.0,2
-10719,74,4,no,First visit,Education,Garden,No,22.371682663416035,3.0,4.0,3.0,3.0,2
-10720,56,4,no,Rarely,Entertainment,Garden,No,11.563784536174353,5.0,3.0,5.0,5.0,5
-10721,62,1,yes,First visit,Exhibits,Garden,Yes,0.0,4.0,4.0,5.0,4.0,4
-10722,70,7,no,Weekly,Education,Garden,No,2.6727775736798116,4.0,4.0,4.0,4.0,3
-10723,59,2,yes,Quarterly,Special Event,Garden,Yes,34.53885595179347,4.0,4.0,5.0,4.0,4
-10724,56,3,no,First visit,Entertainment,Curiosity Museum,Yes,17.064929113020693,4.0,3.0,4.0,3.0,4
-10725,31,1,no,Quarterly,Exhibits,Events,Yes,6.741193994989405,5.0,5.0,5.0,5.0,5
-10726,48,5,yes,Monthly,Exhibits,Curiosity Museum,No,22.64533846836984,5.0,2.0,5.0,4.0,2
-10727,22,3,no,Quarterly,Nature,Curiosity Museum,No,2.7840271883051453,5.0,2.0,5.0,5.0,5
-10728,52,3,no,First visit,Exhibits,Dinosaurs,No,37.512645454205675,5.0,3.0,5.0,5.0,5
-10729,40,1,no,Monthly,Entertainment,Dinosaurs,No,35.292008023450876,3.0,4.0,2.0,3.0,4
-10730,46,2,no,Quarterly,Special Event,Dinosaurs,Yes,8.00138893195835,5.0,3.0,5.0,5.0,5
-10731,60,4,no,First visit,Exhibits,Farm,Yes,5.569946294537096,5.0,3.0,5.0,5.0,1
-10732,28,5,no,First visit,Nature,Dinosaurs,Yes,0.0,4.0,3.0,4.0,4.0,5
-10733,35,4,no,Quarterly,Entertainment,Events,Yes,0.0,5.0,3.0,5.0,5.0,3
-10734,64,4,no,First visit,Education,Curiosity Museum,Yes,0.0,5.0,5.0,5.0,5.0,5
-10735,29,5,no,Quarterly,Family Time,Events,No,17.02785511481079,5.0,4.0,4.0,5.0,2
-10736,26,1,yes,Rarely,Family Time,Dinosaurs,No,10.106494433379602,4.0,3.0,4.0,4.0,5
-10737,27,3,yes,Monthly,Education,Farm,No,0.0,3.0,3.0,3.0,2.0,2
-10738,61,7,no,Quarterly,Exhibits,Farm,Yes,10.78253936303164,4.0,3.0,4.0,4.0,4
-10739,34,4,no,First visit,Family Time,Curiosity Museum,No,22.580057214710227,5.0,4.0,5.0,5.0,5
-10740,55,3,no,First visit,Family Time,Events,Yes,22.917590248733806,3.0,4.0,4.0,3.0,5
-10741,24,4,no,Quarterly,Education,Garden,Yes,0.0,3.0,3.0,3.0,3.0,5
-10742,63,3,yes,Quarterly,Exhibits,Events,No,13.076047792742537,5.0,4.0,5.0,5.0,5
-10743,30,4,yes,Quarterly,Exhibits,Dinosaurs,No,0.0,4.0,3.0,4.0,4.0,5
-10744,57,2,no,First visit,Education,Garden,Yes,28.525930457104106,4.0,4.0,4.0,4.0,3
-10745,59,2,yes,First visit,Exhibits,Farm,No,26.76219624530248,5.0,4.0,5.0,5.0,4
-10746,26,2,yes,First visit,Exhibits,Curiosity Museum,Yes,1.5295916051331222,4.0,3.0,4.0,4.0,4
-10747,67,6,yes,Quarterly,Entertainment,Curiosity Museum,No,3.509321963994002,3.0,3.0,3.0,3.0,4
-10748,44,5,no,First visit,Entertainment,Farm,No,8.080994242525392,5.0,3.0,5.0,5.0,2
-10749,19,3,no,Rarely,Education,Dinosaurs,No,0.0,4.0,3.0,4.0,5.0,4
-10750,22,3,yes,Quarterly,Special Event,Farm,Yes,20.03952260160865,4.0,4.0,4.0,4.0,4
-10751,46,5,no,Monthly,Family Time,Dinosaurs,Yes,10.907331804898037,5.0,5.0,4.0,5.0,5
-10752,54,3,no,First visit,Entertainment,Garden,No,29.55262623851789,4.0,3.0,4.0,4.0,5
-10753,55,3,no,First visit,Family Time,Farm,No,0.0,5.0,2.0,5.0,5.0,5
-10754,36,7,yes,Quarterly,Nature,Dinosaurs,Yes,5.713155776251026,5.0,2.0,4.0,5.0,4
-10755,25,3,no,Quarterly,Education,Garden,No,0.0,5.0,3.0,4.0,5.0,5
-10756,65,5,no,First visit,Special Event,Farm,No,0.0,5.0,3.0,5.0,5.0,5
-10757,62,7,no,Monthly,Nature,Curiosity Museum,No,0.0,5.0,3.0,5.0,4.0,4
-10758,18,4,no,Quarterly,Nature,Farm,No,29.93960518269668,3.0,3.0,2.0,3.0,5
-10759,39,1,yes,First visit,Exhibits,Events,No,4.5260722687291155,5.0,2.0,5.0,5.0,5
-10760,69,3,no,First visit,Nature,Farm,No,16.8626352711692,4.0,2.0,3.0,3.0,5
-10761,34,6,no,Rarely,Education,Events,No,9.288548942072934,5.0,3.0,5.0,5.0,5
-10762,24,6,yes,Quarterly,Entertainment,Garden,Yes,0.0,4.0,4.0,4.0,4.0,1
-10763,42,5,no,First visit,Education,Farm,Yes,12.47549365242536,4.0,3.0,4.0,4.0,3
-10764,62,2,yes,Quarterly,Entertainment,Garden,Yes,23.98654997795392,5.0,2.0,5.0,4.0,5
-10765,21,5,no,Quarterly,Nature,Garden,No,0.0,5.0,4.0,4.0,5.0,5
-10766,53,6,no,First visit,Nature,Dinosaurs,Yes,27.136691860970682,4.0,5.0,4.0,5.0,1
-10767,23,5,no,Quarterly,Special Event,Garden,No,2.2541861778345558,4.0,3.0,4.0,4.0,5
-10768,48,6,no,Monthly,Entertainment,Garden,Yes,7.755241108907389,4.0,3.0,5.0,4.0,2
-10769,36,6,no,First visit,Nature,Farm,Yes,22.960246845150717,5.0,4.0,5.0,5.0,5
-10770,61,5,no,First visit,Exhibits,Farm,No,5.04845764170768,4.0,2.0,4.0,5.0,1
-10771,71,4,no,Rarely,Family Time,Curiosity Museum,Yes,15.563622890037983,5.0,5.0,5.0,5.0,2
-10772,56,3,no,Monthly,Special Event,Dinosaurs,Yes,10.279637568178613,3.0,4.0,3.0,3.0,5
-10773,44,3,no,Weekly,Education,Garden,Yes,16.94052010055728,5.0,2.0,5.0,5.0,4
-10774,27,5,yes,Rarely,Special Event,Dinosaurs,No,0.0,4.0,3.0,4.0,4.0,1
-10775,43,3,no,Quarterly,Family Time,Events,No,0.0,4.0,4.0,4.0,4.0,3
-10776,36,6,no,Rarely,Entertainment,Garden,No,24.239505090702572,4.0,3.0,4.0,4.0,3
-10777,56,8,yes,Rarely,Education,Dinosaurs,No,30.557721084735753,4.0,3.0,4.0,5.0,2
-10778,20,5,no,First visit,Education,Curiosity Museum,No,1.3426994470271807,1.0,2.0,1.0,1.0,2
-10779,62,1,no,First visit,Entertainment,Curiosity Museum,Yes,11.339574717432985,4.0,4.0,4.0,4.0,5
-10780,30,3,yes,First visit,Special Event,Garden,Yes,19.420788793534523,4.0,3.0,3.0,4.0,5
-10781,67,2,no,Quarterly,Nature,Events,No,25.39826402488056,5.0,1.0,5.0,5.0,5
-10782,45,5,no,First visit,Special Event,Curiosity Museum,Yes,0.0,4.0,4.0,3.0,4.0,4
-10783,37,5,no,Monthly,Family Time,Curiosity Museum,Yes,1.7093962953243431,5.0,5.0,5.0,5.0,5
-10784,45,6,yes,First visit,Exhibits,Events,No,10.011309302251876,5.0,3.0,5.0,5.0,5
-10785,25,4,yes,First visit,Nature,Dinosaurs,No,25.547102958540737,5.0,5.0,5.0,5.0,3
-10786,58,6,no,Rarely,Special Event,Curiosity Museum,Yes,52.476457255822424,5.0,4.0,5.0,5.0,4
-10787,56,6,no,Quarterly,Exhibits,Farm,Yes,11.579914097854232,4.0,4.0,4.0,4.0,2
-10788,18,3,no,First visit,Exhibits,Curiosity Museum,No,0.0,4.0,3.0,3.0,3.0,2
-10789,20,6,no,First visit,Entertainment,Dinosaurs,No,21.03402115801947,5.0,3.0,5.0,5.0,5
-10790,30,4,yes,Weekly,Family Time,Dinosaurs,No,34.81493684311065,5.0,3.0,5.0,5.0,5
-10791,45,3,no,First visit,Family Time,Garden,No,16.620211814692514,5.0,3.0,5.0,5.0,5
-10792,74,5,yes,First visit,Family Time,Farm,No,1.4002718226856077,4.0,4.0,3.0,4.0,4
-10793,66,3,no,Quarterly,Nature,Dinosaurs,No,29.369909122200287,5.0,2.0,4.0,5.0,5
-10794,42,5,no,First visit,Education,Events,No,24.953184277476524,4.0,2.0,4.0,5.0,3
-10795,73,5,no,Rarely,Nature,Farm,Yes,0.0,5.0,3.0,5.0,4.0,3
-10796,50,4,no,Rarely,Special Event,Farm,No,20.72138426301513,5.0,5.0,5.0,4.0,3
-10797,55,4,yes,First visit,Exhibits,Events,Yes,29.95898351488309,5.0,4.0,5.0,5.0,4
-10798,70,4,no,First visit,Exhibits,Curiosity Museum,Yes,32.728350638383404,3.0,4.0,3.0,3.0,3
-10799,23,4,yes,First visit,Education,Events,No,14.00326537035816,4.0,2.0,4.0,4.0,0
-10800,61,4,no,First visit,Special Event,Events,No,9.628808307310218,5.0,4.0,5.0,5.0,5
-10801,62,4,yes,First visit,Education,Curiosity Museum,No,33.40910733121894,5.0,3.0,5.0,5.0,4
-10802,49,1,no,Quarterly,Exhibits,Curiosity Museum,Yes,0.0,4.0,4.0,4.0,4.0,5
-10803,62,4,no,Rarely,Nature,Curiosity Museum,No,21.57868936381508,4.0,2.0,3.0,4.0,5
-10804,64,3,yes,Rarely,Family Time,Curiosity Museum,No,0.0,5.0,3.0,5.0,4.0,5
-10805,38,5,no,Monthly,Exhibits,Curiosity Museum,No,30.980644083894042,4.0,3.0,4.0,4.0,5
+10666,65,5,no,Monthly,Exhibits,Curiosity Museum,No,41.81019621644738,4.0,3.0,4.0,4.0,5
+10667,53,5,no,Quarterly,Family Time,Garden,No,11.304970782302277,5.0,5.0,5.0,5.0,3
+10668,35,8,yes,Monthly,Family Time,Garden,Yes,0.0,4.0,3.0,5.0,4.0,4
+10669,66,3,no,Quarterly,Family Time,Dinosaurs,No,2.686816163854699,5.0,4.0,5.0,5.0,5
+10670,56,4,yes,First visit,Education,Events,Yes,8.597937075971135,5.0,4.0,5.0,5.0,5
+10671,49,4,no,Rarely,Nature,Dinosaurs,No,11.115918051324142,4.0,3.0,4.0,4.0,2
+10672,41,4,yes,First visit,Family Time,Garden,No,12.182108984869208,5.0,4.0,5.0,5.0,3
+10673,40,6,no,Quarterly,Exhibits,Garden,Yes,31.78341896896004,5.0,4.0,5.0,5.0,5
+10674,49,3,no,Monthly,Nature,Events,Yes,34.11642640031372,3.0,4.0,3.0,3.0,1
+10675,54,5,yes,First visit,Education,Curiosity Museum,No,12.42489519112825,4.0,3.0,5.0,5.0,2
+10676,29,4,no,Quarterly,Nature,Curiosity Museum,No,31.477273140777278,4.0,3.0,4.0,5.0,4
+10677,66,5,no,Quarterly,Entertainment,Events,No,20.36492049946634,3.0,3.0,3.0,4.0,0
+10678,72,5,yes,Quarterly,Nature,Events,No,15.967589592938575,3.0,4.0,3.0,3.0,2
+10679,30,4,yes,Rarely,Family Time,Dinosaurs,No,28.598162356649457,5.0,3.0,4.0,5.0,4
+10680,40,4,yes,Rarely,Education,Events,No,16.083780723568736,5.0,3.0,5.0,4.0,5
+10681,42,4,yes,First visit,Family Time,Curiosity Museum,Yes,45.867167656466435,5.0,4.0,5.0,5.0,3
+10682,52,1,no,First visit,Exhibits,Events,Yes,0.0,5.0,4.0,4.0,5.0,3
+10683,58,4,no,First visit,Entertainment,Dinosaurs,No,7.272436513619734,4.0,2.0,4.0,5.0,3
+10684,47,1,no,Quarterly,Exhibits,Dinosaurs,No,13.102216545690746,4.0,4.0,4.0,4.0,5
+10685,34,4,yes,First visit,Family Time,Dinosaurs,No,21.591790356869858,4.0,3.0,5.0,4.0,5
+10686,66,4,yes,Monthly,Family Time,Dinosaurs,No,34.019407306546334,5.0,3.0,5.0,4.0,4
+10687,37,4,yes,Rarely,Family Time,Farm,Yes,14.63402149145765,4.0,4.0,4.0,4.0,2
+10688,65,5,no,Quarterly,Special Event,Events,No,0.0,5.0,3.0,5.0,5.0,5
+10689,42,1,no,Rarely,Entertainment,Garden,Yes,27.637708446825066,5.0,4.0,5.0,5.0,5
+10690,39,5,yes,Quarterly,Family Time,Events,Yes,26.324381492129465,4.0,4.0,4.0,4.0,2
+10691,30,3,no,Monthly,Family Time,Farm,No,0.0,4.0,4.0,4.0,3.0,4
+10692,36,4,no,First visit,Exhibits,Dinosaurs,Yes,14.94293799493801,4.0,5.0,5.0,4.0,2
+10693,66,6,no,First visit,Exhibits,Farm,No,0.0,5.0,4.0,5.0,5.0,3
+10694,53,1,no,Quarterly,Family Time,Curiosity Museum,No,5.030233537469062,5.0,3.0,5.0,5.0,5
+10695,29,4,no,First visit,Education,Curiosity Museum,No,1.457866095558003,5.0,2.0,5.0,5.0,3
+10696,58,4,no,First visit,Special Event,Events,Yes,27.138970473629787,5.0,5.0,5.0,5.0,1
+10697,36,4,no,Rarely,Exhibits,Events,Yes,16.752452612582758,5.0,4.0,4.0,5.0,3
+10698,29,3,no,First visit,Education,Garden,Yes,0.0,5.0,3.0,5.0,5.0,5
+10699,26,3,yes,Quarterly,Special Event,Garden,No,28.200989444360136,4.0,2.0,5.0,4.0,5
+10700,24,6,yes,First visit,Family Time,Curiosity Museum,No,0.0,3.0,3.0,4.0,3.0,1
+10701,45,4,yes,Monthly,Entertainment,Dinosaurs,No,19.951706857064156,4.0,3.0,4.0,4.0,3
+10702,31,3,no,Quarterly,Nature,Farm,Yes,2.789839960626657,5.0,3.0,4.0,5.0,5
+10703,48,4,yes,Quarterly,Nature,Garden,No,9.5148437620422,5.0,4.0,5.0,4.0,4
+10704,69,5,no,Quarterly,Family Time,Garden,Yes,22.56406122057576,5.0,3.0,5.0,5.0,3
+10705,36,2,no,Monthly,Exhibits,Dinosaurs,Yes,22.821740985892937,4.0,5.0,4.0,4.0,0
+10706,64,4,no,First visit,Education,Dinosaurs,No,35.0545361033394,5.0,3.0,5.0,5.0,5
+10707,33,4,yes,Monthly,Entertainment,Events,No,13.766194504928201,5.0,3.0,5.0,5.0,4
+10708,70,6,no,Quarterly,Special Event,Farm,Yes,19.596762944450116,5.0,3.0,5.0,5.0,5
+10709,22,3,no,Quarterly,Family Time,Dinosaurs,Yes,8.43394016393513,3.0,5.0,3.0,4.0,5
+10710,52,4,no,Quarterly,Entertainment,Garden,No,17.729848239341965,4.0,3.0,3.0,5.0,2
+10711,29,4,yes,First visit,Entertainment,Garden,Yes,21.592290720127675,5.0,3.0,5.0,5.0,5
+10712,42,5,no,Rarely,Exhibits,Curiosity Museum,Yes,13.52535228818436,5.0,4.0,5.0,5.0,4
+10713,69,4,yes,Quarterly,Special Event,Dinosaurs,No,0.0,4.0,2.0,4.0,4.0,5
+10714,38,4,yes,First visit,Entertainment,Events,No,19.97206344496343,3.0,4.0,3.0,3.0,4
+10715,53,5,no,Quarterly,Exhibits,Farm,No,20.468422160331855,4.0,5.0,4.0,4.0,4
+10716,70,5,no,First visit,Education,Events,No,4.797397854780737,4.0,4.0,4.0,4.0,2
+10717,40,4,no,First visit,Exhibits,Garden,No,0.0,4.0,4.0,3.0,3.0,5
+10718,33,6,no,First visit,Education,Events,Yes,37.13818725755947,5.0,4.0,5.0,5.0,5
+10719,74,4,no,First visit,Education,Garden,No,22.371682663416035,5.0,5.0,5.0,5.0,3
+10720,56,4,no,Rarely,Entertainment,Garden,No,11.563784536174353,5.0,4.0,5.0,5.0,4
+10721,62,1,yes,First visit,Exhibits,Garden,Yes,0.0,3.0,4.0,3.0,3.0,5
+10722,70,7,no,Weekly,Education,Garden,No,2.6727775736798116,4.0,4.0,3.0,5.0,5
+10723,59,2,yes,Quarterly,Special Event,Garden,Yes,34.53885595179347,5.0,3.0,5.0,4.0,5
+10724,56,3,no,First visit,Entertainment,Curiosity Museum,Yes,17.064929113020693,5.0,4.0,5.0,5.0,5
+10725,31,1,no,Quarterly,Exhibits,Events,Yes,6.741193994989405,5.0,3.0,4.0,5.0,5
+10726,48,5,yes,Monthly,Exhibits,Curiosity Museum,No,22.64533846836984,4.0,3.0,4.0,3.0,2
+10727,22,3,no,Quarterly,Nature,Curiosity Museum,No,2.7840271883051453,4.0,1.0,4.0,4.0,5
+10728,52,3,no,First visit,Exhibits,Dinosaurs,No,37.512645454205675,4.0,4.0,5.0,5.0,1
+10729,40,1,no,Monthly,Entertainment,Dinosaurs,No,35.292008023450876,4.0,3.0,5.0,4.0,5
+10730,46,2,no,Quarterly,Special Event,Dinosaurs,Yes,8.00138893195835,5.0,5.0,5.0,5.0,5
+10731,60,4,no,First visit,Exhibits,Farm,Yes,5.569946294537096,4.0,4.0,4.0,4.0,4
+10732,28,5,no,First visit,Nature,Dinosaurs,Yes,0.0,5.0,5.0,5.0,5.0,4
+10733,35,4,no,Quarterly,Entertainment,Events,Yes,0.0,5.0,3.0,5.0,5.0,4
+10734,64,4,no,First visit,Education,Curiosity Museum,Yes,0.0,3.0,5.0,2.0,3.0,0
+10735,29,5,no,Quarterly,Family Time,Events,No,17.02785511481079,4.0,5.0,4.0,4.0,5
+10736,26,1,yes,Rarely,Family Time,Dinosaurs,No,10.106494433379602,3.0,4.0,2.0,4.0,3
+10737,27,3,yes,Monthly,Education,Farm,No,0.0,4.0,4.0,5.0,4.0,3
+10738,61,7,no,Quarterly,Exhibits,Farm,Yes,10.78253936303164,5.0,4.0,5.0,5.0,5
+10739,34,4,no,First visit,Family Time,Curiosity Museum,No,22.580057214710227,3.0,3.0,3.0,3.0,5
+10740,55,3,no,First visit,Family Time,Events,Yes,22.917590248733806,4.0,4.0,3.0,5.0,3
+10741,24,4,no,Quarterly,Education,Garden,Yes,0.0,5.0,3.0,5.0,5.0,2
+10742,63,3,yes,Quarterly,Exhibits,Events,No,13.076047792742537,5.0,3.0,5.0,5.0,3
+10743,30,4,yes,Quarterly,Exhibits,Dinosaurs,No,0.0,4.0,2.0,4.0,4.0,3
+10744,57,2,no,First visit,Education,Garden,Yes,28.525930457104106,5.0,3.0,5.0,5.0,4
+10745,59,2,yes,First visit,Exhibits,Farm,No,26.76219624530248,3.0,4.0,3.0,3.0,1
+10746,26,2,yes,First visit,Exhibits,Curiosity Museum,Yes,1.5295916051331222,5.0,4.0,5.0,5.0,5
+10747,67,6,yes,Quarterly,Entertainment,Curiosity Museum,No,3.509321963994002,5.0,3.0,5.0,4.0,5
+10748,44,5,no,First visit,Entertainment,Farm,No,8.080994242525392,5.0,3.0,5.0,5.0,5
+10749,19,3,no,Rarely,Education,Dinosaurs,No,0.0,5.0,2.0,4.0,4.0,5
+10750,22,3,yes,Quarterly,Special Event,Farm,Yes,20.03952260160865,4.0,4.0,4.0,4.0,3
+10751,46,5,no,Monthly,Family Time,Dinosaurs,Yes,10.907331804898037,4.0,3.0,5.0,4.0,1
+10752,54,3,no,First visit,Entertainment,Garden,No,29.55262623851789,2.0,3.0,2.0,3.0,0
+10753,55,3,no,First visit,Family Time,Farm,No,0.0,4.0,4.0,4.0,4.0,3
+10754,36,7,yes,Quarterly,Nature,Dinosaurs,Yes,5.713155776251026,4.0,3.0,5.0,5.0,1
+10755,25,3,no,Quarterly,Education,Garden,No,0.0,5.0,3.0,4.0,5.0,4
+10756,65,5,no,First visit,Special Event,Farm,No,0.0,4.0,2.0,4.0,4.0,1
+10757,62,7,no,Monthly,Nature,Curiosity Museum,No,0.0,5.0,3.0,5.0,5.0,4
+10758,18,4,no,Quarterly,Nature,Farm,No,29.93960518269668,5.0,2.0,5.0,4.0,5
+10759,39,1,yes,First visit,Exhibits,Events,No,4.5260722687291155,5.0,3.0,5.0,5.0,5
+10760,69,3,no,First visit,Nature,Farm,No,16.8626352711692,4.0,2.0,4.0,5.0,5
+10761,34,6,no,Rarely,Education,Events,No,9.288548942072934,4.0,3.0,4.0,4.0,4
+10762,24,6,yes,Quarterly,Entertainment,Garden,Yes,0.0,4.0,4.0,4.0,4.0,3
+10763,42,5,no,First visit,Education,Farm,Yes,12.47549365242536,4.0,5.0,5.0,4.0,3
+10764,62,2,yes,Quarterly,Entertainment,Garden,Yes,23.98654997795392,3.0,4.0,2.0,3.0,5
+10765,21,5,no,Quarterly,Nature,Garden,No,0.0,5.0,2.0,5.0,4.0,5
+10766,53,6,no,First visit,Nature,Dinosaurs,Yes,27.136691860970682,5.0,3.0,5.0,5.0,2
+10767,23,5,no,Quarterly,Special Event,Garden,No,2.2541861778345558,5.0,3.0,5.0,4.0,5
+10768,48,6,no,Monthly,Entertainment,Garden,Yes,7.755241108907389,5.0,3.0,5.0,5.0,5
+10769,36,6,no,First visit,Nature,Farm,Yes,22.960246845150717,4.0,1.0,4.0,5.0,4
+10770,61,5,no,First visit,Exhibits,Farm,No,5.04845764170768,4.0,4.0,4.0,4.0,2
+10771,71,4,no,Rarely,Family Time,Curiosity Museum,Yes,15.563622890037983,4.0,4.0,4.0,4.0,5
+10772,56,3,no,Monthly,Special Event,Dinosaurs,Yes,10.279637568178613,5.0,4.0,5.0,5.0,5
+10773,44,3,no,Weekly,Education,Garden,Yes,16.94052010055728,4.0,3.0,4.0,4.0,3
+10774,27,5,yes,Rarely,Special Event,Dinosaurs,No,0.0,4.0,4.0,4.0,3.0,5
+10775,43,3,no,Quarterly,Family Time,Events,No,0.0,4.0,3.0,4.0,4.0,2
+10776,36,6,no,Rarely,Entertainment,Garden,No,24.239505090702572,4.0,3.0,4.0,4.0,4
+10777,56,8,yes,Rarely,Education,Dinosaurs,No,30.557721084735753,5.0,2.0,5.0,4.0,4
+10778,20,5,no,First visit,Education,Curiosity Museum,No,1.3426994470271807,5.0,4.0,5.0,5.0,5
+10779,62,1,no,First visit,Entertainment,Curiosity Museum,Yes,11.339574717432985,5.0,3.0,5.0,5.0,4
+10780,30,3,yes,First visit,Special Event,Garden,Yes,19.420788793534523,3.0,5.0,2.0,3.0,1
+10781,67,2,no,Quarterly,Nature,Events,No,25.39826402488056,4.0,3.0,4.0,4.0,2
+10782,45,5,no,First visit,Special Event,Curiosity Museum,Yes,0.0,5.0,3.0,5.0,5.0,5
+10783,37,5,no,Monthly,Family Time,Curiosity Museum,Yes,1.7093962953243431,5.0,4.0,5.0,5.0,5
+10784,45,6,yes,First visit,Exhibits,Events,No,10.011309302251876,5.0,4.0,5.0,5.0,5
+10785,25,4,yes,First visit,Nature,Dinosaurs,No,25.547102958540737,4.0,4.0,3.0,4.0,4
+10786,58,6,no,Rarely,Special Event,Curiosity Museum,Yes,52.476457255822424,4.0,4.0,4.0,4.0,4
+10787,56,6,no,Quarterly,Exhibits,Farm,Yes,11.579914097854232,5.0,3.0,5.0,5.0,4
+10788,18,3,no,First visit,Exhibits,Curiosity Museum,No,0.0,5.0,3.0,5.0,5.0,3
+10789,20,6,no,First visit,Entertainment,Dinosaurs,No,21.03402115801947,4.0,5.0,3.0,4.0,3
+10790,30,4,yes,Weekly,Family Time,Dinosaurs,No,34.81493684311065,5.0,4.0,5.0,5.0,5
+10791,45,3,no,First visit,Family Time,Garden,No,16.620211814692514,3.0,4.0,3.0,3.0,3
+10792,74,5,yes,First visit,Family Time,Farm,No,1.4002718226856077,4.0,4.0,4.0,5.0,3
+10793,66,3,no,Quarterly,Nature,Dinosaurs,No,29.369909122200287,5.0,4.0,5.0,5.0,5
+10794,42,5,no,First visit,Education,Events,No,24.953184277476524,4.0,4.0,4.0,4.0,3
+10795,73,5,no,Rarely,Nature,Farm,Yes,0.0,4.0,3.0,4.0,4.0,3
+10796,50,4,no,Rarely,Special Event,Farm,No,20.72138426301513,3.0,2.0,3.0,3.0,2
+10797,55,4,yes,First visit,Exhibits,Events,Yes,29.95898351488309,5.0,4.0,5.0,5.0,5
+10798,70,4,no,First visit,Exhibits,Curiosity Museum,Yes,32.728350638383404,4.0,3.0,4.0,4.0,5
+10799,23,4,yes,First visit,Education,Events,No,14.00326537035816,5.0,2.0,5.0,4.0,5
+10800,61,4,no,First visit,Special Event,Events,No,9.628808307310218,5.0,3.0,5.0,5.0,3
+10801,62,4,yes,First visit,Education,Curiosity Museum,No,33.40910733121894,5.0,5.0,5.0,5.0,5
+10802,49,1,no,Quarterly,Exhibits,Curiosity Museum,Yes,0.0,4.0,4.0,4.0,4.0,2
+10803,62,4,no,Rarely,Nature,Curiosity Museum,No,21.57868936381508,4.0,3.0,3.0,3.0,4
+10804,64,3,yes,Rarely,Family Time,Curiosity Museum,No,0.0,5.0,2.0,5.0,5.0,5
+10805,38,5,no,Monthly,Exhibits,Curiosity Museum,No,30.980644083894042,5.0,2.0,5.0,5.0,4
 10806,33,5,no,Quarterly,Entertainment,Events,Yes,11.129317265832578,4.0,3.0,4.0,4.0,4
-10807,71,4,no,First visit,Family Time,Garden,Yes,34.02874853471204,5.0,4.0,5.0,5.0,4
-10808,38,4,yes,Monthly,Exhibits,Garden,No,22.371191345332907,5.0,2.0,5.0,4.0,5
-10809,28,7,yes,First visit,Nature,Dinosaurs,Yes,0.0,4.0,4.0,4.0,4.0,3
-10810,54,6,yes,First visit,Education,Garden,No,36.36941598115865,4.0,4.0,5.0,3.0,3
-10811,53,6,no,Quarterly,Family Time,Garden,No,38.26867899641594,5.0,2.0,5.0,5.0,4
-10812,52,6,no,Rarely,Nature,Events,Yes,28.234297388988235,4.0,3.0,5.0,3.0,5
-10813,36,2,yes,Rarely,Special Event,Curiosity Museum,Yes,3.5761820244567017,5.0,4.0,5.0,5.0,5
-10814,37,2,no,First visit,Entertainment,Curiosity Museum,Yes,10.409790684638867,4.0,4.0,4.0,3.0,3
-10815,74,4,no,Rarely,Family Time,Events,No,17.18140826108639,5.0,3.0,5.0,5.0,1
-10816,35,3,yes,First visit,Education,Garden,Yes,4.4443440100285,5.0,4.0,5.0,5.0,5
-10817,64,4,no,Monthly,Special Event,Events,No,40.38519858694807,4.0,5.0,5.0,4.0,5
-10818,58,4,yes,First visit,Nature,Dinosaurs,No,17.164897075890554,5.0,3.0,5.0,5.0,5
-10819,66,4,yes,Monthly,Entertainment,Curiosity Museum,No,0.0,4.0,2.0,4.0,4.0,3
-10820,31,5,no,Quarterly,Education,Farm,Yes,20.090337191343306,3.0,4.0,2.0,3.0,1
-10821,32,5,yes,Quarterly,Nature,Dinosaurs,Yes,9.777639047740303,4.0,5.0,5.0,4.0,4
-10822,48,4,no,Quarterly,Nature,Dinosaurs,No,13.876101658223282,5.0,4.0,5.0,5.0,4
-10823,18,6,no,Quarterly,Family Time,Events,No,9.470709513214503,4.0,2.0,4.0,4.0,1
-10824,70,4,no,First visit,Family Time,Garden,No,27.105696249100315,5.0,3.0,4.0,5.0,5
-10825,71,6,no,First visit,Education,Curiosity Museum,Yes,31.79531667830072,5.0,3.0,5.0,5.0,3
-10826,71,1,no,First visit,Exhibits,Farm,Yes,19.245797433879805,2.0,4.0,2.0,2.0,0
-10827,20,7,no,Monthly,Exhibits,Dinosaurs,No,9.910332192927614,3.0,2.0,4.0,3.0,1
-10828,33,5,no,Quarterly,Nature,Farm,Yes,14.379941927862447,3.0,4.0,2.0,3.0,2
-10829,40,4,no,Rarely,Family Time,Garden,No,15.293994248664424,5.0,2.0,5.0,5.0,4
-10830,74,3,no,First visit,Entertainment,Garden,No,2.9635494020274438,4.0,3.0,3.0,4.0,3
-10831,28,4,no,Rarely,Entertainment,Farm,Yes,23.683929728568522,5.0,4.0,5.0,5.0,0
-10832,29,3,yes,Quarterly,Nature,Curiosity Museum,No,21.900634857906994,5.0,3.0,4.0,5.0,5
-10833,27,3,yes,Rarely,Family Time,Garden,No,38.1066185966501,4.0,3.0,4.0,4.0,2
-10834,49,5,yes,Quarterly,Education,Farm,Yes,33.83024670432712,5.0,3.0,5.0,5.0,4
-10835,33,4,no,Weekly,Education,Dinosaurs,No,4.714876236148047,4.0,4.0,3.0,3.0,2
-10836,25,5,no,First visit,Education,Farm,Yes,27.30447561763447,3.0,4.0,3.0,3.0,3
-10837,55,6,no,Rarely,Entertainment,Farm,Yes,0.7356992535829254,5.0,3.0,4.0,5.0,5
-10838,29,4,no,Rarely,Family Time,Events,Yes,25.438981514112744,5.0,5.0,4.0,5.0,5
-10839,41,4,no,First visit,Family Time,Garden,No,7.250787018598382,4.0,4.0,5.0,5.0,1
-10840,45,1,yes,First visit,Entertainment,Curiosity Museum,No,0.0,4.0,3.0,3.0,4.0,2
-10841,70,5,no,First visit,Education,Curiosity Museum,No,19.200680140461067,5.0,4.0,5.0,5.0,3
-10842,25,4,no,Monthly,Education,Events,Yes,0.0,4.0,5.0,5.0,4.0,4
-10843,45,7,no,Rarely,Nature,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,5
-10844,53,6,yes,Rarely,Exhibits,Farm,Yes,12.337621743385752,5.0,4.0,5.0,5.0,4
-10845,43,4,no,Monthly,Special Event,Events,No,16.236626499522636,4.0,2.0,4.0,4.0,2
-10846,25,2,no,Quarterly,Exhibits,Dinosaurs,No,9.460218447627167,4.0,3.0,5.0,4.0,3
-10847,67,6,no,First visit,Family Time,Garden,Yes,0.0,5.0,4.0,4.0,5.0,5
-10848,45,5,no,Quarterly,Family Time,Garden,Yes,2.731622367922417,4.0,4.0,4.0,5.0,2
-10849,45,3,no,Rarely,Family Time,Garden,No,20.86813990856091,5.0,3.0,4.0,5.0,5
-10850,54,3,yes,Quarterly,Exhibits,Farm,Yes,23.726726559425437,5.0,4.0,5.0,5.0,3
-10851,58,5,no,Quarterly,Special Event,Dinosaurs,No,14.756653236060881,4.0,3.0,4.0,3.0,2
-10852,53,3,no,Quarterly,Nature,Events,Yes,32.35250671555483,5.0,3.0,5.0,5.0,5
-10853,44,6,no,First visit,Exhibits,Events,Yes,20.960955351888515,5.0,3.0,5.0,5.0,4
-10854,71,4,no,Quarterly,Special Event,Garden,No,3.788165190626817,3.0,3.0,2.0,4.0,2
-10855,34,1,yes,First visit,Education,Dinosaurs,No,10.792469198825739,5.0,3.0,5.0,5.0,5
+10807,71,4,no,First visit,Family Time,Garden,Yes,34.02874853471204,3.0,5.0,2.0,3.0,1
+10808,38,4,yes,Monthly,Exhibits,Garden,No,22.371191345332907,2.0,3.0,3.0,3.0,0
+10809,28,7,yes,First visit,Nature,Dinosaurs,Yes,0.0,4.0,4.0,4.0,4.0,4
+10810,54,6,yes,First visit,Education,Garden,No,36.36941598115865,5.0,4.0,5.0,5.0,2
+10811,53,6,no,Quarterly,Family Time,Garden,No,38.26867899641594,4.0,3.0,5.0,4.0,4
+10812,52,6,no,Rarely,Nature,Events,Yes,28.234297388988235,4.0,5.0,4.0,4.0,2
+10813,36,2,yes,Rarely,Special Event,Curiosity Museum,Yes,3.5761820244567017,4.0,3.0,4.0,4.0,3
+10814,37,2,no,First visit,Entertainment,Curiosity Museum,Yes,10.409790684638867,5.0,5.0,5.0,5.0,4
+10815,74,4,no,Rarely,Family Time,Events,No,17.18140826108639,4.0,4.0,5.0,5.0,4
+10816,35,3,yes,First visit,Education,Garden,Yes,4.4443440100285,4.0,2.0,4.0,5.0,4
+10817,64,4,no,Monthly,Special Event,Events,No,40.38519858694807,5.0,3.0,5.0,5.0,4
+10818,58,4,yes,First visit,Nature,Dinosaurs,No,17.164897075890554,5.0,2.0,5.0,4.0,4
+10819,66,4,yes,Monthly,Entertainment,Curiosity Museum,No,0.0,4.0,4.0,5.0,4.0,5
+10820,31,5,no,Quarterly,Education,Farm,Yes,20.090337191343306,5.0,4.0,5.0,5.0,5
+10821,32,5,yes,Quarterly,Nature,Dinosaurs,Yes,9.777639047740303,4.0,2.0,3.0,4.0,4
+10822,48,4,no,Quarterly,Nature,Dinosaurs,No,13.876101658223282,5.0,4.0,5.0,5.0,5
+10823,18,6,no,Quarterly,Family Time,Events,No,9.470709513214503,4.0,3.0,4.0,4.0,2
+10824,70,4,no,First visit,Family Time,Garden,No,27.105696249100315,5.0,2.0,5.0,5.0,5
+10825,71,6,no,First visit,Education,Curiosity Museum,Yes,31.79531667830072,5.0,5.0,5.0,5.0,4
+10826,71,1,no,First visit,Exhibits,Farm,Yes,19.245797433879805,4.0,4.0,4.0,4.0,2
+10827,20,7,no,Monthly,Exhibits,Dinosaurs,No,9.910332192927614,5.0,3.0,5.0,5.0,5
+10828,33,5,no,Quarterly,Nature,Farm,Yes,14.379941927862447,4.0,3.0,4.0,5.0,4
+10829,40,4,no,Rarely,Family Time,Garden,No,15.293994248664424,4.0,2.0,5.0,4.0,5
+10830,74,3,no,First visit,Entertainment,Garden,No,2.9635494020274438,4.0,2.0,4.0,4.0,5
+10831,28,4,no,Rarely,Entertainment,Farm,Yes,23.683929728568522,4.0,5.0,4.0,4.0,5
+10832,29,3,yes,Quarterly,Nature,Curiosity Museum,No,21.900634857906994,5.0,3.0,5.0,5.0,2
+10833,27,3,yes,Rarely,Family Time,Garden,No,38.1066185966501,3.0,3.0,3.0,3.0,1
+10834,49,5,yes,Quarterly,Education,Farm,Yes,33.83024670432712,4.0,2.0,4.0,3.0,4
+10835,33,4,no,Weekly,Education,Dinosaurs,No,4.714876236148047,5.0,2.0,5.0,5.0,4
+10836,25,5,no,First visit,Education,Farm,Yes,27.30447561763447,5.0,4.0,5.0,4.0,5
+10837,55,6,no,Rarely,Entertainment,Farm,Yes,0.7356992535829254,4.0,4.0,3.0,5.0,2
+10838,29,4,no,Rarely,Family Time,Events,Yes,25.438981514112744,5.0,5.0,4.0,5.0,1
+10839,41,4,no,First visit,Family Time,Garden,No,7.250787018598382,5.0,4.0,5.0,4.0,5
+10840,45,1,yes,First visit,Entertainment,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,3
+10841,70,5,no,First visit,Education,Curiosity Museum,No,19.200680140461067,3.0,4.0,3.0,3.0,1
+10842,25,4,no,Monthly,Education,Events,Yes,0.0,4.0,4.0,4.0,4.0,3
+10843,45,7,no,Rarely,Nature,Curiosity Museum,No,0.0,5.0,5.0,5.0,5.0,4
+10844,53,6,yes,Rarely,Exhibits,Farm,Yes,12.337621743385752,4.0,5.0,4.0,4.0,1
+10845,43,4,no,Monthly,Special Event,Events,No,16.236626499522636,3.0,3.0,3.0,3.0,3
+10846,25,2,no,Quarterly,Exhibits,Dinosaurs,No,9.460218447627167,5.0,3.0,5.0,5.0,5
+10847,67,6,no,First visit,Family Time,Garden,Yes,0.0,3.0,5.0,3.0,3.0,1
+10848,45,5,no,Quarterly,Family Time,Garden,Yes,2.731622367922417,5.0,4.0,5.0,5.0,2
+10849,45,3,no,Rarely,Family Time,Garden,No,20.86813990856091,4.0,4.0,4.0,5.0,5
+10850,54,3,yes,Quarterly,Exhibits,Farm,Yes,23.726726559425437,5.0,2.0,5.0,4.0,5
+10851,58,5,no,Quarterly,Special Event,Dinosaurs,No,14.756653236060881,5.0,4.0,5.0,5.0,5
+10852,53,3,no,Quarterly,Nature,Events,Yes,32.35250671555483,4.0,3.0,4.0,4.0,1
+10853,44,6,no,First visit,Exhibits,Events,Yes,20.960955351888515,4.0,5.0,5.0,4.0,2
+10854,71,4,no,Quarterly,Special Event,Garden,No,3.788165190626817,4.0,4.0,5.0,4.0,2
+10855,34,1,yes,First visit,Education,Dinosaurs,No,10.792469198825739,5.0,3.0,5.0,4.0,2
 10856,26,6,yes,First visit,Education,Dinosaurs,No,0.0,5.0,4.0,5.0,5.0,5
-10857,50,4,no,First visit,Family Time,Dinosaurs,Yes,13.37791514412875,4.0,3.0,3.0,4.0,3
-10858,70,4,no,First visit,Entertainment,Curiosity Museum,Yes,31.68150928832008,5.0,4.0,5.0,5.0,2
-10859,37,2,no,First visit,Family Time,Curiosity Museum,Yes,25.279351270664517,4.0,5.0,4.0,4.0,4
-10860,30,1,yes,Quarterly,Entertainment,Garden,No,36.03013988878683,3.0,3.0,4.0,3.0,2
-10861,45,5,no,Monthly,Special Event,Dinosaurs,No,10.456721343015102,5.0,4.0,5.0,5.0,3
-10862,65,4,no,First visit,Education,Dinosaurs,No,35.19149691771386,5.0,3.0,5.0,5.0,3
-10863,46,4,no,First visit,Exhibits,Events,No,12.100436603280452,3.0,3.0,3.0,3.0,2
-10864,30,5,yes,First visit,Entertainment,Events,Yes,37.07377623854841,5.0,4.0,5.0,5.0,5
-10865,63,5,no,First visit,Special Event,Garden,No,14.672148788368144,5.0,4.0,4.0,5.0,5
-10866,52,3,no,First visit,Education,Dinosaurs,No,25.60847060706415,4.0,2.0,4.0,4.0,3
-10867,23,4,yes,Monthly,Exhibits,Garden,No,37.126685464647835,5.0,3.0,5.0,5.0,2
-10868,35,6,no,First visit,Entertainment,Events,Yes,12.098585571281916,4.0,4.0,4.0,5.0,5
-10869,68,5,no,Rarely,Family Time,Events,Yes,18.275834813162614,5.0,4.0,4.0,4.0,4
-10870,22,4,no,First visit,Family Time,Curiosity Museum,No,34.332951378094535,5.0,4.0,5.0,5.0,4
-10871,64,3,no,Monthly,Family Time,Garden,Yes,13.004952541049047,5.0,3.0,5.0,5.0,5
-10872,42,3,yes,Quarterly,Special Event,Garden,Yes,0.0,4.0,5.0,4.0,3.0,4
-10873,19,5,yes,Monthly,Family Time,Dinosaurs,Yes,47.145105818773644,5.0,3.0,5.0,5.0,5
-10874,27,6,no,Quarterly,Nature,Dinosaurs,No,7.953533034942948,5.0,4.0,5.0,5.0,3
-10875,73,5,yes,First visit,Education,Curiosity Museum,Yes,17.381340764063143,5.0,4.0,5.0,4.0,5
-10876,47,6,no,First visit,Special Event,Farm,Yes,32.3401000417669,5.0,3.0,5.0,4.0,5
-10877,67,5,no,Quarterly,Exhibits,Farm,Yes,5.872591444031973,5.0,4.0,5.0,5.0,2
-10878,62,2,no,Rarely,Family Time,Farm,No,0.0,3.0,3.0,3.0,3.0,2
-10879,22,4,no,Quarterly,Education,Garden,No,18.8060594516225,5.0,4.0,5.0,5.0,5
-10880,72,3,no,First visit,Entertainment,Garden,No,0.0,4.0,3.0,5.0,4.0,5
-10881,73,3,no,First visit,Family Time,Events,No,10.681408846981196,4.0,3.0,3.0,4.0,5
-10882,50,6,no,Rarely,Education,Garden,No,18.67557996473109,5.0,4.0,5.0,5.0,5
-10883,71,4,no,Quarterly,Nature,Garden,Yes,10.950721547622537,5.0,4.0,5.0,4.0,5
-10884,18,4,yes,Quarterly,Entertainment,Garden,Yes,0.0,5.0,4.0,5.0,4.0,5
-10885,35,3,no,First visit,Nature,Curiosity Museum,Yes,38.91266934306018,5.0,4.0,5.0,5.0,5
-10886,49,3,no,Rarely,Exhibits,Garden,Yes,16.55307230923763,5.0,5.0,5.0,5.0,4
-10887,64,3,no,First visit,Education,Dinosaurs,Yes,36.46728176642611,5.0,3.0,4.0,5.0,5
-10888,66,3,no,First visit,Nature,Dinosaurs,No,11.099456247293329,4.0,3.0,3.0,4.0,2
-10889,28,5,no,Rarely,Exhibits,Events,No,1.7998202746385417,4.0,4.0,4.0,4.0,2
-10890,38,3,no,First visit,Education,Curiosity Museum,No,19.037713803827398,5.0,3.0,5.0,5.0,5
-10891,43,5,yes,First visit,Education,Dinosaurs,No,11.763193105076706,5.0,4.0,5.0,4.0,5
-10892,42,1,no,First visit,Nature,Curiosity Museum,Yes,0.0,4.0,5.0,4.0,4.0,5
-10893,39,2,no,First visit,Education,Curiosity Museum,Yes,37.04676388181243,3.0,4.0,4.0,3.0,1
-10894,44,3,no,First visit,Family Time,Events,No,5.66594665659006,4.0,2.0,4.0,3.0,5
-10895,66,4,no,First visit,Education,Curiosity Museum,No,0.0,5.0,3.0,5.0,5.0,4
-10896,30,5,yes,First visit,Special Event,Garden,Yes,34.922490809359985,5.0,4.0,5.0,5.0,3
-10897,50,4,no,First visit,Exhibits,Curiosity Museum,No,7.435529762810652,3.0,4.0,3.0,3.0,1
-10898,51,4,no,Quarterly,Education,Events,No,5.882641610765635,5.0,4.0,5.0,5.0,5
-10899,58,5,no,First visit,Special Event,Events,No,0.0,4.0,3.0,5.0,4.0,2
-10900,52,1,no,First visit,Education,Events,No,41.11412229895486,3.0,4.0,3.0,3.0,5
-10901,18,3,no,First visit,Education,Dinosaurs,Yes,0.0,4.0,4.0,4.0,4.0,5
-10902,38,6,yes,Quarterly,Nature,Garden,Yes,15.876742210584748,4.0,5.0,4.0,4.0,5
-10903,65,5,no,Monthly,Family Time,Dinosaurs,No,28.689304838106608,4.0,4.0,5.0,4.0,3
-10904,72,3,no,Quarterly,Exhibits,Farm,Yes,21.325753995046455,4.0,2.0,4.0,3.0,2
-10905,23,6,yes,Quarterly,Family Time,Garden,No,14.105185320117126,5.0,3.0,5.0,5.0,5
-10906,45,5,yes,Rarely,Entertainment,Curiosity Museum,No,0.0,4.0,2.0,5.0,4.0,5
-10907,34,3,yes,Quarterly,Nature,Events,Yes,2.854127463490741,4.0,4.0,5.0,4.0,0
-10908,22,5,yes,Quarterly,Nature,Farm,No,17.81700507063783,5.0,4.0,4.0,5.0,4
-10909,48,4,no,First visit,Family Time,Garden,No,3.192388950195055,5.0,3.0,5.0,5.0,5
-10910,22,4,no,First visit,Nature,Dinosaurs,Yes,18.050391899981516,3.0,5.0,3.0,4.0,5
-10911,55,4,no,First visit,Family Time,Events,No,25.226151132227127,5.0,3.0,5.0,5.0,4
-10912,20,3,no,Monthly,Nature,Dinosaurs,No,29.437543287001525,4.0,2.0,5.0,3.0,4
-10913,70,5,no,Rarely,Education,Garden,No,0.0,4.0,1.0,4.0,4.0,2
-10914,40,4,no,Quarterly,Family Time,Garden,Yes,47.94969082468431,3.0,4.0,3.0,3.0,1
-10915,54,6,no,First visit,Family Time,Farm,No,26.51219016831196,4.0,3.0,3.0,4.0,3
-10916,70,5,no,Rarely,Special Event,Curiosity Museum,No,14.97428769496404,5.0,2.0,5.0,5.0,5
-10917,54,1,no,First visit,Nature,Dinosaurs,Yes,31.34304874614961,4.0,2.0,4.0,4.0,2
-10918,27,5,no,First visit,Nature,Farm,Yes,50.4811165799996,3.0,3.0,2.0,3.0,2
-10919,27,3,yes,Quarterly,Family Time,Events,No,0.0,3.0,3.0,4.0,3.0,1
-10920,36,4,yes,Quarterly,Education,Curiosity Museum,Yes,11.621060362629695,4.0,4.0,4.0,4.0,3
-10921,34,5,no,First visit,Education,Farm,No,0.0,5.0,3.0,5.0,5.0,5
-10922,38,3,no,Quarterly,Exhibits,Dinosaurs,No,17.88977298972037,5.0,4.0,5.0,5.0,5
-10923,31,4,no,First visit,Education,Garden,No,20.48091362887711,4.0,2.0,3.0,4.0,5
-10924,26,3,no,Weekly,Nature,Events,Yes,14.412568268358608,5.0,5.0,5.0,5.0,4
-10925,63,1,no,First visit,Special Event,Dinosaurs,No,5.181996435025352,5.0,3.0,5.0,4.0,5
-10926,18,4,no,First visit,Family Time,Curiosity Museum,Yes,0.0,4.0,4.0,4.0,4.0,0
-10927,68,4,no,First visit,Entertainment,Curiosity Museum,No,20.60300525117653,5.0,3.0,5.0,3.0,5
-10928,62,8,no,First visit,Special Event,Garden,No,36.831517258729875,5.0,4.0,5.0,5.0,5
+10857,50,4,no,First visit,Family Time,Dinosaurs,Yes,13.37791514412875,5.0,5.0,5.0,5.0,5
+10858,70,4,no,First visit,Entertainment,Curiosity Museum,Yes,31.68150928832008,3.0,4.0,3.0,2.0,2
+10859,37,2,no,First visit,Family Time,Curiosity Museum,Yes,25.279351270664517,4.0,5.0,4.0,3.0,2
+10860,30,1,yes,Quarterly,Entertainment,Garden,No,36.03013988878683,5.0,3.0,5.0,5.0,4
+10861,45,5,no,Monthly,Special Event,Dinosaurs,No,10.456721343015102,5.0,3.0,5.0,5.0,5
+10862,65,4,no,First visit,Education,Dinosaurs,No,35.19149691771386,5.0,4.0,5.0,5.0,5
+10863,46,4,no,First visit,Exhibits,Events,No,12.100436603280452,4.0,3.0,4.0,4.0,3
+10864,30,5,yes,First visit,Entertainment,Events,Yes,37.07377623854841,4.0,4.0,4.0,4.0,4
+10865,63,5,no,First visit,Special Event,Garden,No,14.672148788368144,4.0,4.0,4.0,4.0,2
+10866,52,3,no,First visit,Education,Dinosaurs,No,25.60847060706415,3.0,3.0,3.0,3.0,3
+10867,23,4,yes,Monthly,Exhibits,Garden,No,37.126685464647835,4.0,2.0,4.0,4.0,3
+10868,35,6,no,First visit,Entertainment,Events,Yes,12.098585571281916,5.0,4.0,5.0,5.0,5
+10869,68,5,no,Rarely,Family Time,Events,Yes,18.275834813162614,3.0,3.0,3.0,3.0,2
+10870,22,4,no,First visit,Family Time,Curiosity Museum,No,34.332951378094535,5.0,4.0,5.0,5.0,5
+10871,64,3,no,Monthly,Family Time,Garden,Yes,13.004952541049047,3.0,4.0,4.0,3.0,2
+10872,42,3,yes,Quarterly,Special Event,Garden,Yes,0.0,4.0,5.0,5.0,5.0,2
+10873,19,5,yes,Monthly,Family Time,Dinosaurs,Yes,47.145105818773644,4.0,5.0,4.0,4.0,3
+10874,27,6,no,Quarterly,Nature,Dinosaurs,No,7.953533034942948,5.0,4.0,4.0,5.0,5
+10875,73,5,yes,First visit,Education,Curiosity Museum,Yes,17.381340764063143,4.0,3.0,5.0,3.0,3
+10876,47,6,no,First visit,Special Event,Farm,Yes,32.3401000417669,5.0,4.0,5.0,4.0,2
+10877,67,5,no,Quarterly,Exhibits,Farm,Yes,5.872591444031973,5.0,5.0,5.0,5.0,5
+10878,62,2,no,Rarely,Family Time,Farm,No,0.0,4.0,3.0,3.0,4.0,0
+10879,22,4,no,Quarterly,Education,Garden,No,18.8060594516225,3.0,5.0,3.0,3.0,2
+10880,72,3,no,First visit,Entertainment,Garden,No,0.0,3.0,3.0,2.0,4.0,3
+10881,73,3,no,First visit,Family Time,Events,No,10.681408846981196,4.0,3.0,4.0,4.0,3
+10882,50,6,no,Rarely,Education,Garden,No,18.67557996473109,3.0,3.0,3.0,3.0,1
+10883,71,4,no,Quarterly,Nature,Garden,Yes,10.950721547622537,5.0,4.0,5.0,5.0,4
+10884,18,4,yes,Quarterly,Entertainment,Garden,Yes,0.0,5.0,5.0,5.0,5.0,5
+10885,35,3,no,First visit,Nature,Curiosity Museum,Yes,38.91266934306018,4.0,3.0,4.0,3.0,3
+10886,49,3,no,Rarely,Exhibits,Garden,Yes,16.55307230923763,3.0,4.0,3.0,3.0,1
+10887,64,3,no,First visit,Education,Dinosaurs,Yes,36.46728176642611,5.0,3.0,5.0,5.0,4
+10888,66,3,no,First visit,Nature,Dinosaurs,No,11.099456247293329,4.0,2.0,4.0,4.0,5
+10889,28,5,no,Rarely,Exhibits,Events,No,1.7998202746385417,4.0,2.0,4.0,5.0,5
+10890,38,3,no,First visit,Education,Curiosity Museum,No,19.037713803827398,3.0,3.0,3.0,3.0,0
+10891,43,5,yes,First visit,Education,Dinosaurs,No,11.763193105076706,5.0,4.0,4.0,5.0,5
+10892,42,1,no,First visit,Nature,Curiosity Museum,Yes,0.0,5.0,5.0,5.0,5.0,4
+10893,39,2,no,First visit,Education,Curiosity Museum,Yes,37.04676388181243,4.0,3.0,4.0,4.0,1
+10894,44,3,no,First visit,Family Time,Events,No,5.66594665659006,4.0,3.0,4.0,4.0,5
+10895,66,4,no,First visit,Education,Curiosity Museum,No,0.0,3.0,2.0,4.0,3.0,3
+10896,30,5,yes,First visit,Special Event,Garden,Yes,34.922490809359985,4.0,4.0,4.0,4.0,1
+10897,50,4,no,First visit,Exhibits,Curiosity Museum,No,7.435529762810652,3.0,3.0,3.0,3.0,2
+10898,51,4,no,Quarterly,Education,Events,No,5.882641610765635,5.0,2.0,4.0,5.0,5
+10899,58,5,no,First visit,Special Event,Events,No,0.0,4.0,4.0,5.0,5.0,4
+10900,52,1,no,First visit,Education,Events,No,41.11412229895486,5.0,3.0,5.0,5.0,4
+10901,18,3,no,First visit,Education,Dinosaurs,Yes,0.0,4.0,4.0,5.0,5.0,3
+10902,38,6,yes,Quarterly,Nature,Garden,Yes,15.876742210584748,4.0,2.0,3.0,5.0,2
+10903,65,5,no,Monthly,Family Time,Dinosaurs,No,28.689304838106608,5.0,4.0,5.0,5.0,5
+10904,72,3,no,Quarterly,Exhibits,Farm,Yes,21.325753995046455,5.0,4.0,5.0,5.0,2
+10905,23,6,yes,Quarterly,Family Time,Garden,No,14.105185320117126,5.0,3.0,5.0,5.0,4
+10906,45,5,yes,Rarely,Entertainment,Curiosity Museum,No,0.0,5.0,2.0,4.0,5.0,5
+10907,34,3,yes,Quarterly,Nature,Events,Yes,2.854127463490741,4.0,5.0,4.0,4.0,3
+10908,22,5,yes,Quarterly,Nature,Farm,No,17.81700507063783,4.0,3.0,3.0,3.0,5
+10909,48,4,no,First visit,Family Time,Garden,No,3.192388950195055,4.0,3.0,4.0,4.0,3
+10910,22,4,no,First visit,Nature,Dinosaurs,Yes,18.050391899981516,4.0,5.0,4.0,3.0,4
+10911,55,4,no,First visit,Family Time,Events,No,25.226151132227127,3.0,3.0,3.0,3.0,2
+10912,20,3,no,Monthly,Nature,Dinosaurs,No,29.437543287001525,5.0,4.0,5.0,5.0,5
+10913,70,5,no,Rarely,Education,Garden,No,0.0,4.0,4.0,4.0,5.0,4
+10914,40,4,no,Quarterly,Family Time,Garden,Yes,47.94969082468431,5.0,4.0,5.0,5.0,5
+10915,54,6,no,First visit,Family Time,Farm,No,26.51219016831196,5.0,3.0,4.0,5.0,3
+10916,70,5,no,Rarely,Special Event,Curiosity Museum,No,14.97428769496404,5.0,4.0,5.0,5.0,4
+10917,54,1,no,First visit,Nature,Dinosaurs,Yes,31.34304874614961,5.0,4.0,5.0,5.0,5
+10918,27,5,no,First visit,Nature,Farm,Yes,50.4811165799996,4.0,4.0,3.0,3.0,3
+10919,27,3,yes,Quarterly,Family Time,Events,No,0.0,5.0,4.0,5.0,4.0,5
+10920,36,4,yes,Quarterly,Education,Curiosity Museum,Yes,11.621060362629695,5.0,3.0,5.0,4.0,5
+10921,34,5,no,First visit,Education,Farm,No,0.0,4.0,4.0,5.0,3.0,4
+10922,38,3,no,Quarterly,Exhibits,Dinosaurs,No,17.88977298972037,3.0,4.0,3.0,3.0,3
+10923,31,4,no,First visit,Education,Garden,No,20.48091362887711,5.0,4.0,5.0,5.0,5
+10924,26,3,no,Weekly,Nature,Events,Yes,14.412568268358608,4.0,5.0,4.0,4.0,2
+10925,63,1,no,First visit,Special Event,Dinosaurs,No,5.181996435025352,4.0,3.0,4.0,4.0,5
+10926,18,4,no,First visit,Family Time,Curiosity Museum,Yes,0.0,4.0,2.0,4.0,4.0,4
+10927,68,4,no,First visit,Entertainment,Curiosity Museum,No,20.60300525117653,4.0,3.0,4.0,3.0,3
+10928,62,8,no,First visit,Special Event,Garden,No,36.831517258729875,3.0,2.0,3.0,3.0,2
 10929,30,4,no,First visit,Entertainment,Garden,No,6.13472316399852,4.0,3.0,4.0,4.0,2
-10930,21,3,no,Quarterly,Special Event,Events,No,21.600898935347175,4.0,3.0,4.0,4.0,4
-10931,18,4,no,Monthly,Education,Events,No,0.0,4.0,3.0,5.0,4.0,3
-10932,66,1,yes,Quarterly,Nature,Garden,Yes,21.858195955387707,5.0,4.0,4.0,5.0,5
-10933,57,7,no,First visit,Entertainment,Garden,No,9.099265533830144,5.0,4.0,5.0,4.0,5
-10934,49,5,yes,Rarely,Special Event,Curiosity Museum,No,3.563730740956284,4.0,2.0,3.0,4.0,3
-10935,51,5,no,First visit,Nature,Garden,Yes,3.594545381758042,4.0,4.0,3.0,3.0,2
-10936,45,3,no,First visit,Entertainment,Farm,Yes,9.095826269504851,4.0,4.0,4.0,3.0,4
-10937,48,4,yes,Quarterly,Family Time,Dinosaurs,No,20.73649973538803,5.0,3.0,5.0,5.0,5
-10938,25,4,yes,Rarely,Special Event,Garden,Yes,0.0,4.0,5.0,4.0,5.0,2
-10939,56,6,no,First visit,Family Time,Events,No,9.043270026482208,4.0,4.0,3.0,4.0,4
-10940,43,1,no,First visit,Education,Farm,No,14.377923330012784,4.0,3.0,4.0,4.0,5
-10941,51,3,yes,Weekly,Family Time,Events,Yes,0.0,4.0,4.0,5.0,4.0,2
-10942,71,7,no,First visit,Family Time,Farm,No,41.949978025125255,4.0,3.0,4.0,4.0,5
-10943,71,4,yes,Rarely,Exhibits,Garden,Yes,2.1975677990798763,5.0,4.0,5.0,5.0,5
-10944,20,4,no,Rarely,Special Event,Dinosaurs,No,4.958446295497644,3.0,2.0,3.0,3.0,1
-10945,67,2,no,First visit,Education,Events,No,0.3253807526625313,5.0,3.0,5.0,4.0,4
-10946,29,7,no,First visit,Family Time,Farm,No,41.97720130707176,5.0,2.0,5.0,5.0,5
-10947,18,1,no,Rarely,Nature,Curiosity Museum,No,23.293578428992223,4.0,4.0,3.0,4.0,4
-10948,71,5,no,Quarterly,Entertainment,Garden,No,0.9511199063453679,5.0,3.0,5.0,5.0,4
-10949,61,5,no,Rarely,Family Time,Dinosaurs,No,31.593473382899532,4.0,3.0,4.0,4.0,2
-10950,22,3,yes,Quarterly,Education,Garden,Yes,18.010480414333173,4.0,5.0,4.0,3.0,4
-10951,47,5,yes,Weekly,Family Time,Curiosity Museum,Yes,18.858801316672526,5.0,4.0,5.0,5.0,5
-10952,47,1,yes,Quarterly,Entertainment,Dinosaurs,No,9.832841868713206,4.0,2.0,4.0,4.0,3
-10953,74,3,no,Rarely,Education,Curiosity Museum,No,3.7587601956454004,5.0,3.0,5.0,4.0,5
-10954,34,5,yes,Rarely,Special Event,Garden,No,20.06649148581902,4.0,3.0,4.0,3.0,2
-10955,65,6,no,Quarterly,Education,Farm,No,6.823691550066145,4.0,2.0,4.0,5.0,4
-10956,64,5,no,Quarterly,Special Event,Garden,Yes,42.25133444362657,4.0,3.0,3.0,4.0,5
-10957,40,4,no,Rarely,Education,Garden,No,0.0,3.0,3.0,3.0,4.0,3
-10958,32,3,no,Quarterly,Entertainment,Garden,No,38.042351592824176,4.0,3.0,4.0,4.0,5
-10959,54,1,no,First visit,Entertainment,Events,Yes,13.330217268032989,3.0,3.0,3.0,3.0,5
-10960,38,2,no,Rarely,Education,Curiosity Museum,Yes,19.48628601031659,4.0,5.0,4.0,4.0,1
-10961,31,3,no,First visit,Family Time,Curiosity Museum,No,27.49736649944152,5.0,3.0,5.0,5.0,5
-10962,19,3,no,First visit,Entertainment,Curiosity Museum,Yes,5.546260574933456,5.0,4.0,5.0,5.0,5
-10963,28,4,no,First visit,Special Event,Events,Yes,27.963725770479545,3.0,4.0,3.0,3.0,2
-10964,68,3,yes,Quarterly,Special Event,Farm,Yes,0.0,4.0,3.0,4.0,3.0,3
-10965,56,3,no,Rarely,Nature,Garden,No,4.200157001670913,3.0,4.0,3.0,5.0,0
-10966,55,4,no,First visit,Exhibits,Farm,No,1.1390578898840191,3.0,3.0,3.0,3.0,2
-10967,51,6,yes,Rarely,Exhibits,Events,No,0.0,5.0,2.0,5.0,5.0,5
-10968,55,3,no,Rarely,Exhibits,Curiosity Museum,No,11.775677428815733,5.0,4.0,5.0,5.0,3
-10969,67,6,yes,First visit,Special Event,Garden,Yes,20.786249522725424,3.0,5.0,3.0,3.0,3
-10970,51,6,no,Quarterly,Nature,Dinosaurs,No,25.539899977489586,5.0,4.0,5.0,5.0,5
-10971,35,3,yes,Quarterly,Exhibits,Dinosaurs,Yes,18.613151358006114,5.0,5.0,5.0,5.0,5
-10972,47,5,no,Quarterly,Exhibits,Farm,Yes,5.0145980265967935,5.0,3.0,5.0,5.0,5
-10973,32,4,no,Quarterly,Education,Curiosity Museum,No,20.535246567377506,5.0,2.0,5.0,4.0,3
-10974,44,4,no,Rarely,Education,Dinosaurs,No,16.864285422762762,4.0,4.0,4.0,4.0,4
-10975,68,4,no,First visit,Education,Farm,Yes,29.040842519040243,5.0,5.0,5.0,5.0,5
-10976,51,4,yes,First visit,Family Time,Events,Yes,26.65405054397275,5.0,5.0,5.0,5.0,5
-10977,69,4,no,First visit,Exhibits,Farm,No,15.457146208809434,4.0,3.0,4.0,5.0,5
-10978,74,4,yes,Weekly,Family Time,Farm,Yes,1.541204907581148,4.0,3.0,4.0,4.0,2
-10979,55,5,no,First visit,Nature,Farm,Yes,5.205747662518788,3.0,3.0,3.0,2.0,0
-10980,50,5,no,First visit,Special Event,Garden,Yes,6.7531596054295004,5.0,2.0,5.0,4.0,3
-10981,41,4,no,Monthly,Exhibits,Farm,Yes,10.271004991256163,4.0,4.0,4.0,4.0,4
-10982,32,5,no,Monthly,Special Event,Farm,No,19.0207564138463,4.0,4.0,4.0,4.0,4
-10983,47,2,no,Quarterly,Education,Garden,Yes,25.727615851920877,5.0,4.0,5.0,5.0,4
-10984,72,3,no,First visit,Exhibits,Garden,Yes,14.233219604769335,4.0,4.0,4.0,4.0,4
-10985,59,6,no,First visit,Entertainment,Events,No,15.241871818507088,5.0,4.0,5.0,5.0,5
-10986,68,3,no,Rarely,Family Time,Curiosity Museum,No,17.14959457500007,5.0,3.0,5.0,5.0,5
-10987,34,1,yes,First visit,Family Time,Dinosaurs,Yes,7.2614203030149,5.0,5.0,5.0,4.0,5
-10988,22,3,yes,First visit,Exhibits,Dinosaurs,Yes,1.119116135355659,4.0,5.0,4.0,3.0,5
-10989,46,3,yes,Rarely,Education,Farm,Yes,0.0,5.0,4.0,5.0,5.0,3
+10930,21,3,no,Quarterly,Special Event,Events,No,21.600898935347175,4.0,2.0,3.0,4.0,2
+10931,18,4,no,Monthly,Education,Events,No,0.0,3.0,3.0,3.0,4.0,0
+10932,66,1,yes,Quarterly,Nature,Garden,Yes,21.858195955387707,4.0,3.0,5.0,4.0,5
+10933,57,7,no,First visit,Entertainment,Garden,No,9.099265533830144,4.0,1.0,4.0,5.0,4
+10934,49,5,yes,Rarely,Special Event,Curiosity Museum,No,3.563730740956284,4.0,4.0,4.0,5.0,1
+10935,51,5,no,First visit,Nature,Garden,Yes,3.594545381758042,4.0,5.0,4.0,4.0,3
+10936,45,3,no,First visit,Entertainment,Farm,Yes,9.095826269504851,5.0,4.0,5.0,4.0,5
+10937,48,4,yes,Quarterly,Family Time,Dinosaurs,No,20.73649973538803,5.0,3.0,5.0,5.0,3
+10938,25,4,yes,Rarely,Special Event,Garden,Yes,0.0,4.0,4.0,4.0,5.0,5
+10939,56,6,no,First visit,Family Time,Events,No,9.043270026482208,5.0,3.0,5.0,5.0,5
+10940,43,1,no,First visit,Education,Farm,No,14.377923330012784,5.0,3.0,5.0,5.0,5
+10941,51,3,yes,Weekly,Family Time,Events,Yes,0.0,4.0,4.0,4.0,5.0,4
+10942,71,7,no,First visit,Family Time,Farm,No,41.949978025125255,3.0,3.0,3.0,3.0,4
+10943,71,4,yes,Rarely,Exhibits,Garden,Yes,2.1975677990798763,5.0,5.0,5.0,5.0,5
+10944,20,4,no,Rarely,Special Event,Dinosaurs,No,4.958446295497644,4.0,2.0,4.0,4.0,3
+10945,67,2,no,First visit,Education,Events,No,0.3253807526625313,3.0,4.0,3.0,3.0,2
+10946,29,7,no,First visit,Family Time,Farm,No,41.97720130707176,3.0,3.0,3.0,3.0,4
+10947,18,1,no,Rarely,Nature,Curiosity Museum,No,23.293578428992223,3.0,5.0,3.0,3.0,0
+10948,71,5,no,Quarterly,Entertainment,Garden,No,0.9511199063453679,5.0,3.0,5.0,5.0,5
+10949,61,5,no,Rarely,Family Time,Dinosaurs,No,31.593473382899532,4.0,3.0,4.0,3.0,3
+10950,22,3,yes,Quarterly,Education,Garden,Yes,18.010480414333173,5.0,4.0,5.0,5.0,5
+10951,47,5,yes,Weekly,Family Time,Curiosity Museum,Yes,18.858801316672526,4.0,4.0,4.0,4.0,4
+10952,47,1,yes,Quarterly,Entertainment,Dinosaurs,No,9.832841868713206,3.0,2.0,3.0,2.0,1
+10953,74,3,no,Rarely,Education,Curiosity Museum,No,3.7587601956454004,5.0,3.0,5.0,5.0,5
+10954,34,5,yes,Rarely,Special Event,Garden,No,20.06649148581902,4.0,2.0,5.0,4.0,4
+10955,65,6,no,Quarterly,Education,Farm,No,6.823691550066145,3.0,2.0,3.0,4.0,2
+10956,64,5,no,Quarterly,Special Event,Garden,Yes,42.25133444362657,4.0,4.0,4.0,4.0,5
+10957,40,4,no,Rarely,Education,Garden,No,0.0,4.0,3.0,4.0,3.0,5
+10958,32,3,no,Quarterly,Entertainment,Garden,No,38.042351592824176,5.0,2.0,5.0,5.0,5
+10959,54,1,no,First visit,Entertainment,Events,Yes,13.330217268032989,5.0,4.0,5.0,5.0,5
+10960,38,2,no,Rarely,Education,Curiosity Museum,Yes,19.48628601031659,4.0,4.0,4.0,4.0,5
+10961,31,3,no,First visit,Family Time,Curiosity Museum,No,27.49736649944152,5.0,3.0,5.0,5.0,2
+10962,19,3,no,First visit,Entertainment,Curiosity Museum,Yes,5.546260574933456,3.0,3.0,3.0,2.0,2
+10963,28,4,no,First visit,Special Event,Events,Yes,27.963725770479545,5.0,3.0,5.0,4.0,4
+10964,68,3,yes,Quarterly,Special Event,Farm,Yes,0.0,4.0,3.0,4.0,5.0,4
+10965,56,3,no,Rarely,Nature,Garden,No,4.200157001670913,4.0,3.0,3.0,4.0,5
+10966,55,4,no,First visit,Exhibits,Farm,No,1.1390578898840191,3.0,3.0,3.0,3.0,3
+10967,51,6,yes,Rarely,Exhibits,Events,No,0.0,4.0,5.0,3.0,4.0,2
+10968,55,3,no,Rarely,Exhibits,Curiosity Museum,No,11.775677428815733,3.0,3.0,3.0,3.0,0
+10969,67,6,yes,First visit,Special Event,Garden,Yes,20.786249522725424,5.0,4.0,4.0,5.0,5
+10970,51,6,no,Quarterly,Nature,Dinosaurs,No,25.539899977489586,5.0,3.0,5.0,5.0,3
+10971,35,3,yes,Quarterly,Exhibits,Dinosaurs,Yes,18.613151358006114,4.0,3.0,3.0,4.0,3
+10972,47,5,no,Quarterly,Exhibits,Farm,Yes,5.0145980265967935,4.0,5.0,4.0,4.0,1
+10973,32,4,no,Quarterly,Education,Curiosity Museum,No,20.535246567377506,5.0,1.0,5.0,5.0,3
+10974,44,4,no,Rarely,Education,Dinosaurs,No,16.864285422762762,5.0,3.0,5.0,5.0,4
+10975,68,4,no,First visit,Education,Farm,Yes,29.040842519040243,3.0,4.0,3.0,3.0,3
+10976,51,4,yes,First visit,Family Time,Events,Yes,26.65405054397275,4.0,4.0,4.0,4.0,0
+10977,69,4,no,First visit,Exhibits,Farm,No,15.457146208809434,3.0,3.0,4.0,3.0,1
+10978,74,4,yes,Weekly,Family Time,Farm,Yes,1.541204907581148,5.0,4.0,5.0,4.0,5
+10979,55,5,no,First visit,Nature,Farm,Yes,5.205747662518788,4.0,5.0,4.0,3.0,3
+10980,50,5,no,First visit,Special Event,Garden,Yes,6.7531596054295004,5.0,4.0,5.0,5.0,1
+10981,41,4,no,Monthly,Exhibits,Farm,Yes,10.271004991256163,5.0,3.0,5.0,5.0,5
+10982,32,5,no,Monthly,Special Event,Farm,No,19.0207564138463,4.0,4.0,4.0,4.0,5
+10983,47,2,no,Quarterly,Education,Garden,Yes,25.727615851920877,4.0,3.0,5.0,4.0,1
+10984,72,3,no,First visit,Exhibits,Garden,Yes,14.233219604769335,5.0,4.0,5.0,5.0,5
+10985,59,6,no,First visit,Entertainment,Events,No,15.241871818507088,5.0,4.0,5.0,5.0,2
+10986,68,3,no,Rarely,Family Time,Curiosity Museum,No,17.14959457500007,5.0,1.0,5.0,5.0,5
+10987,34,1,yes,First visit,Family Time,Dinosaurs,Yes,7.2614203030149,5.0,4.0,5.0,5.0,1
+10988,22,3,yes,First visit,Exhibits,Dinosaurs,Yes,1.119116135355659,4.0,2.0,4.0,4.0,3
+10989,46,3,yes,Rarely,Education,Farm,Yes,0.0,4.0,5.0,4.0,4.0,5
 10990,21,7,no,Monthly,Family Time,Events,No,4.572759628846914,5.0,3.0,5.0,5.0,5
-10991,27,4,yes,First visit,Education,Farm,No,22.097181799016806,4.0,4.0,4.0,4.0,1
-10992,73,6,no,Quarterly,Nature,Dinosaurs,No,4.456328429406488,4.0,3.0,3.0,4.0,0
-10993,34,4,no,Quarterly,Special Event,Garden,No,11.432894438610905,3.0,2.0,3.0,3.0,3
-10994,27,4,yes,First visit,Entertainment,Curiosity Museum,No,21.996469311184754,4.0,4.0,4.0,5.0,3
-10995,34,3,no,Quarterly,Special Event,Events,No,22.81034244634003,3.0,4.0,3.0,4.0,5
-10996,37,5,no,First visit,Special Event,Garden,No,0.0,4.0,3.0,4.0,4.0,4
-10997,41,2,yes,First visit,Nature,Curiosity Museum,Yes,29.955890346804622,5.0,3.0,4.0,5.0,3
-10998,22,6,no,Quarterly,Family Time,Events,No,31.91025134033228,4.0,2.0,5.0,4.0,3
-10999,51,6,yes,First visit,Entertainment,Events,Yes,0.0,4.0,4.0,5.0,4.0,5
-11000,23,3,no,Weekly,Family Time,Dinosaurs,Yes,2.642446955382687,4.0,3.0,4.0,4.0,2
-11001,70,7,no,First visit,Exhibits,Garden,No,32.86636024719287,3.0,3.0,4.0,3.0,2
-11002,19,6,no,Quarterly,Special Event,Events,Yes,12.797197181170487,4.0,5.0,4.0,4.0,5
-11003,30,5,no,Rarely,Exhibits,Events,No,0.0,4.0,4.0,5.0,4.0,1
-11004,60,2,no,First visit,Education,Curiosity Museum,No,0.0,3.0,4.0,3.0,4.0,1
-11005,60,4,no,First visit,Special Event,Dinosaurs,No,11.259455622412782,5.0,2.0,5.0,5.0,5
-11006,65,4,yes,Quarterly,Family Time,Farm,No,0.0,4.0,3.0,3.0,4.0,4
-11007,28,3,yes,Quarterly,Special Event,Dinosaurs,Yes,8.798643440453379,5.0,4.0,5.0,5.0,5
-11008,68,1,no,Quarterly,Education,Farm,No,15.485943205253681,4.0,4.0,4.0,4.0,4
-11009,64,5,no,Rarely,Nature,Garden,No,36.93381906052093,5.0,4.0,5.0,5.0,5
-11010,74,2,no,Quarterly,Exhibits,Garden,No,10.643191256583165,5.0,4.0,5.0,5.0,4
-11011,40,4,no,Quarterly,Exhibits,Events,No,31.088126993591384,5.0,5.0,5.0,5.0,5
-11012,72,6,no,Quarterly,Family Time,Garden,Yes,36.43140243055156,5.0,4.0,5.0,5.0,5
+10991,27,4,yes,First visit,Education,Farm,No,22.097181799016806,5.0,4.0,5.0,5.0,2
+10992,73,6,no,Quarterly,Nature,Dinosaurs,No,4.456328429406488,5.0,3.0,5.0,5.0,3
+10993,34,4,no,Quarterly,Special Event,Garden,No,11.432894438610905,5.0,3.0,5.0,5.0,4
+10994,27,4,yes,First visit,Entertainment,Curiosity Museum,No,21.996469311184754,5.0,2.0,5.0,5.0,3
+10995,34,3,no,Quarterly,Special Event,Events,No,22.81034244634003,3.0,4.0,2.0,4.0,4
+10996,37,5,no,First visit,Special Event,Garden,No,0.0,4.0,4.0,4.0,4.0,2
+10997,41,2,yes,First visit,Nature,Curiosity Museum,Yes,29.955890346804622,5.0,5.0,5.0,5.0,4
+10998,22,6,no,Quarterly,Family Time,Events,No,31.91025134033228,5.0,3.0,5.0,5.0,3
+10999,51,6,yes,First visit,Entertainment,Events,Yes,0.0,4.0,4.0,4.0,5.0,5
+11000,23,3,no,Weekly,Family Time,Dinosaurs,Yes,2.642446955382687,5.0,4.0,5.0,5.0,5
+11001,70,7,no,First visit,Exhibits,Garden,No,32.86636024719287,4.0,3.0,4.0,3.0,3
+11002,19,6,no,Quarterly,Special Event,Events,Yes,12.797197181170487,5.0,3.0,5.0,5.0,4
+11003,30,5,no,Rarely,Exhibits,Events,No,0.0,5.0,3.0,5.0,4.0,2
+11004,60,2,no,First visit,Education,Curiosity Museum,No,0.0,4.0,3.0,4.0,3.0,2
+11005,60,4,no,First visit,Special Event,Dinosaurs,No,11.259455622412782,5.0,4.0,5.0,5.0,4
+11006,65,4,yes,Quarterly,Family Time,Farm,No,0.0,4.0,3.0,4.0,4.0,1
+11007,28,3,yes,Quarterly,Special Event,Dinosaurs,Yes,8.798643440453379,4.0,4.0,4.0,4.0,4
+11008,68,1,no,Quarterly,Education,Farm,No,15.485943205253681,4.0,5.0,4.0,4.0,3
+11009,64,5,no,Rarely,Nature,Garden,No,36.93381906052093,4.0,3.0,5.0,4.0,5
+11010,74,2,no,Quarterly,Exhibits,Garden,No,10.643191256583165,4.0,4.0,3.0,4.0,3
+11011,40,4,no,Quarterly,Exhibits,Events,No,31.088126993591384,3.0,5.0,3.0,3.0,4
+11012,72,6,no,Quarterly,Family Time,Garden,Yes,36.43140243055156,5.0,5.0,4.0,5.0,5
 11013,33,6,yes,Rarely,Special Event,Events,No,36.51464504028114,5.0,4.0,5.0,5.0,5
-11014,48,3,no,Quarterly,Family Time,Dinosaurs,Yes,19.271318900783523,5.0,4.0,5.0,4.0,3
-11015,28,6,no,Quarterly,Nature,Garden,No,0.0,5.0,3.0,5.0,5.0,5
-11016,71,1,yes,Rarely,Special Event,Dinosaurs,Yes,21.91237298105798,4.0,5.0,4.0,5.0,3
-11017,33,1,yes,Quarterly,Special Event,Dinosaurs,No,30.725998317203114,4.0,4.0,5.0,4.0,2
-11018,25,5,yes,Quarterly,Family Time,Garden,Yes,13.783993418468743,4.0,4.0,3.0,4.0,5
-11019,21,4,no,First visit,Family Time,Dinosaurs,Yes,41.168758051128734,4.0,4.0,5.0,4.0,5
-11020,57,4,no,First visit,Education,Garden,No,27.897503422011866,5.0,4.0,5.0,5.0,3
-11021,21,4,yes,Rarely,Nature,Garden,No,23.524100657291765,5.0,1.0,5.0,5.0,3
-11022,73,3,yes,Rarely,Education,Garden,No,31.29571066808757,5.0,2.0,5.0,4.0,4
-11023,42,3,yes,Quarterly,Exhibits,Farm,No,20.000547768913172,3.0,4.0,4.0,2.0,3
-11024,20,4,no,First visit,Special Event,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,1
-11025,49,5,no,Quarterly,Family Time,Curiosity Museum,No,7.512915727944516,4.0,4.0,4.0,4.0,2
-11026,20,5,no,Monthly,Special Event,Garden,Yes,32.957520408717805,5.0,4.0,5.0,5.0,5
-11027,44,3,no,First visit,Special Event,Dinosaurs,No,2.8861298985255597,4.0,4.0,4.0,4.0,4
-11028,46,4,no,Monthly,Entertainment,Events,Yes,11.647912421445913,4.0,3.0,5.0,4.0,1
-11029,49,3,no,Weekly,Exhibits,Garden,No,0.0,4.0,4.0,4.0,4.0,2
-11030,67,1,no,Quarterly,Entertainment,Garden,No,41.75883892802654,3.0,4.0,4.0,3.0,3
-11031,68,5,yes,Quarterly,Special Event,Curiosity Museum,No,40.22238686127023,5.0,4.0,5.0,4.0,3
-11032,36,3,yes,Weekly,Family Time,Farm,No,1.7419665728890603,5.0,5.0,5.0,5.0,4
-11033,38,3,yes,Quarterly,Special Event,Farm,No,17.20947000583626,5.0,3.0,5.0,5.0,5
-11034,22,5,yes,First visit,Exhibits,Garden,No,4.792589283539282,5.0,3.0,5.0,4.0,5
-11035,35,5,no,Quarterly,Entertainment,Dinosaurs,Yes,24.224169585470673,5.0,3.0,5.0,5.0,5
-11036,45,5,no,Quarterly,Family Time,Events,No,22.645246158634933,5.0,3.0,5.0,5.0,4
-11037,59,3,yes,Quarterly,Special Event,Events,Yes,27.17558357419898,3.0,4.0,3.0,4.0,5
-11038,39,3,no,First visit,Nature,Dinosaurs,No,19.97877671561831,5.0,4.0,5.0,5.0,5
-11039,38,3,no,Quarterly,Exhibits,Garden,Yes,59.03109309582702,5.0,3.0,5.0,5.0,2
-11040,23,3,yes,First visit,Exhibits,Events,Yes,0.0,5.0,4.0,4.0,5.0,5
-11041,18,5,no,Monthly,Nature,Farm,Yes,0.0,3.0,4.0,3.0,3.0,5
-11042,22,6,no,First visit,Special Event,Dinosaurs,No,9.103646989478078,4.0,3.0,3.0,5.0,3
-11043,58,5,no,First visit,Exhibits,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,5
-11044,29,5,yes,Rarely,Family Time,Garden,Yes,0.0,4.0,3.0,4.0,4.0,2
-11045,43,4,yes,First visit,Special Event,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,5
-11046,63,5,no,Quarterly,Special Event,Events,Yes,1.1671664185255881,4.0,2.0,4.0,5.0,3
-11047,51,4,yes,Monthly,Entertainment,Garden,No,0.6807284707490979,5.0,3.0,5.0,5.0,2
-11048,66,4,no,Quarterly,Exhibits,Farm,No,22.773284256681173,5.0,3.0,5.0,4.0,2
-11049,31,4,no,First visit,Exhibits,Garden,No,7.407164083719958,5.0,3.0,5.0,5.0,4
-11050,43,3,no,First visit,Nature,Garden,No,12.307281376912798,5.0,4.0,5.0,5.0,5
-11051,62,4,no,Quarterly,Entertainment,Farm,Yes,28.413491617514023,3.0,4.0,3.0,4.0,1
-11052,44,7,no,Monthly,Entertainment,Farm,No,3.505162128278606,5.0,3.0,5.0,5.0,3
+11014,48,3,no,Quarterly,Family Time,Dinosaurs,Yes,19.271318900783523,4.0,4.0,4.0,4.0,3
+11015,28,6,no,Quarterly,Nature,Garden,No,0.0,4.0,3.0,4.0,4.0,3
+11016,71,1,yes,Rarely,Special Event,Dinosaurs,Yes,21.91237298105798,3.0,3.0,3.0,3.0,3
+11017,33,1,yes,Quarterly,Special Event,Dinosaurs,No,30.725998317203114,5.0,4.0,5.0,4.0,3
+11018,25,5,yes,Quarterly,Family Time,Garden,Yes,13.783993418468743,4.0,4.0,3.0,4.0,3
+11019,21,4,no,First visit,Family Time,Dinosaurs,Yes,41.168758051128734,4.0,4.0,4.0,4.0,1
+11020,57,4,no,First visit,Education,Garden,No,27.897503422011866,4.0,4.0,5.0,4.0,4
+11021,21,4,yes,Rarely,Nature,Garden,No,23.524100657291765,5.0,2.0,5.0,4.0,5
+11022,73,3,yes,Rarely,Education,Garden,No,31.29571066808757,5.0,5.0,5.0,4.0,3
+11023,42,3,yes,Quarterly,Exhibits,Farm,No,20.000547768913172,5.0,4.0,5.0,5.0,4
+11024,20,4,no,First visit,Special Event,Dinosaurs,No,0.0,5.0,3.0,4.0,5.0,3
+11025,49,5,no,Quarterly,Family Time,Curiosity Museum,No,7.512915727944516,5.0,3.0,4.0,5.0,4
+11026,20,5,no,Monthly,Special Event,Garden,Yes,32.957520408717805,4.0,4.0,4.0,4.0,4
+11027,44,3,no,First visit,Special Event,Dinosaurs,No,2.8861298985255597,4.0,4.0,4.0,5.0,5
+11028,46,4,no,Monthly,Entertainment,Events,Yes,11.647912421445913,4.0,4.0,4.0,4.0,3
+11029,49,3,no,Weekly,Exhibits,Garden,No,0.0,5.0,3.0,4.0,5.0,5
+11030,67,1,no,Quarterly,Entertainment,Garden,No,41.75883892802654,5.0,3.0,5.0,4.0,3
+11031,68,5,yes,Quarterly,Special Event,Curiosity Museum,No,40.22238686127023,4.0,5.0,4.0,4.0,0
+11032,36,3,yes,Weekly,Family Time,Farm,No,1.7419665728890603,5.0,3.0,5.0,5.0,5
+11033,38,3,yes,Quarterly,Special Event,Farm,No,17.20947000583626,5.0,3.0,5.0,5.0,4
+11034,22,5,yes,First visit,Exhibits,Garden,No,4.792589283539282,4.0,4.0,4.0,4.0,5
+11035,35,5,no,Quarterly,Entertainment,Dinosaurs,Yes,24.224169585470673,3.0,4.0,4.0,3.0,4
+11036,45,5,no,Quarterly,Family Time,Events,No,22.645246158634933,5.0,4.0,5.0,5.0,5
+11037,59,3,yes,Quarterly,Special Event,Events,Yes,27.17558357419898,5.0,3.0,5.0,5.0,1
+11038,39,3,no,First visit,Nature,Dinosaurs,No,19.97877671561831,3.0,3.0,3.0,2.0,2
+11039,38,3,no,Quarterly,Exhibits,Garden,Yes,59.03109309582702,5.0,5.0,5.0,5.0,1
+11040,23,3,yes,First visit,Exhibits,Events,Yes,0.0,5.0,3.0,5.0,5.0,4
+11041,18,5,no,Monthly,Nature,Farm,Yes,0.0,5.0,4.0,5.0,5.0,5
+11042,22,6,no,First visit,Special Event,Dinosaurs,No,9.103646989478078,5.0,3.0,4.0,5.0,2
+11043,58,5,no,First visit,Exhibits,Curiosity Museum,No,0.0,5.0,2.0,5.0,4.0,2
+11044,29,5,yes,Rarely,Family Time,Garden,Yes,0.0,5.0,3.0,4.0,4.0,5
+11045,43,4,yes,First visit,Special Event,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,4
+11046,63,5,no,Quarterly,Special Event,Events,Yes,1.1671664185255881,5.0,4.0,5.0,5.0,3
+11047,51,4,yes,Monthly,Entertainment,Garden,No,0.6807284707490979,4.0,4.0,5.0,5.0,5
+11048,66,4,no,Quarterly,Exhibits,Farm,No,22.773284256681173,4.0,4.0,4.0,4.0,2
+11049,31,4,no,First visit,Exhibits,Garden,No,7.407164083719958,4.0,3.0,4.0,4.0,3
+11050,43,3,no,First visit,Nature,Garden,No,12.307281376912798,4.0,3.0,4.0,4.0,3
+11051,62,4,no,Quarterly,Entertainment,Farm,Yes,28.413491617514023,4.0,4.0,4.0,4.0,2
+11052,44,7,no,Monthly,Entertainment,Farm,No,3.505162128278606,4.0,4.0,5.0,4.0,2
 11053,26,3,yes,Rarely,Exhibits,Garden,No,11.031811519429167,5.0,4.0,5.0,5.0,5
-11054,43,2,no,Rarely,Special Event,Farm,No,20.486399791393733,4.0,4.0,4.0,5.0,5
-11055,74,4,no,First visit,Entertainment,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,3
-11056,64,5,no,Monthly,Nature,Farm,Yes,0.0,5.0,3.0,5.0,5.0,2
-11057,74,4,yes,Quarterly,Entertainment,Farm,No,20.19175993196584,4.0,3.0,4.0,4.0,2
-11058,39,5,no,First visit,Nature,Garden,No,22.380214208503478,5.0,4.0,4.0,4.0,5
-11059,64,3,no,First visit,Entertainment,Dinosaurs,Yes,45.96330202278616,4.0,5.0,4.0,4.0,3
-11060,73,5,yes,Monthly,Nature,Curiosity Museum,Yes,17.37142313800215,4.0,5.0,4.0,3.0,3
-11061,47,3,yes,First visit,Entertainment,Curiosity Museum,Yes,27.296095758871424,4.0,3.0,4.0,4.0,3
-11062,60,6,yes,First visit,Entertainment,Events,No,12.067910346210393,5.0,3.0,5.0,4.0,3
-11063,65,5,no,Quarterly,Family Time,Farm,No,19.458408323776297,4.0,4.0,4.0,3.0,3
-11064,34,3,yes,First visit,Nature,Farm,Yes,40.00885262624301,5.0,5.0,4.0,5.0,4
-11065,43,1,yes,First visit,Nature,Dinosaurs,Yes,0.0,3.0,5.0,3.0,4.0,1
-11066,53,1,no,Quarterly,Nature,Curiosity Museum,No,21.204243863575208,4.0,3.0,4.0,4.0,5
-11067,18,4,yes,Monthly,Education,Events,No,47.033800951160494,5.0,2.0,5.0,5.0,5
-11068,25,3,yes,Quarterly,Entertainment,Dinosaurs,Yes,19.230513288140138,4.0,3.0,4.0,4.0,5
-11069,66,5,yes,Monthly,Nature,Farm,Yes,39.758594448492715,4.0,4.0,4.0,4.0,4
-11070,52,4,yes,Quarterly,Exhibits,Curiosity Museum,No,5.561817757058364,5.0,3.0,5.0,5.0,5
-11071,69,3,yes,Quarterly,Education,Events,Yes,14.519287587544298,5.0,3.0,5.0,5.0,5
-11072,32,2,no,Rarely,Family Time,Garden,Yes,15.502870535828812,5.0,4.0,5.0,5.0,4
-11073,64,2,yes,Quarterly,Nature,Curiosity Museum,No,0.0,4.0,4.0,4.0,4.0,5
-11074,73,6,yes,Weekly,Nature,Events,No,0.0,4.0,2.0,4.0,4.0,4
-11075,39,3,no,First visit,Education,Dinosaurs,Yes,0.0,5.0,5.0,5.0,5.0,5
-11076,31,5,no,Rarely,Entertainment,Garden,Yes,27.330991170487913,4.0,3.0,4.0,4.0,2
-11077,43,6,no,Rarely,Exhibits,Events,Yes,28.082296585260824,4.0,5.0,4.0,4.0,5
-11078,45,5,no,First visit,Family Time,Events,Yes,19.860546640598,5.0,3.0,5.0,5.0,5
-11079,40,6,yes,First visit,Nature,Farm,No,27.361543452835587,5.0,2.0,5.0,5.0,5
-11080,31,4,no,Quarterly,Entertainment,Curiosity Museum,No,12.537758809173392,3.0,3.0,3.0,3.0,2
-11081,41,7,no,Weekly,Exhibits,Farm,No,33.02897504309315,4.0,3.0,5.0,4.0,5
-11082,19,2,no,Rarely,Exhibits,Garden,No,15.131826639481078,4.0,3.0,4.0,4.0,4
-11083,62,2,no,First visit,Family Time,Events,No,15.867960711401347,5.0,3.0,5.0,5.0,5
-11084,43,5,yes,First visit,Special Event,Farm,Yes,11.01611050106383,5.0,4.0,5.0,5.0,3
-11085,31,6,no,Monthly,Exhibits,Curiosity Museum,No,25.26675716454642,5.0,3.0,5.0,5.0,5
-11086,73,6,yes,Rarely,Special Event,Garden,No,8.682017750806303,4.0,3.0,4.0,5.0,3
-11087,68,1,no,First visit,Exhibits,Dinosaurs,No,29.646470657971022,5.0,2.0,4.0,5.0,5
-11088,24,3,no,Rarely,Family Time,Farm,Yes,0.0,5.0,4.0,5.0,5.0,5
-11089,20,6,no,First visit,Education,Garden,No,0.0,4.0,3.0,5.0,4.0,3
-11090,64,3,yes,Rarely,Family Time,Dinosaurs,No,25.311401326897563,5.0,4.0,5.0,5.0,5
-11091,40,5,no,Monthly,Family Time,Farm,No,13.67183678125481,5.0,2.0,4.0,5.0,5
-11092,63,6,no,Quarterly,Education,Garden,Yes,8.191628757703075,3.0,2.0,4.0,2.0,0
-11093,60,4,no,Quarterly,Education,Garden,No,28.350865987131897,5.0,4.0,5.0,5.0,2
-11094,64,4,no,Rarely,Entertainment,Farm,No,5.891078788708733,5.0,3.0,5.0,5.0,5
-11095,62,4,no,Quarterly,Exhibits,Garden,No,11.996981185494452,4.0,2.0,4.0,4.0,4
-11096,35,3,no,Quarterly,Entertainment,Events,No,35.98841925106739,5.0,2.0,5.0,5.0,5
-11097,55,6,yes,First visit,Education,Farm,Yes,38.08713518715975,4.0,5.0,4.0,3.0,1
-11098,52,4,no,Quarterly,Special Event,Garden,Yes,38.585973154054905,3.0,5.0,4.0,4.0,2
-11099,68,6,yes,First visit,Special Event,Dinosaurs,Yes,10.768113345991331,5.0,2.0,5.0,5.0,3
-11100,32,2,no,Quarterly,Family Time,Dinosaurs,No,33.46054357476705,5.0,3.0,4.0,5.0,5
-11101,42,7,no,Rarely,Nature,Events,Yes,0.7657075834698307,5.0,5.0,5.0,4.0,5
-11102,72,4,no,Weekly,Family Time,Farm,No,1.3964568791690883,4.0,3.0,4.0,4.0,5
-11103,54,1,yes,First visit,Family Time,Garden,No,0.0,5.0,3.0,5.0,4.0,5
-11104,45,1,no,Quarterly,Nature,Garden,Yes,40.09302302847795,4.0,4.0,4.0,4.0,1
-11105,27,5,no,Quarterly,Exhibits,Dinosaurs,No,2.040302263858826,5.0,2.0,5.0,5.0,5
-11106,56,5,no,Quarterly,Education,Events,No,13.1020113037941,4.0,2.0,5.0,3.0,2
-11107,74,6,no,First visit,Special Event,Dinosaurs,No,1.3451348710757411,4.0,4.0,4.0,4.0,2
-11108,34,2,yes,Rarely,Family Time,Dinosaurs,No,25.427478724952106,5.0,2.0,5.0,5.0,3
-11109,56,1,no,Quarterly,Nature,Events,No,9.365495089239898,5.0,3.0,5.0,4.0,5
-11110,39,4,no,First visit,Entertainment,Farm,Yes,0.0,5.0,5.0,5.0,5.0,4
-11111,43,4,yes,First visit,Family Time,Garden,No,21.624938462790908,4.0,2.0,4.0,4.0,3
-11112,61,4,yes,Quarterly,Special Event,Farm,Yes,0.0,5.0,3.0,5.0,5.0,4
-11113,42,8,no,Rarely,Education,Curiosity Museum,No,2.4389141202676305,4.0,4.0,3.0,4.0,2
-11114,34,7,no,First visit,Family Time,Curiosity Museum,Yes,0.0,4.0,4.0,4.0,4.0,1
-11115,30,6,no,First visit,Family Time,Curiosity Museum,No,0.0,4.0,3.0,4.0,4.0,5
-11116,37,5,no,First visit,Exhibits,Events,No,17.67793754580717,5.0,4.0,5.0,5.0,5
-11117,42,4,yes,Quarterly,Nature,Dinosaurs,No,0.0,4.0,4.0,5.0,4.0,5
-11118,21,4,yes,Quarterly,Entertainment,Farm,Yes,0.0,4.0,4.0,4.0,4.0,4
-11119,27,4,yes,Quarterly,Entertainment,Garden,No,14.96446625800788,5.0,2.0,5.0,5.0,1
-11120,20,6,yes,Weekly,Education,Curiosity Museum,No,6.8458965586042115,5.0,3.0,5.0,5.0,3
-11121,58,1,no,Rarely,Special Event,Farm,No,44.880549539389634,3.0,3.0,4.0,3.0,4
-11122,62,4,yes,First visit,Education,Curiosity Museum,Yes,42.508448190365634,4.0,4.0,4.0,5.0,2
-11123,35,1,no,First visit,Family Time,Curiosity Museum,No,1.981163058732696,3.0,4.0,3.0,3.0,5
-11124,64,4,no,First visit,Family Time,Garden,No,23.357064276052228,4.0,2.0,4.0,4.0,5
-11125,53,6,no,Monthly,Entertainment,Events,Yes,26.239238353191766,3.0,3.0,3.0,4.0,5
-11126,64,5,no,Rarely,Special Event,Dinosaurs,No,6.037817129633953,4.0,3.0,4.0,3.0,3
-11127,39,3,no,First visit,Nature,Events,No,0.0,3.0,3.0,3.0,3.0,0
-11128,51,7,yes,Rarely,Special Event,Farm,No,14.815523260379136,5.0,3.0,5.0,5.0,4
-11129,64,5,no,Quarterly,Family Time,Events,Yes,12.407314877788336,3.0,2.0,4.0,4.0,3
-11130,25,1,yes,Quarterly,Nature,Farm,No,8.463532545440712,5.0,3.0,4.0,5.0,4
-11131,57,3,yes,First visit,Special Event,Farm,No,21.63475302246728,4.0,3.0,4.0,5.0,5
-11132,66,3,no,Weekly,Special Event,Dinosaurs,No,3.7390558949160186,5.0,4.0,5.0,5.0,2
-11133,61,1,yes,Rarely,Nature,Garden,No,0.0,5.0,3.0,5.0,5.0,5
-11134,36,7,yes,First visit,Family Time,Dinosaurs,No,16.63624455524748,5.0,3.0,5.0,5.0,3
-11135,59,4,no,Monthly,Special Event,Events,No,20.789551388533138,5.0,4.0,5.0,5.0,5
-11136,58,6,no,First visit,Nature,Farm,Yes,0.0,5.0,3.0,5.0,5.0,4
-11137,54,3,no,Monthly,Exhibits,Curiosity Museum,No,28.921359164866217,4.0,4.0,4.0,4.0,5
-11138,23,2,no,Weekly,Exhibits,Curiosity Museum,No,0.0,4.0,2.0,4.0,4.0,5
-11139,69,4,yes,Quarterly,Family Time,Farm,Yes,6.32829811926535,4.0,3.0,5.0,4.0,4
-11140,43,2,no,Quarterly,Nature,Dinosaurs,Yes,11.129871957035865,5.0,3.0,5.0,5.0,4
-11141,51,4,no,First visit,Exhibits,Garden,No,5.456644310221053,4.0,4.0,4.0,4.0,4
-11142,73,6,no,Monthly,Nature,Dinosaurs,No,6.524092896732113,5.0,3.0,5.0,5.0,5
-11143,62,4,no,Rarely,Special Event,Farm,Yes,43.06611723462171,4.0,4.0,4.0,5.0,5
-11144,23,5,yes,Quarterly,Family Time,Farm,No,2.23673866441652,5.0,2.0,5.0,4.0,5
-11145,54,3,no,Monthly,Exhibits,Garden,Yes,51.61832583707871,5.0,4.0,5.0,5.0,3
-11146,74,1,no,Weekly,Special Event,Events,No,21.556901695965777,4.0,3.0,4.0,4.0,1
-11147,50,2,yes,Quarterly,Education,Events,No,16.38082705967988,4.0,4.0,4.0,5.0,2
-11148,70,4,no,First visit,Education,Garden,No,22.14360530081499,3.0,2.0,2.0,3.0,1
-11149,39,1,no,Weekly,Family Time,Events,Yes,52.94891623877928,4.0,5.0,4.0,4.0,5
-11150,38,4,yes,Quarterly,Exhibits,Curiosity Museum,No,0.09610494102827993,4.0,2.0,4.0,4.0,3
-11151,23,4,no,Monthly,Exhibits,Events,Yes,0.0,3.0,3.0,4.0,4.0,3
-11152,23,4,no,Quarterly,Exhibits,Events,No,3.6770070514211834,4.0,5.0,4.0,4.0,5
-11153,72,3,no,First visit,Nature,Events,No,15.482147204468413,4.0,3.0,4.0,4.0,4
-11154,65,3,yes,Rarely,Special Event,Curiosity Museum,No,0.0,4.0,2.0,5.0,5.0,3
-11155,21,6,no,Quarterly,Exhibits,Events,Yes,15.33508858977912,4.0,4.0,4.0,3.0,4
-11156,47,5,yes,Quarterly,Special Event,Curiosity Museum,No,40.40320700120508,5.0,3.0,5.0,5.0,5
+11054,43,2,no,Rarely,Special Event,Farm,No,20.486399791393733,4.0,3.0,4.0,5.0,1
+11055,74,4,no,First visit,Entertainment,Dinosaurs,No,0.0,5.0,4.0,5.0,5.0,5
+11056,64,5,no,Monthly,Nature,Farm,Yes,0.0,3.0,4.0,3.0,3.0,4
+11057,74,4,yes,Quarterly,Entertainment,Farm,No,20.19175993196584,4.0,2.0,3.0,4.0,4
+11058,39,5,no,First visit,Nature,Garden,No,22.380214208503478,5.0,3.0,5.0,5.0,4
+11059,64,3,no,First visit,Entertainment,Dinosaurs,Yes,45.96330202278616,4.0,5.0,5.0,3.0,1
+11060,73,5,yes,Monthly,Nature,Curiosity Museum,Yes,17.37142313800215,5.0,4.0,5.0,4.0,5
+11061,47,3,yes,First visit,Entertainment,Curiosity Museum,Yes,27.296095758871424,3.0,4.0,3.0,3.0,3
+11062,60,6,yes,First visit,Entertainment,Events,No,12.067910346210393,4.0,3.0,4.0,4.0,2
+11063,65,5,no,Quarterly,Family Time,Farm,No,19.458408323776297,4.0,1.0,3.0,4.0,2
+11064,34,3,yes,First visit,Nature,Farm,Yes,40.00885262624301,4.0,4.0,5.0,4.0,2
+11065,43,1,yes,First visit,Nature,Dinosaurs,Yes,0.0,5.0,4.0,4.0,5.0,5
+11066,53,1,no,Quarterly,Nature,Curiosity Museum,No,21.204243863575208,5.0,3.0,5.0,5.0,5
+11067,18,4,yes,Monthly,Education,Events,No,47.033800951160494,5.0,2.0,5.0,4.0,3
+11068,25,3,yes,Quarterly,Entertainment,Dinosaurs,Yes,19.230513288140138,5.0,3.0,5.0,5.0,4
+11069,66,5,yes,Monthly,Nature,Farm,Yes,39.758594448492715,5.0,4.0,5.0,5.0,3
+11070,52,4,yes,Quarterly,Exhibits,Curiosity Museum,No,5.561817757058364,3.0,5.0,3.0,3.0,4
+11071,69,3,yes,Quarterly,Education,Events,Yes,14.519287587544298,3.0,5.0,2.0,3.0,2
+11072,32,2,no,Rarely,Family Time,Garden,Yes,15.502870535828812,5.0,3.0,5.0,4.0,5
+11073,64,2,yes,Quarterly,Nature,Curiosity Museum,No,0.0,3.0,4.0,2.0,3.0,5
+11074,73,6,yes,Weekly,Nature,Events,No,0.0,4.0,3.0,4.0,4.0,3
+11075,39,3,no,First visit,Education,Dinosaurs,Yes,0.0,5.0,3.0,5.0,5.0,4
+11076,31,5,no,Rarely,Entertainment,Garden,Yes,27.330991170487913,4.0,3.0,3.0,5.0,2
+11077,43,6,no,Rarely,Exhibits,Events,Yes,28.082296585260824,4.0,4.0,4.0,4.0,3
+11078,45,5,no,First visit,Family Time,Events,Yes,19.860546640598,5.0,5.0,5.0,4.0,5
+11079,40,6,yes,First visit,Nature,Farm,No,27.361543452835587,4.0,3.0,5.0,4.0,2
+11080,31,4,no,Quarterly,Entertainment,Curiosity Museum,No,12.537758809173392,5.0,3.0,5.0,5.0,4
+11081,41,7,no,Weekly,Exhibits,Farm,No,33.02897504309315,4.0,4.0,4.0,3.0,2
+11082,19,2,no,Rarely,Exhibits,Garden,No,15.131826639481078,5.0,4.0,5.0,5.0,5
+11083,62,2,no,First visit,Family Time,Events,No,15.867960711401347,5.0,4.0,5.0,5.0,3
+11084,43,5,yes,First visit,Special Event,Farm,Yes,11.01611050106383,4.0,3.0,4.0,4.0,4
+11085,31,6,no,Monthly,Exhibits,Curiosity Museum,No,25.26675716454642,4.0,3.0,5.0,3.0,5
+11086,73,6,yes,Rarely,Special Event,Garden,No,8.682017750806303,3.0,2.0,2.0,3.0,1
+11087,68,1,no,First visit,Exhibits,Dinosaurs,No,29.646470657971022,4.0,3.0,5.0,4.0,3
+11088,24,3,no,Rarely,Family Time,Farm,Yes,0.0,5.0,4.0,4.0,5.0,3
+11089,20,6,no,First visit,Education,Garden,No,0.0,3.0,3.0,3.0,3.0,2
+11090,64,3,yes,Rarely,Family Time,Dinosaurs,No,25.311401326897563,4.0,3.0,3.0,4.0,5
+11091,40,5,no,Monthly,Family Time,Farm,No,13.67183678125481,4.0,2.0,5.0,4.0,2
+11092,63,6,no,Quarterly,Education,Garden,Yes,8.191628757703075,5.0,2.0,5.0,5.0,5
+11093,60,4,no,Quarterly,Education,Garden,No,28.350865987131897,4.0,3.0,4.0,4.0,2
+11094,64,4,no,Rarely,Entertainment,Farm,No,5.891078788708733,3.0,3.0,3.0,2.0,3
+11095,62,4,no,Quarterly,Exhibits,Garden,No,11.996981185494452,5.0,3.0,5.0,5.0,5
+11096,35,3,no,Quarterly,Entertainment,Events,No,35.98841925106739,5.0,4.0,5.0,4.0,5
+11097,55,6,yes,First visit,Education,Farm,Yes,38.08713518715975,4.0,3.0,5.0,4.0,2
+11098,52,4,no,Quarterly,Special Event,Garden,Yes,38.585973154054905,5.0,5.0,5.0,4.0,3
+11099,68,6,yes,First visit,Special Event,Dinosaurs,Yes,10.768113345991331,4.0,5.0,4.0,3.0,3
+11100,32,2,no,Quarterly,Family Time,Dinosaurs,No,33.46054357476705,5.0,2.0,5.0,5.0,5
+11101,42,7,no,Rarely,Nature,Events,Yes,0.7657075834698307,4.0,4.0,4.0,4.0,0
+11102,72,4,no,Weekly,Family Time,Farm,No,1.3964568791690883,4.0,3.0,4.0,5.0,1
+11103,54,1,yes,First visit,Family Time,Garden,No,0.0,5.0,1.0,5.0,5.0,5
+11104,45,1,no,Quarterly,Nature,Garden,Yes,40.09302302847795,4.0,3.0,4.0,4.0,5
+11105,27,5,no,Quarterly,Exhibits,Dinosaurs,No,2.040302263858826,5.0,4.0,5.0,5.0,2
+11106,56,5,no,Quarterly,Education,Events,No,13.1020113037941,4.0,5.0,5.0,5.0,5
+11107,74,6,no,First visit,Special Event,Dinosaurs,No,1.3451348710757411,3.0,4.0,2.0,3.0,2
+11108,34,2,yes,Rarely,Family Time,Dinosaurs,No,25.427478724952106,5.0,3.0,5.0,4.0,5
+11109,56,1,no,Quarterly,Nature,Events,No,9.365495089239898,4.0,3.0,4.0,4.0,4
+11110,39,4,no,First visit,Entertainment,Farm,Yes,0.0,4.0,5.0,4.0,4.0,2
+11111,43,4,yes,First visit,Family Time,Garden,No,21.624938462790908,5.0,5.0,5.0,5.0,5
+11112,61,4,yes,Quarterly,Special Event,Farm,Yes,0.0,5.0,3.0,5.0,5.0,3
+11113,42,8,no,Rarely,Education,Curiosity Museum,No,2.4389141202676305,5.0,2.0,5.0,5.0,4
+11114,34,7,no,First visit,Family Time,Curiosity Museum,Yes,0.0,4.0,2.0,4.0,4.0,1
+11115,30,6,no,First visit,Family Time,Curiosity Museum,No,0.0,4.0,4.0,4.0,4.0,3
+11116,37,5,no,First visit,Exhibits,Events,No,17.67793754580717,5.0,3.0,4.0,5.0,4
+11117,42,4,yes,Quarterly,Nature,Dinosaurs,No,0.0,3.0,3.0,3.0,3.0,3
+11118,21,4,yes,Quarterly,Entertainment,Farm,Yes,0.0,4.0,2.0,3.0,4.0,2
+11119,27,4,yes,Quarterly,Entertainment,Garden,No,14.96446625800788,4.0,3.0,4.0,3.0,5
+11120,20,6,yes,Weekly,Education,Curiosity Museum,No,6.8458965586042115,5.0,3.0,5.0,5.0,1
+11121,58,1,no,Rarely,Special Event,Farm,No,44.880549539389634,4.0,3.0,4.0,4.0,2
+11122,62,4,yes,First visit,Education,Curiosity Museum,Yes,42.508448190365634,4.0,3.0,5.0,3.0,1
+11123,35,1,no,First visit,Family Time,Curiosity Museum,No,1.981163058732696,4.0,2.0,4.0,4.0,5
+11124,64,4,no,First visit,Family Time,Garden,No,23.357064276052228,3.0,3.0,3.0,3.0,1
+11125,53,6,no,Monthly,Entertainment,Events,Yes,26.239238353191766,5.0,5.0,5.0,5.0,2
+11126,64,5,no,Rarely,Special Event,Dinosaurs,No,6.037817129633953,5.0,3.0,5.0,5.0,5
+11127,39,3,no,First visit,Nature,Events,No,0.0,3.0,4.0,3.0,3.0,3
+11128,51,7,yes,Rarely,Special Event,Farm,No,14.815523260379136,5.0,2.0,4.0,5.0,2
+11129,64,5,no,Quarterly,Family Time,Events,Yes,12.407314877788336,5.0,1.0,4.0,5.0,3
+11130,25,1,yes,Quarterly,Nature,Farm,No,8.463532545440712,4.0,3.0,4.0,4.0,2
+11131,57,3,yes,First visit,Special Event,Farm,No,21.63475302246728,5.0,3.0,5.0,5.0,5
+11132,66,3,no,Weekly,Special Event,Dinosaurs,No,3.7390558949160186,5.0,3.0,5.0,5.0,5
+11133,61,1,yes,Rarely,Nature,Garden,No,0.0,5.0,5.0,4.0,5.0,3
+11134,36,7,yes,First visit,Family Time,Dinosaurs,No,16.63624455524748,4.0,4.0,4.0,4.0,5
+11135,59,4,no,Monthly,Special Event,Events,No,20.789551388533138,4.0,5.0,5.0,4.0,0
+11136,58,6,no,First visit,Nature,Farm,Yes,0.0,4.0,4.0,4.0,4.0,4
+11137,54,3,no,Monthly,Exhibits,Curiosity Museum,No,28.921359164866217,3.0,3.0,4.0,2.0,3
+11138,23,2,no,Weekly,Exhibits,Curiosity Museum,No,0.0,5.0,3.0,5.0,4.0,1
+11139,69,4,yes,Quarterly,Family Time,Farm,Yes,6.32829811926535,3.0,5.0,2.0,3.0,3
+11140,43,2,no,Quarterly,Nature,Dinosaurs,Yes,11.129871957035865,4.0,5.0,4.0,3.0,3
+11141,51,4,no,First visit,Exhibits,Garden,No,5.456644310221053,4.0,3.0,3.0,4.0,5
+11142,73,6,no,Monthly,Nature,Dinosaurs,No,6.524092896732113,4.0,3.0,4.0,4.0,5
+11143,62,4,no,Rarely,Special Event,Farm,Yes,43.06611723462171,5.0,3.0,5.0,5.0,3
+11144,23,5,yes,Quarterly,Family Time,Farm,No,2.23673866441652,4.0,4.0,4.0,4.0,4
+11145,54,3,no,Monthly,Exhibits,Garden,Yes,51.61832583707871,5.0,5.0,5.0,5.0,5
+11146,74,1,no,Weekly,Special Event,Events,No,21.556901695965777,4.0,3.0,4.0,5.0,3
+11147,50,2,yes,Quarterly,Education,Events,No,16.38082705967988,5.0,3.0,5.0,5.0,5
+11148,70,4,no,First visit,Education,Garden,No,22.14360530081499,5.0,3.0,5.0,5.0,4
+11149,39,1,no,Weekly,Family Time,Events,Yes,52.94891623877928,4.0,4.0,2.0,4.0,5
+11150,38,4,yes,Quarterly,Exhibits,Curiosity Museum,No,0.09610494102827993,4.0,3.0,5.0,3.0,2
+11151,23,4,no,Monthly,Exhibits,Events,Yes,0.0,5.0,4.0,5.0,5.0,5
+11152,23,4,no,Quarterly,Exhibits,Events,No,3.6770070514211834,5.0,3.0,5.0,5.0,5
+11153,72,3,no,First visit,Nature,Events,No,15.482147204468413,4.0,4.0,3.0,5.0,2
+11154,65,3,yes,Rarely,Special Event,Curiosity Museum,No,0.0,4.0,4.0,4.0,4.0,2
+11155,21,6,no,Quarterly,Exhibits,Events,Yes,15.33508858977912,4.0,3.0,4.0,3.0,2
+11156,47,5,yes,Quarterly,Special Event,Curiosity Museum,No,40.40320700120508,5.0,2.0,4.0,5.0,4
 11157,28,4,no,First visit,Family Time,Garden,No,17.27111085937166,5.0,3.0,5.0,5.0,5
-11158,47,1,yes,Quarterly,Exhibits,Dinosaurs,Yes,10.609718115370852,5.0,3.0,5.0,5.0,5
-11159,48,8,no,First visit,Family Time,Garden,No,5.727593269745589,4.0,5.0,4.0,4.0,3
-11160,41,5,no,Quarterly,Exhibits,Dinosaurs,No,28.47767556827347,4.0,3.0,5.0,4.0,3
-11161,72,3,no,Rarely,Education,Garden,No,2.6125084014292876,5.0,2.0,4.0,5.0,4
-11162,26,6,no,First visit,Entertainment,Dinosaurs,No,42.695938808988714,5.0,4.0,5.0,5.0,5
-11163,72,3,no,First visit,Family Time,Dinosaurs,No,44.000396215715355,3.0,4.0,3.0,4.0,4
-11164,20,4,no,First visit,Exhibits,Farm,Yes,18.851261979926814,5.0,3.0,5.0,5.0,5
-11165,68,5,yes,Rarely,Entertainment,Dinosaurs,No,14.827273678850323,4.0,2.0,4.0,4.0,4
-11166,48,3,no,First visit,Family Time,Dinosaurs,No,30.459897123623392,5.0,4.0,5.0,5.0,5
-11167,57,7,yes,First visit,Nature,Farm,Yes,31.421977533409876,5.0,4.0,5.0,5.0,5
-11168,54,5,no,Monthly,Exhibits,Events,No,2.9101240341087697,5.0,2.0,5.0,5.0,5
-11169,53,4,yes,Monthly,Nature,Events,No,7.10167300294947,4.0,5.0,5.0,4.0,2
-11170,41,3,no,Rarely,Education,Farm,No,0.0,4.0,3.0,4.0,3.0,5
-11171,48,1,no,Weekly,Exhibits,Curiosity Museum,Yes,21.135974075010857,5.0,5.0,5.0,4.0,4
-11172,23,3,no,First visit,Education,Dinosaurs,Yes,24.99941825185336,5.0,5.0,5.0,5.0,5
-11173,19,5,yes,Quarterly,Entertainment,Dinosaurs,No,0.0,4.0,2.0,4.0,3.0,4
-11174,37,3,no,Quarterly,Family Time,Farm,Yes,8.172016427757613,4.0,5.0,4.0,5.0,5
-11175,45,4,no,Rarely,Special Event,Farm,No,0.0,3.0,3.0,3.0,2.0,4
-11176,28,5,no,Rarely,Education,Curiosity Museum,Yes,1.5180028463424327,5.0,2.0,4.0,5.0,4
-11177,21,2,no,Rarely,Special Event,Events,Yes,23.265255903394493,4.0,3.0,4.0,4.0,3
-11178,32,5,no,Rarely,Special Event,Garden,No,3.9977689998258086,5.0,4.0,5.0,5.0,4
-11179,23,1,no,Quarterly,Family Time,Events,Yes,10.48761065951552,5.0,3.0,5.0,4.0,5
-11180,71,7,no,First visit,Entertainment,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,5
-11181,66,4,no,First visit,Family Time,Farm,No,17.804853145869963,4.0,4.0,5.0,4.0,3
-11182,47,3,no,First visit,Exhibits,Curiosity Museum,Yes,14.335900202330267,5.0,4.0,5.0,5.0,5
-11183,73,3,yes,First visit,Education,Events,Yes,4.065611249502567,4.0,3.0,3.0,5.0,2
-11184,55,4,yes,Rarely,Special Event,Curiosity Museum,No,12.164785534762888,5.0,4.0,5.0,5.0,5
-11185,68,5,yes,First visit,Family Time,Events,Yes,17.704423207551667,3.0,4.0,3.0,4.0,4
-11186,74,5,yes,Monthly,Family Time,Dinosaurs,No,2.7769777663598383,5.0,1.0,5.0,5.0,5
-11187,19,5,no,First visit,Family Time,Garden,No,0.0,2.0,4.0,2.0,3.0,1
-11188,32,2,no,First visit,Education,Curiosity Museum,No,42.08361649030223,5.0,4.0,5.0,4.0,5
-11189,28,3,yes,Quarterly,Entertainment,Curiosity Museum,No,5.50090942934591,5.0,3.0,5.0,5.0,4
-11190,25,1,no,First visit,Family Time,Garden,No,13.54859845219666,4.0,4.0,4.0,5.0,5
-11191,43,4,yes,Quarterly,Education,Curiosity Museum,No,30.162596025304705,4.0,3.0,3.0,4.0,4
-11192,68,6,no,Quarterly,Special Event,Curiosity Museum,Yes,67.93582781355727,5.0,4.0,5.0,5.0,3
-11193,62,4,no,First visit,Exhibits,Events,Yes,0.0,5.0,3.0,4.0,5.0,5
-11194,61,3,no,First visit,Nature,Events,Yes,21.74740820589765,4.0,4.0,4.0,4.0,3
-11195,22,4,yes,Rarely,Education,Garden,No,4.3867157205884055,5.0,5.0,5.0,5.0,5
-11196,23,6,no,First visit,Nature,Dinosaurs,No,6.918145431349338,5.0,2.0,5.0,4.0,5
-11197,43,5,no,First visit,Family Time,Curiosity Museum,No,4.196819684898151,5.0,3.0,4.0,5.0,1
-11198,71,6,no,First visit,Family Time,Dinosaurs,Yes,0.0,5.0,3.0,5.0,4.0,5
-11199,21,3,no,First visit,Education,Garden,No,14.38062957323008,4.0,3.0,5.0,4.0,2
-11200,36,3,no,Rarely,Nature,Garden,No,0.0,5.0,2.0,5.0,4.0,5
+11158,47,1,yes,Quarterly,Exhibits,Dinosaurs,Yes,10.609718115370852,5.0,4.0,5.0,5.0,3
+11159,48,8,no,First visit,Family Time,Garden,No,5.727593269745589,4.0,3.0,3.0,4.0,1
+11160,41,5,no,Quarterly,Exhibits,Dinosaurs,No,28.47767556827347,5.0,3.0,5.0,5.0,5
+11161,72,3,no,Rarely,Education,Garden,No,2.6125084014292876,4.0,3.0,5.0,4.0,2
+11162,26,6,no,First visit,Entertainment,Dinosaurs,No,42.695938808988714,5.0,3.0,5.0,5.0,5
+11163,72,3,no,First visit,Family Time,Dinosaurs,No,44.000396215715355,4.0,4.0,4.0,5.0,5
+11164,20,4,no,First visit,Exhibits,Farm,Yes,18.851261979926814,5.0,4.0,5.0,5.0,3
+11165,68,5,yes,Rarely,Entertainment,Dinosaurs,No,14.827273678850323,2.0,3.0,2.0,1.0,3
+11166,48,3,no,First visit,Family Time,Dinosaurs,No,30.459897123623392,4.0,3.0,5.0,4.0,4
+11167,57,7,yes,First visit,Nature,Farm,Yes,31.421977533409876,5.0,5.0,5.0,5.0,4
+11168,54,5,no,Monthly,Exhibits,Events,No,2.9101240341087697,3.0,3.0,2.0,3.0,3
+11169,53,4,yes,Monthly,Nature,Events,No,7.10167300294947,5.0,4.0,5.0,5.0,5
+11170,41,3,no,Rarely,Education,Farm,No,0.0,4.0,3.0,4.0,4.0,3
+11171,48,1,no,Weekly,Exhibits,Curiosity Museum,Yes,21.135974075010857,4.0,4.0,4.0,4.0,5
+11172,23,3,no,First visit,Education,Dinosaurs,Yes,24.99941825185336,5.0,3.0,5.0,4.0,5
+11173,19,5,yes,Quarterly,Entertainment,Dinosaurs,No,0.0,5.0,3.0,5.0,5.0,4
+11174,37,3,no,Quarterly,Family Time,Farm,Yes,8.172016427757613,3.0,5.0,3.0,3.0,2
+11175,45,4,no,Rarely,Special Event,Farm,No,0.0,4.0,2.0,4.0,4.0,5
+11176,28,5,no,Rarely,Education,Curiosity Museum,Yes,1.5180028463424327,5.0,3.0,5.0,5.0,5
+11177,21,2,no,Rarely,Special Event,Events,Yes,23.265255903394493,5.0,3.0,4.0,5.0,5
+11178,32,5,no,Rarely,Special Event,Garden,No,3.9977689998258086,5.0,2.0,4.0,5.0,3
+11179,23,1,no,Quarterly,Family Time,Events,Yes,10.48761065951552,5.0,4.0,5.0,5.0,5
+11180,71,7,no,First visit,Entertainment,Dinosaurs,No,0.0,5.0,2.0,5.0,5.0,5
+11181,66,4,no,First visit,Family Time,Farm,No,17.804853145869963,5.0,3.0,5.0,5.0,5
+11182,47,3,no,First visit,Exhibits,Curiosity Museum,Yes,14.335900202330267,5.0,4.0,5.0,5.0,4
+11183,73,3,yes,First visit,Education,Events,Yes,4.065611249502567,4.0,4.0,4.0,3.0,4
+11184,55,4,yes,Rarely,Special Event,Curiosity Museum,No,12.164785534762888,4.0,3.0,4.0,4.0,5
+11185,68,5,yes,First visit,Family Time,Events,Yes,17.704423207551667,3.0,4.0,4.0,3.0,5
+11186,74,5,yes,Monthly,Family Time,Dinosaurs,No,2.7769777663598383,5.0,3.0,5.0,5.0,5
+11187,19,5,no,First visit,Family Time,Garden,No,0.0,5.0,3.0,5.0,5.0,3
+11188,32,2,no,First visit,Education,Curiosity Museum,No,42.08361649030223,4.0,3.0,4.0,4.0,5
+11189,28,3,yes,Quarterly,Entertainment,Curiosity Museum,No,5.50090942934591,4.0,5.0,3.0,4.0,2
+11190,25,1,no,First visit,Family Time,Garden,No,13.54859845219666,5.0,4.0,5.0,5.0,5
+11191,43,4,yes,Quarterly,Education,Curiosity Museum,No,30.162596025304705,4.0,5.0,4.0,4.0,3
+11192,68,6,no,Quarterly,Special Event,Curiosity Museum,Yes,67.93582781355727,4.0,3.0,4.0,4.0,5
+11193,62,4,no,First visit,Exhibits,Events,Yes,0.0,4.0,4.0,4.0,3.0,4
+11194,61,3,no,First visit,Nature,Events,Yes,21.74740820589765,4.0,3.0,4.0,4.0,4
+11195,22,4,yes,Rarely,Education,Garden,No,4.3867157205884055,4.0,3.0,5.0,4.0,5
+11196,23,6,no,First visit,Nature,Dinosaurs,No,6.918145431349338,4.0,5.0,4.0,4.0,2
+11197,43,5,no,First visit,Family Time,Curiosity Museum,No,4.196819684898151,5.0,3.0,5.0,5.0,3
+11198,71,6,no,First visit,Family Time,Dinosaurs,Yes,0.0,5.0,5.0,5.0,5.0,5
+11199,21,3,no,First visit,Education,Garden,No,14.38062957323008,5.0,2.0,5.0,5.0,5
+11200,36,3,no,Rarely,Nature,Garden,No,0.0,5.0,2.0,5.0,4.0,3
