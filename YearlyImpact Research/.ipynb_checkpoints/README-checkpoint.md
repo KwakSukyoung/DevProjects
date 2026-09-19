@@ -265,6 +265,7 @@ thanksgiving-point-family-impact/
 ---
 
 ## Additional Research:
-1) Do the research for senior field trips
+1) Do research seniors, no children couples
 2) Apply observation research in the field with their behavior
 3) Analyze qaulitative comments
+4) How does thanksgiving point affect people on holidays
