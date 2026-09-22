@@ -269,3 +269,20 @@ thanksgiving-point-family-impact/
 2) Apply observation research in the field with their behavior
 3) Analyze qaulitative comments
 4) How does thanksgiving point affect people on holidays
+
+## Current Project Status
+
+Status: In Progress
+
+This project is an ongoing personal research study using synthetic data to explore how visit frequency may be associated with children's learning and behavioral outcomes at Thanksgiving Point.
+
+### Completed Work
+
+* Designed a relational SQL database containing household, child, visit, and survey data.
+
+* Generated synthetic data to simulate visitor experiences over a 12-month period.
+
+* Performed exploratory data analysis (EDA), including data cleaning, distribution analysis, and visitor group comparisons.
+
+* Conducted preliminary statistical analyses to compare changes in learning, curiosity, confidence, and social interaction between frequent and infrequent visitors.
+
